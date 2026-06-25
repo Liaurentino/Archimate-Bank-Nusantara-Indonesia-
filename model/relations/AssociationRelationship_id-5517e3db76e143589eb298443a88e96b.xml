@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5517e3db76e143589eb298443a88e96b"
+    documentation="Manajemen menghadapi tekanan kompetitif dari fintech dan bank digital.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-d9a7aa6b61a94419b47059163eb6e588.xml#id-d9a7aa6b61a94419b47059163eb6e588"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-2b1bd317f5f24da580fa7d5f56a73f0a.xml#id-2b1bd317f5f24da580fa7d5f56a73f0a"/>
+</archimate:AssociationRelationship>

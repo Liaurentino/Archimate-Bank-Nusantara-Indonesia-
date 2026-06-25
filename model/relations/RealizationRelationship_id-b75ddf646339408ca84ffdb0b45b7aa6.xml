@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b75ddf646339408ca84ffdb0b45b7aa6"
+    documentation="Standar terbuka mendukung penerapan mekanisme keamanan yang konsisten.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-2b98dff56b62414ba73eeb6bfadb2d8b.xml#id-2b98dff56b62414ba73eeb6bfadb2d8b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cd2940978b5340f6a66c8bc396c46f2f"
+    documentation="Pelaporan kepatuhan menggunakan format dan standar yang dapat diterima regulator dan pihak terkait.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-837b25a73e1d450e98781cc691bcce5b.xml#id-837b25a73e1d450e98781cc691bcce5b"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-2b98dff56b62414ba73eeb6bfadb2d8b.xml#id-2b98dff56b62414ba73eeb6bfadb2d8b"/>
+</archimate:RealizationRelationship>

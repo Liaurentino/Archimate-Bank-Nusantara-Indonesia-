@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centralized Customer Data Management"
+    id="id-8e251380ccb34835a71583d775a00606"
+    documentation="Harus tersedia platform pengelolaan data nasabah terpusat sebagai sumber data utama yang digunakan oleh seluruh aplikasi dan layanan."/>

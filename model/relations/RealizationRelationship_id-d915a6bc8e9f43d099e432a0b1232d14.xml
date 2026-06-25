@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d915a6bc8e9f43d099e432a0b1232d14"
+    documentation="Memungkinkan penilaian kredit dilakukan secara otomatis dan lebih cepat.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b8df6f8fc110497dac8b167747f0f403.xml#id-b8df6f8fc110497dac8b167747f0f403"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

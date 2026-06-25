@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-579b909543134289954e59cbcf017491"
+    documentation="Data nasabah harus disimpan dan dikelola sesuai ketentuan lokasi penyimpanan data yang berlaku.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-be95807c0b784be99020a12ecee5ede2.xml#id-be95807c0b784be99020a12ecee5ede2"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8e251380ccb34835a71583d775a00606.xml#id-8e251380ccb34835a71583d775a00606"/>
+</archimate:InfluenceRelationship>

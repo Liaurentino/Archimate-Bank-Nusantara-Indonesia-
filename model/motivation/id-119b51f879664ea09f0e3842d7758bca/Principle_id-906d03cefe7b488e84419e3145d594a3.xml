@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT systems are scalable"
+    id="id-906d03cefe7b488e84419e3145d594a3"
+    documentation="CBS baru dan payment gateway dibangun di atas Kubernetes sehingga bisa scale horizontal saat volume transaksi melonjak di hari gajian atau harbolnas tanpa perlu maintenance window"/>

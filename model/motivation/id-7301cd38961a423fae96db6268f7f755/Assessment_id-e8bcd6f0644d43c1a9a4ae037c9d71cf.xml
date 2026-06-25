@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch-Based Fraud Monitoring"
+    id="id-e8bcd6f0644d43c1a9a4ae037c9d71cf"
+    documentation="Proses pemantauan transaksi mencurigakan masih dilakukan secara periodik sehingga potensi fraud tidak dapat dicegah secara langsung saat transaksi berlangsung."/>

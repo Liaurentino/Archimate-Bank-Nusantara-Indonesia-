@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d54d90fd885f49a480cd47d9f8f8f0f0"
+    documentation="Tim teknis bertanggung jawab mengembangkan dan memelihara layanan onboarding digital.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-5c3f4ef5701a4d4f927f8093ebd40f1b.xml#id-5c3f4ef5701a4d4f927f8093ebd40f1b"/>
+</archimate:AssignmentRelationship>

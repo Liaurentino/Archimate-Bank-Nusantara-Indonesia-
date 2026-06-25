@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8b0aec5f9a0f43589beeecabc8950cf5"
+    documentation="Pelaporan AML harus mengikuti standar dan ketentuan yang ditetapkan regulator.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-9df699fad99f4f7bb95f8b6d70127d2f.xml#id-9df699fad99f4f7bb95f8b6d70127d2f"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-837b25a73e1d450e98781cc691bcce5b.xml#id-837b25a73e1d450e98781cc691bcce5b"/>
+</archimate:InfluenceRelationship>
