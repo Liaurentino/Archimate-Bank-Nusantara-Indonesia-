@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Record"
+    id="id-662aca402c194150b40a2bafca802fe0"
+    documentation="Elemen ini merepresentasikan objek data bisnis logis perbankan yang mencatat nomor rekening resmi nasabah, status keaktifan finansial akun, pembukuan saldo berjalan, dan mutasi saldo produk. Entitas informasi transaksional ini dikelola secara intensif lintas aktivitas melalui hubungan relasi Access oleh dua proses bisnis inti. Proses Set Up and Activate an Account memiliki hak menulis dan mendaftarkan entitas nomor rekening baru ke dalam sistem pembukuan pusat bank, sedangkan proses Account Lifecycle Management melakukan pembaruan berkala atas kalkulasi biaya operasional harian saldo. Objek data ini menjamin tingkat akurasi akuntansi dana nasabah secara seketika di seluruh kanal akses. Nilai bisnis yang dihadirkan adalah stabilitas integritas data keuangan bank dan kecepatan sinkronisasi saldo yang melindungi hak finansial nasabah. Posisi elemen ini berada pada lapisan dasar persistensi data akun dalam kerangka arsitektur bisnis target BNI.  "/>
