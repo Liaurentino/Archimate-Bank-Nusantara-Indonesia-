@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-553620cda4c14260b118b7db1dfd82cf"
       name="Device"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#80ffff">
     <bounds
         x="-48"
         y="24"
@@ -174,7 +175,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-d19b0eb4486c4c17a92f2358dce21448"
       name="Communication Network"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#0080ff">
     <bounds
         x="-48"
         y="204"
@@ -393,7 +395,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-f45448a7655b4a7a93ca5cbde0f31abc"
       name="Nodes - Cloud Infrastructure"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#00ff00">
     <bounds
         x="-48"
         y="384"
@@ -1024,7 +1027,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-3266905b52694ba1a10eec710f39df87"
       name="System Software"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ff80c0">
     <bounds
         x="-48"
         y="588"
@@ -1178,7 +1182,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-228b123d9dba4f11b17418dd9f81be90"
       name="Artifact"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffff80">
     <bounds
         x="1740"
         y="24"
