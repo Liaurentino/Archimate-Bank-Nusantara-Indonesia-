@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-42607e44fe9f48ea9ac9c4e3d63abfe4"
+    documentation="Akses API regulator dan layanan identitas digital digunakan untuk mendukung proses verifikasi nasabah secara digital.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-0e13faf266454ca8bf9a2549fbe104e5.xml#id-0e13faf266454ca8bf9a2549fbe104e5"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-5c3f4ef5701a4d4f927f8093ebd40f1b.xml#id-5c3f4ef5701a4d4f927f8093ebd40f1b"/>
+</archimate:AssignmentRelationship>

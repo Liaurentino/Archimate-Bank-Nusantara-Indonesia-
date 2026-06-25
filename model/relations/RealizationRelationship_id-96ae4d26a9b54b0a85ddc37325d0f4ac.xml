@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-96ae4d26a9b54b0a85ddc37325d0f4ac"
+    documentation="Strategi omnichannel diterapkan untuk memberikan pengalaman layanan yang konsisten di seluruh kanal interaksi pelanggan.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-7976a103bdb84ffbaabfb10f41399e69.xml#id-7976a103bdb84ffbaabfb10f41399e69"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b41de15f5a184ec58e0a1df32d187229"
+    documentation="Sistem eKYC memproses verifikasi di alur registrasi">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9cbb290d954440d4a197534fbaf22e37.xml#id-9cbb290d954440d4a197534fbaf22e37"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-df73db5bd9e9499db003298fae4a7f3a.xml#id-df73db5bd9e9499db003298fae4a7f3a"/>
+</archimate:ServingRelationship>

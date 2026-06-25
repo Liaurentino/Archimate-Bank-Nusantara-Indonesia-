@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT systems communicate through services"
+    id="id-b8356ed631dc4d659eb9a1a8e052f3b0"
+    documentation="CBS, CRM, Fraud Detection, dan Loan System hanya boleh berkomunikasi melalui API Gateway terpusat. Tidak ada koneksi point-to-point langsung antar sistem"/>

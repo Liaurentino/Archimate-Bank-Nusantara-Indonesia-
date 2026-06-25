@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5848fda5bbe8411fba95cf80fb94994d"
+    documentation="Otoritas pengawas mengharuskan implementasi kontrol AML dan pelaporan transaksi.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-ee0896303b714ab5bd8b726499549b47.xml#id-ee0896303b714ab5bd8b726499549b47"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-d14ed4e59bed47e1a5b78f50d520dc37.xml#id-d14ed4e59bed47e1a5b78f50d520dc37"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6867b6eb79cc464899803599fe7ff5e5"
+    documentation="Verifikasi identitas memerlukan interoperabilitas dengan Dukcapil dan sistem eksternal lainnya.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-392c9b1c856041dca1466e103e68eab9.xml#id-392c9b1c856041dca1466e103e68eab9"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-42306723ad604a609300cee6a6bf681d.xml#id-42306723ad604a609300cee6a6bf681d"/>
+</archimate:RealizationRelationship>

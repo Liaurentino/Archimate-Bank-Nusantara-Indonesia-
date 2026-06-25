@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c08c40155b474b65995ab6621921ced8"
+    documentation="Pemisahan lapisan aplikasi mendukung penerapan kontrol keamanan yang lebih efektif dan terstruktur.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-573366398be2431784f1b3e61489979e.xml#id-573366398be2431784f1b3e61489979e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Slip"
+    id="id-bb00000000000020"
+    documentation="Slip setoran atau penarikan kertas sebagai bukti transaksi di konter teller. Disimpan sebagai arsip fisik."/>

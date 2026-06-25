@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-65478f6c00fd4f32b18007e3f1fd326e"
+    documentation="Cloud lokal/on-premise melayani keandalan database CBS">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ae3b0126ba3b4690af0720badf1f8081.xml#id-ae3b0126ba3b4690af0720badf1f8081"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8056fd17eee943729892b2a6b224f5c3.xml#id-8056fd17eee943729892b2a6b224f5c3"/>
+</archimate:ServingRelationship>

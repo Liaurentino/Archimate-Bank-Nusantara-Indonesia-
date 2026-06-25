@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-38912419643747b9833cbd7e19772061"
+    documentation="Pemisahan komponen spesifik kanal memungkinkan layanan diberikan secara konsisten pada berbagai kanal digital.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-dbc870a2c87f4ba99cecb77bdbe97a0b.xml#id-dbc870a2c87f4ba99cecb77bdbe97a0b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

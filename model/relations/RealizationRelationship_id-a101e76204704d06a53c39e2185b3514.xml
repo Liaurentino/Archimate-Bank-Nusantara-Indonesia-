@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a101e76204704d06a53c39e2185b3514"
+    documentation="Alur registrasi mewujudkan layanan pembukaan rekening">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-df73db5bd9e9499db003298fae4a7f3a.xml#id-df73db5bd9e9499db003298fae4a7f3a"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bddbe1bd106f403fbf46c0d4c2098c7f.xml#id-bddbe1bd106f403fbf46c0d4c2098c7f"/>
+</archimate:RealizationRelationship>

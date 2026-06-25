@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1b05b0c282c34707a6f7049e42b7eb28"
+    documentation="Data transaksi digunakan untuk mendeteksi pola fraud dan aktivitas mencurigakan.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-4f6ee8d82cd244d4b551aab6ad7f2ec4.xml#id-4f6ee8d82cd244d4b551aab6ad7f2ec4"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-7f03ef0757a644589a79b84836da1162.xml#id-7f03ef0757a644589a79b84836da1162"/>
+</archimate:AssignmentRelationship>

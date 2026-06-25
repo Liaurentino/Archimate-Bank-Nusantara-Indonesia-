@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-52c2d59fbc824bb3b9b87d5bdfd4aebc"
+    documentation="Regulator menuntut kepatuhan terhadap ketentuan perbankan digital.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-94ca5b8692e24fd6b043426a1f82f6c0.xml#id-94ca5b8692e24fd6b043426a1f82f6c0"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:AssociationRelationship>

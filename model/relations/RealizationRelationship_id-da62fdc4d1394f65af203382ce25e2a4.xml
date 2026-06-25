@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-da62fdc4d1394f65af203382ce25e2a4"
+    documentation="Alur penilaian otomatis mewujudkan layanan kredit">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-12df1984a67b4852a7c175d363804de2.xml#id-12df1984a67b4852a7c175d363804de2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-5d622c786d4b4f65809305296d7ed62d.xml#id-5d622c786d4b4f65809305296d7ed62d"/>
+</archimate:RealizationRelationship>

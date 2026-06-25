@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-95cf3e5433654aa08fa44111e952bdce"
+    documentation="Infrastruktur cloud meng-host frontend Super App">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-59bb705779a949ea96e3a9a20ac4aece.xml#id-59bb705779a949ea96e3a9a20ac4aece"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f554d7fef98c48e7b94d518795e55009.xml#id-f554d7fef98c48e7b94d518795e55009"/>
+</archimate:ServingRelationship>

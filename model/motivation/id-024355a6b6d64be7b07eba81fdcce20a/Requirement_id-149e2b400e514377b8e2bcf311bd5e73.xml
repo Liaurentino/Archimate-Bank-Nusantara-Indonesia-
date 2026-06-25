@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real-Time Fraud Detection Capability"
+    id="id-149e2b400e514377b8e2bcf311bd5e73"
+    documentation="Sistem harus mampu mendeteksi dan merespons indikasi fraud secara real-time selama proses transaksi berlangsung."/>

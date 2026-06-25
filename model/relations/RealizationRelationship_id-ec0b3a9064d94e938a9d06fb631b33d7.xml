@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ec0b3a9064d94e938a9d06fb631b33d7"
+    documentation="Modernisasi core banking dilakukan untuk mendukung penerapan kontrol dan proses kepatuhan yang lebih efektif.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-8e516892f31f4db68f5997def6ed1953.xml#id-8e516892f31f4db68f5997def6ed1953"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:RealizationRelationship>

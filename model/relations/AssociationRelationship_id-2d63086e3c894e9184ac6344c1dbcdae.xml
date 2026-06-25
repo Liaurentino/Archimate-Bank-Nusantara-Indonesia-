@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2d63086e3c894e9184ac6344c1dbcdae"
+    documentation="Mitra teknologi mendukung inovasi untuk meningkatkan daya saing organisasi.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-e9fd9f150cfa45389abdc861b10e0fd7.xml#id-e9fd9f150cfa45389abdc861b10e0fd7"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-2b1bd317f5f24da580fa7d5f56a73f0a.xml#id-2b1bd317f5f24da580fa7d5f56a73f0a"/>
+</archimate:AssociationRelationship>

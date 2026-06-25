@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automated Credit Assessment"
+    id="id-12df1984a67b4852a7c175d363804de2"
+    documentation="Elemen ini merepresentasikan proses bisnis analisis risiko pembiayaan otomatis yang mengeksekusi algoritma skor kredit berbasis kecerdasan buatan untuk menentukan limit pinjaman nasabah. Proses bisnis modern ini menjadi mesin penggerak utama yang merealisasikan Credit &amp; Loan Service secara mutlak via hubungan Realization. Operasional proses ini dipantau secara berkala oleh peran Credit Supervisor melalui hubungan relasi Association agar parameter risiko tetap terjaga secara presisi. Dalam aspek manajemen data keuangan, proses ini mengeksekusi penarikan data SLIK OJK instan dan menulis hasil keputusan komputasi AI dengan hak Access ke objek Loan Application. Nilai bisnis yang dihadirkan adalah efisiensi operasional pinjaman digital massal dan pemangkasan SLA keputusan kredit di bawah 3 menit. Posisi elemen ini berada di lapisan otomasi kecerdasan buatan pada arsitektur Business Process Cooperation Viewpoint.  "/>
