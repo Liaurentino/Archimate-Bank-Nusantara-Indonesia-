@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Alert Triggered"
+    id="id-aa00000000000007"
+    documentation="Event bisnis yang terjadi saat sistem monitoring real-time mendeteksi anomali transaksi mencurigakan yang memerlukan investigasi oleh Fraud and Credit Review Committee."/>
