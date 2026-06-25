@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-9cafae32df89494a99a280c070d09361">
+    id="id-9cafae32df89494a99a280c070d09361"
+    documentation="Internet publik terhubung ke API gateway di cloud">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-4de65a44d9364f498f1f4a6d19e6bab0.xml#id-4de65a44d9364f498f1f4a6d19e6bab0"/>

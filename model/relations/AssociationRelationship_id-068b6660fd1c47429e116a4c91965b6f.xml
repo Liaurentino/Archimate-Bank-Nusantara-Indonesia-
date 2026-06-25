@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-068b6660fd1c47429e116a4c91965b6f">
+    id="id-068b6660fd1c47429e116a4c91965b6f"
+    documentation="Akses terenkripsi ke OJK SLIK">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-e83b7498aa404dc4925fe27f96cbbcde.xml#id-e83b7498aa404dc4925fe27f96cbbcde"/>

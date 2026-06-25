@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-9b59ae32dbba4ef18693faa740aea108">
+    id="id-9b59ae32dbba4ef18693faa740aea108"
+    documentation="Cluster menjalankan Kafka untuk event streaming">
   <source
       xsi:type="archimate:Node"
       href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
