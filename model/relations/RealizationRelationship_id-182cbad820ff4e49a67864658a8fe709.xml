@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-182cbad820ff4e49a67864658a8fe709"
+    documentation="Pemisahan komponen kanal membantu membatasi dampak gangguan atau kerentanan pada kanal tertentu.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-dbc870a2c87f4ba99cecb77bdbe97a0b.xml#id-dbc870a2c87f4ba99cecb77bdbe97a0b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

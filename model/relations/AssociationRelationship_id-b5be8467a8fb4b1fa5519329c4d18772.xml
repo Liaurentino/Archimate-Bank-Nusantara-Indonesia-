@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b5be8467a8fb4b1fa5519329c4d18772"
+    documentation="Karyawan memerlukan informasi pelanggan yang konsisten di seluruh kanal.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-a51fef7ff17c471c83d8eee38dccd7ac.xml#id-a51fef7ff17c471c83d8eee38dccd7ac"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:AssociationRelationship>

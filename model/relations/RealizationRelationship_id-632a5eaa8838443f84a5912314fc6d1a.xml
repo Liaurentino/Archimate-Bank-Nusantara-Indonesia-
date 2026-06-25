@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-632a5eaa8838443f84a5912314fc6d1a"
+    documentation="Informasi nasabah harus dikelola oleh aplikasi yang berwenang untuk mendukung proses onboarding yang konsisten dan akurat.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-665ce82ee4f44514b5ee759dcdb55922.xml#id-665ce82ee4f44514b5ee759dcdb55922"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

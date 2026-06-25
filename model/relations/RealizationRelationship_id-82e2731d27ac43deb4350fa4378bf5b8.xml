@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-82e2731d27ac43deb4350fa4378bf5b8"
+    documentation="Komunikasi berbasis layanan mendukung pengalaman nasabah yang konsisten di seluruh kanal.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-b8356ed631dc4d659eb9a1a8e052f3b0.xml#id-b8356ed631dc4d659eb9a1a8e052f3b0"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

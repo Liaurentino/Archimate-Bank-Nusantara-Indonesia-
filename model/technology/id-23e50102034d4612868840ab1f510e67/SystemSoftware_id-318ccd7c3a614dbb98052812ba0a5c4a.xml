@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache Kafka Runtime"
+    id="id-318ccd7c3a614dbb98052812ba0a5c4a"
+    documentation="Engine event streaming untuk komunikasi async"/>

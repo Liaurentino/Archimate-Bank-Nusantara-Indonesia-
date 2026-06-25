@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Supervisor"
+    id="id-4a435f061d594286beaff468add390cd"
+    documentation="Elemen ini mendefinisikan peran pengawasan khusus yang berada di bawah wewenang langsung komite peninjauan risiko untuk mengendalikan akurasi mesin penilaian otomatis. Peran fungsional ini diaktifkan melalui hubungan Assignment dari elemen Fraud &amp; Credit Review Committee sebagai perpanjangan tangan eksekusi kebijakan risiko bank. Peran ini terhubung via relasi Association dengan proses Automated Credit Assessment untuk melakukan kalibrasi berkala terhadap model skor kecerdasan buatan bank. Peran utamanya adalah memastikan parameter penilaian risiko tetap relevan dengan dinamika pasar makro dan kepatuhan OJK. Nilai bisnis yang dihadirkan adalah eliminasi bias penilaian otomatis kecerdasan buatan serta perlindungan bank dari eksposur risiko kredit yang tidak terukur. Posisi peran ini berada di ranah manajemen operasional risiko dalam lapisan arsitektur bisnis organisasi perbankan digital BNI.  "/>

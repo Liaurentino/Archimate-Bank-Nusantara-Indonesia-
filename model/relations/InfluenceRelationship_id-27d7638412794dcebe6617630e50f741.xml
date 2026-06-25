@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27d7638412794dcebe6617630e50f741"
+    documentation="Kompetitor menawarkan proses onboarding yang lebih cepat dan sepenuhnya digital.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-2b1bd317f5f24da580fa7d5f56a73f0a.xml#id-2b1bd317f5f24da580fa7d5f56a73f0a"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-37e7984464df40b3a7edb50b2e1d457d.xml#id-37e7984464df40b3a7edb50b2e1d457d"/>
+</archimate:InfluenceRelationship>

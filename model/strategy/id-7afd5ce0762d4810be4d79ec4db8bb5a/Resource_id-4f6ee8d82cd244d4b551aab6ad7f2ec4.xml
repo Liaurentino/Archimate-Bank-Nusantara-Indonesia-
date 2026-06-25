@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historical Customer Transaction Data"
+    id="id-4f6ee8d82cd244d4b551aab6ad7f2ec4"
+    documentation="Data transaksi nasabah yang tersimpan dalam sistem perbankan dan digunakan sebagai sumber informasi untuk analisis perilaku nasabah, penilaian kredit, dan deteksi fraud."/>
