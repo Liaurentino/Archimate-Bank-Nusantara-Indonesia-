@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omnichannel Customer Service"
+    id="id-dbbd639c2bc24235b40b5d160c670457"
+    documentation="Elemen ini merepresentasikan rangkaian proses bisnis penanganan aduan dan permintaan bantuan pelanggan digital yang menyatukan log interaksi nasabah lintas saluran komunikasi. Proses bisnis front-office ini merealisasikan Customer Care Service via hubungan Realization untuk memberikan titik resolusi kendala teknis nasabah. Jika keluhan berkategori kompleks, alur proses ini memicu relasi Triggering menuju tahap Manage Customer Complaints untuk penanganan eskalasi tingkat lanjut. Secara operasional, aktor Petugas Cabang ditugaskan mendukung proses ini melalui relasi Assignment. Proses ini memiliki hak Access menulis log pengaduan ke objek Complaint Ticket. Nilai bisnis yang diberikan adalah terciptanya pengalaman layanan pelanggan yang konsisten tanpa kehilangan konteks masalah nasabah. Posisi elemen ini berada di hulu manajemen hubungan pelanggan dalam arsitektur bisnis target BNI.  "/>
