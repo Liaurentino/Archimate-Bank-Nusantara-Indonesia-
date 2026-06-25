@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sync (Parallel Running)"
+    id="id-d3a7d11ac0e849dda2c91318da0a615f">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-80eb73479f024afa929bbdde30ab2712.xml#id-80eb73479f024afa929bbdde30ab2712"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ae3b0126ba3b4690af0720badf1f8081.xml#id-ae3b0126ba3b4690af0720badf1f8081"/>
+</archimate:FlowRelationship>
