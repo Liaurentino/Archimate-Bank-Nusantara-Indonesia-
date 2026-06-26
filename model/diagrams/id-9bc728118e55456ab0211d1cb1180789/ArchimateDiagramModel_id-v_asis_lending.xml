@@ -17,7 +17,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vadl_02"
-        targetConnections="id-cadl_04">
+        targetConnections="id-apqc-vc-gen-1782400767987-99 id-cadl_04">
       <bounds
           x="256"
           y="156"
@@ -30,6 +30,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vadl_01">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-apqc-vc-gen-1782400767987-99"
+          source="id-vadl_01"
+          target="id-vadl_02">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-dd00000000000002.xml#id-dd00000000000002"/>
+      </sourceConnections>
       <bounds
           x="56"
           y="156"
@@ -161,21 +170,21 @@
         targetConnections="id-cadl_01 id-cadl_02">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cadl_05"
-          source="id-vadl_06"
-          target="id-vadl_07">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-dd00000000000026.xml#id-dd00000000000026"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cadl_03"
           source="id-vadl_06"
           target="id-vadl_05">
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-dd00000000000015.xml#id-dd00000000000015"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-cadl_05"
+          source="id-vadl_06"
+          target="id-vadl_07">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-dd00000000000026.xml#id-dd00000000000026"/>
       </sourceConnections>
       <bounds
           x="252"

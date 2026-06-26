@@ -16,6 +16,42 @@
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-apqc-vn-gen-1782400754508-41">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-apqc-vc-gen-1782400767998-111"
+          source="id-apqc-vn-gen-1782400754508-41"
+          target="id-apqc-vn-gen-1782400754509-43">
+        <bendpoints
+            startX="82"
+            startY="-3"
+            endX="82"
+            endY="-411"/>
+        <bendpoints
+            startX="82"
+            startY="345"
+            endX="82"
+            endY="-63"/>
+        <bendpoints
+            startX="34"
+            startY="345"
+            endX="34"
+            endY="-63"/>
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-apqc-rel-055.xml#id-apqc-rel-055"/>
+      </sourceConnections>
+      <bounds
+          x="850"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-apqc-a-03.xml#id-apqc-a-03"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vpt_03">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -23,20 +59,16 @@
           source="id-vpt_03"
           target="id-vpt_10">
         <bendpoints
+            startX="-6"
             startY="81"
-            endX="-196"
-            endY="-327"/>
-        <bendpoints
-            startX="192"
-            startY="81"
-            endX="-4"
+            endX="-6"
             endY="-327"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-23dde229ffc3423b88409eecf8db15d2.xml#id-23dde229ffc3423b88409eecf8db15d2"/>
       </sourceConnections>
       <bounds
-          x="452"
+          x="650"
           y="48"
           width="120"
           height="55"/>
@@ -87,20 +119,21 @@
           source="id-vpt_02"
           target="id-vpt_11">
         <bendpoints
-            startX="44"
-            startY="165"
-            endX="-552"
-            endY="-243"/>
+            startX="34"
+            startY="177"
+            endX="-766"
+            endY="-231"/>
         <bendpoints
-            startX="596"
-            startY="165"
-            endY="-243"/>
+            startX="802"
+            startY="177"
+            endX="2"
+            endY="-231"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-cc00000000000005.xml#id-cc00000000000005"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="250"
           y="48"
           width="120"
           height="55"/>
@@ -110,7 +143,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-vpt_01">
+        id="id-vpt_01"
+        targetConnections="id-apqc-vc-gen-1782400767938-31">
       <bounds
           x="52"
           y="156"
@@ -133,9 +167,22 @@
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-apqc-vn-gen-1782400754509-42"
+        targetConnections="id-apqc-vc-gen-1782401756402-13">
+      <bounds
+          x="850"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-apqc-s-04.xml#id-apqc-s-04"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vpt_06">
       <bounds
-          x="550"
+          x="650"
           y="240"
           width="120"
           height="55"/>
@@ -146,9 +193,23 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vpt_05"
-        targetConnections="id-cpt_04 id-cpt_08">
+        targetConnections="id-cpt_08 id-cpt_04">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-apqc-vc-gen-1782400767938-31"
+          source="id-vpt_05"
+          target="id-vpt_01">
+        <bendpoints
+            startX="-14"
+            startY="-147"
+            endX="184"
+            endY="-3"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-b0b7d8701daf4d3b8ba5230be669320f.xml#id-b0b7d8701daf4d3b8ba5230be669320f"/>
+      </sourceConnections>
       <bounds
-          x="248"
+          x="250"
           y="48"
           width="120"
           height="55"/>
@@ -190,26 +251,38 @@
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-vpt_07">
+        id="id-apqc-vn-gen-1782400754509-43"
+        targetConnections="id-apqc-vc-gen-1782400767998-111">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cpt_06"
-          source="id-vpt_07"
-          target="id-vpt_10">
-        <bendpoints
-            startX="8"
-            startY="69"
-            endX="-592"
-            endY="69"/>
-        <bendpoints
-            startX="572"
-            startY="70"
-            endX="-28"
-            endY="70"/>
+          id="id-apqc-vc-gen-1782401756402-13"
+          source="id-apqc-vn-gen-1782400754509-43"
+          target="id-apqc-vn-gen-1782400754509-42">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-cc00000000000015.xml#id-cc00000000000015"/>
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-apqc-rel-049.xml#id-apqc-rel-049"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-apqc-vc-gen-1782400767998-110"
+          source="id-apqc-vn-gen-1782400754509-43"
+          target="id-apqc-vn-gen-1782400754510-44">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-apqc-rel-040.xml#id-apqc-rel-040"/>
+      </sourceConnections>
+      <bounds
+          x="850"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-apqc-p-5312.xml#id-apqc-p-5312"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-vpt_07">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cpt_05"
@@ -228,6 +301,25 @@
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-cc00000000000014.xml#id-cc00000000000014"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-cpt_06"
+          source="id-vpt_07"
+          target="id-vpt_10">
+        <bendpoints
+            startX="8"
+            startY="69"
+            endX="-592"
+            endY="69"/>
+        <bendpoints
+            startX="572"
+            startY="70"
+            endX="-28"
+            endY="70"/>
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-cc00000000000015.xml#id-cc00000000000015"/>
       </sourceConnections>
       <bounds
           x="48"
@@ -251,7 +343,7 @@
             href="TriggeringRelationship_id-cc00000000000020.xml#id-cc00000000000020"/>
       </sourceConnections>
       <bounds
-          x="248"
+          x="250"
           y="48"
           width="120"
           height="55"/>
@@ -262,7 +354,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vpt_09"
-        targetConnections="id-cpt_07 id-cpt_01 id-cpt_05">
+        targetConnections="id-cpt_05 id-cpt_01 id-cpt_07">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cpt_09"
@@ -271,15 +363,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-9dc4083eeb3744e48e05e1ee7e97a54d.xml#id-9dc4083eeb3744e48e05e1ee7e97a54d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-cpt_10"
-          source="id-vpt_09"
-          target="id-vpt_12">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-368ae1b5f18e44afaebe84f1c15329f6.xml#id-368ae1b5f18e44afaebe84f1c15329f6"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -300,8 +383,17 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-82e603c33f174281bfa1e5bdd99ec149.xml#id-82e603c33f174281bfa1e5bdd99ec149"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-cpt_10"
+          source="id-vpt_09"
+          target="id-vpt_12">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-368ae1b5f18e44afaebe84f1c15329f6.xml#id-368ae1b5f18e44afaebe84f1c15329f6"/>
+      </sourceConnections>
       <bounds
-          x="448"
+          x="450"
           y="48"
           width="120"
           height="55"/>
@@ -312,28 +404,28 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vpt_10"
-        targetConnections="id-cpt_06 id-cpt_03 id-cpt_09">
+        targetConnections="id-cpt_09 id-cpt_06 id-cpt_03">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cpt_12"
           source="id-vpt_10"
           target="id-vpt_12">
         <bendpoints
-            startX="-4"
-            startY="94"
-            endX="188"
-            endY="-62"/>
+            startX="-6"
+            startY="81"
+            endX="194"
+            endY="-75"/>
         <bendpoints
-            startX="-172"
-            startY="93"
-            endX="20"
-            endY="-63"/>
+            startX="-174"
+            startY="81"
+            endX="26"
+            endY="-75"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-787cfbd86a68486991c35aba51c3c7ac.xml#id-787cfbd86a68486991c35aba51c3c7ac"/>
       </sourceConnections>
       <bounds
-          x="648"
+          x="650"
           y="48"
           width="120"
           height="55"/>
@@ -346,7 +438,7 @@
         id="id-vpt_11"
         targetConnections="id-cpt_02">
       <bounds
-          x="848"
+          x="1050"
           y="48"
           width="120"
           height="55"/>
@@ -367,10 +459,23 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-vpt_12"
-        targetConnections="id-cpt_12 id-cpt_10">
+        id="id-apqc-vn-gen-1782400754510-44"
+        targetConnections="id-apqc-vc-gen-1782400767998-110">
       <bounds
-          x="456"
+          x="850"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-apqc-o-06.xml#id-apqc-o-06"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-vpt_12"
+        targetConnections="id-cpt_10 id-cpt_12">
+      <bounds
+          x="450"
           y="48"
           width="120"
           height="55"/>

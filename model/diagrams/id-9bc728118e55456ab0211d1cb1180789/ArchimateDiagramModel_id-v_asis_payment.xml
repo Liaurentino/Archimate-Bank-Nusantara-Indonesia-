@@ -17,7 +17,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vapt_02"
-        targetConnections="id-capt_05">
+        targetConnections="id-capt_05 id-apqc-vc-gen-1782400767990-100">
       <bounds
           x="256"
           y="144"
@@ -30,6 +30,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vapt_01">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-apqc-vc-gen-1782400767990-100"
+          source="id-vapt_01"
+          target="id-vapt_02">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-dd00000000000001.xml#id-dd00000000000001"/>
+      </sourceConnections>
       <bounds
           x="56"
           y="144"
@@ -148,7 +157,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vapt_07"
-        targetConnections="id-capt_03 id-capt_08">
+        targetConnections="id-capt_08 id-capt_03">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-capt_09"
@@ -182,6 +191,15 @@
         targetConnections="id-capt_02">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-capt_08"
+          source="id-vapt_06"
+          target="id-vapt_07">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-r_as_is_04.xml#id-r_as_is_04"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-capt_07"
           source="id-vapt_06"
           target="id-vapt_09">
@@ -211,15 +229,6 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-dd00000000000025.xml#id-dd00000000000025"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-capt_08"
-          source="id-vapt_06"
-          target="id-vapt_07">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-r_as_is_04.xml#id-r_as_is_04"/>
       </sourceConnections>
       <bounds
           x="252"

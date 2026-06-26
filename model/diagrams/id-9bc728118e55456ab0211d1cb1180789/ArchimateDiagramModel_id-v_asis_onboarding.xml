@@ -17,7 +17,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-vaob_02"
-        targetConnections="id-caob_04 id-caob_01">
+        targetConnections="id-caob_01 id-caob_04">
       <bounds
           x="252"
           y="156"
@@ -139,21 +139,21 @@
         targetConnections="id-caob_02">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-caob_03"
-          source="id-vaob_05"
-          target="id-vaob_04">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-dd00000000000013.xml#id-dd00000000000013"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-caob_05"
           source="id-vaob_05"
           target="id-vaob_06">
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-dd00000000000023.xml#id-dd00000000000023"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-caob_03"
+          source="id-vaob_05"
+          target="id-vaob_04">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-dd00000000000013.xml#id-dd00000000000013"/>
       </sourceConnections>
       <bounds
           x="252"
