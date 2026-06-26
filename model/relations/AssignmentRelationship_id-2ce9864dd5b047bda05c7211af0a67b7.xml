@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-2ce9864dd5b047bda05c7211af0a67b7">
+    id="id-2ce9864dd5b047bda05c7211af0a67b7"
+    documentation="DR Node menyimpan replika database nasabah">
   <source
       xsi:type="archimate:Node"
       href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>

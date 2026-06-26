@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-84f7e01f393e43828e9391fdee063316">
+    id="id-84f7e01f393e43828e9391fdee063316"
+    documentation="Jalur jaringan internal ke database server utama">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-9b5d0ed1575249a2931e9b4516d7645d.xml#id-9b5d0ed1575249a2931e9b4516d7645d"/>

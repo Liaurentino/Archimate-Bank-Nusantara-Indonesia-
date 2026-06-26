@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-d84994e1de8c4720a53714cbf28968c2">
+    id="id-d84994e1de8c4720a53714cbf28968c2"
+    documentation="Koneksi kliring BNI ke infrastruktur Bank Indonesia">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_id-2ce8493cb94242fa926fb27b49a6ff48.xml#id-2ce8493cb94242fa926fb27b49a6ff48"/>

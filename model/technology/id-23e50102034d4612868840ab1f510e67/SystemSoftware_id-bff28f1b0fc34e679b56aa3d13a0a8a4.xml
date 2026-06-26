@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elasticsearch Engine"
+    id="id-bff28f1b0fc34e679b56aa3d13a0a8a4"
+    documentation="Pencarian dan indexing log transaksi dan tiket layanan"/>

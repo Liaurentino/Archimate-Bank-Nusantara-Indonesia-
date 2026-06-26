@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-56ee728811714e39b89a2ca16da5a554">
+    id="id-56ee728811714e39b89a2ca16da5a554"
+    documentation="Perangkat nasabah menjalankan Android OS">
   <source
       xsi:type="archimate:Device"
       href="Device_id-0c35fd4f9d8748f8bb21565730cbf5c1.xml#id-0c35fd4f9d8748f8bb21565730cbf5c1"/>

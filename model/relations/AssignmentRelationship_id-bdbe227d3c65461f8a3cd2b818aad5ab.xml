@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-bdbe227d3c65461f8a3cd2b818aad5ab">
+    id="id-bdbe227d3c65461f8a3cd2b818aad5ab"
+    documentation="Cluster menjalankan engine machine learning">
   <source
       xsi:type="archimate:Node"
       href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
