@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kubernetes Cluster Node"
-    id="id-ed65d382cee64900a5b5cf30b9ad087d"
-    documentation="Orkestrasi container untuk seluruh microservices dan middleware"/>
