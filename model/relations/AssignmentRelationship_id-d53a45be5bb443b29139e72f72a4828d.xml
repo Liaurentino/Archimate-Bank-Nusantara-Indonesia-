@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d53a45be5bb443b29139e72f72a4828d"
+    documentation="DR Node menjalankan database engine">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7ce54dcf0fe9436b82429e87ac5f5ce5.xml#id-7ce54dcf0fe9436b82429e87ac5f5ce5"/>
+</archimate:AssignmentRelationship>

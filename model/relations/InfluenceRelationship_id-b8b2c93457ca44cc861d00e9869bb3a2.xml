@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b8b2c93457ca44cc861d00e9869bb3a2"
+    documentation="Implementasi platform integrasi harus disesuaikan dengan batasan anggaran organisasi.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-e76d9f29912447afb7499eb3cb94bcb8.xml#id-e76d9f29912447afb7499eb3cb94bcb8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b4da544a70244ce6927da85bcb50930b.xml#id-b4da544a70244ce6927da85bcb50930b"/>
+</archimate:InfluenceRelationship>

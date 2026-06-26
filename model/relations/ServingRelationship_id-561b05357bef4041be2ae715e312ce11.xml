@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-561b05357bef4041be2ae715e312ce11"
+    documentation="Antivirus memindai dan mengamankan Application Server dari malware.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-110168d2b4fc4447b3d279ee7bd71702.xml#id-110168d2b4fc4447b3d279ee7bd71702"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-c3abfe96f4a94bf1adf45472c3db7e16.xml#id-c3abfe96f4a94bf1adf45472c3db7e16"/>
+</archimate:ServingRelationship>

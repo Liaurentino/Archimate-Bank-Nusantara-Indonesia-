@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f3e9fef906f44ea6a37fb3b2d23ca556"
+    documentation="Akses terenkripsi ke server Dukcapil">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-e83b7498aa404dc4925fe27f96cbbcde.xml#id-e83b7498aa404dc4925fe27f96cbbcde"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-071a1cbbcba2484b9627fce6ed99456c.xml#id-071a1cbbcba2484b9627fce6ed99456c"/>
+</archimate:AssociationRelationship>

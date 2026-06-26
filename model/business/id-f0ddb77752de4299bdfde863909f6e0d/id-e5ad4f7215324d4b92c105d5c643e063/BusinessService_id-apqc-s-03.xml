@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty and Rewards Service"
+    id="id-apqc-s-03"
+    documentation="Layanan bisnis pengumpulan dan penukaran poin rewards nasabah BNI yang terhubung ke platform merchant eksternal."/>

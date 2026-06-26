@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4e55785a2eda47f58d606ee920b93137"
+    documentation="Karyawan membutuhkan proses kredit yang lebih cepat dan otomatis.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-a51fef7ff17c471c83d8eee38dccd7ac.xml#id-a51fef7ff17c471c83d8eee38dccd7ac"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:AssociationRelationship>

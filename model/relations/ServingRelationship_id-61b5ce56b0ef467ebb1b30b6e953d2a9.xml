@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-61b5ce56b0ef467ebb1b30b6e953d2a9"
+    documentation="Interbank Network menyediakan jalur komunikasi eksternal menuju Data Center Primer.">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-c66560e04fd84ceca7716681c60c276b.xml#id-c66560e04fd84ceca7716681c60c276b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+</archimate:ServingRelationship>

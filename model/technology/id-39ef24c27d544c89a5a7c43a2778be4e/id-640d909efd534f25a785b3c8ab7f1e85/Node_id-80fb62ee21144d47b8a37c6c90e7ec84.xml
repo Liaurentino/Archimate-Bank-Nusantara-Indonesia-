@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-Premise Data Center (Primary)"
+    id="id-80fb62ee21144d47b8a37c6c90e7ec84"
+    documentation="Pusat data utama yang menampung seluruh server dan infrastruktur teknologi inti BNI. Seluruh server bersifat fisik dan dedicated."/>

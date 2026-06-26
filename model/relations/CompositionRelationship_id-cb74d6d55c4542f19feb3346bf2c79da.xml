@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cb74d6d55c4542f19feb3346bf2c79da"
+    documentation="Database Server adalah perangkat keras inti di dalam Data Center Primer.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-b8933fdfb3d0403e8595839093933c08.xml#id-b8933fdfb3d0403e8595839093933c08"/>
+</archimate:CompositionRelationship>

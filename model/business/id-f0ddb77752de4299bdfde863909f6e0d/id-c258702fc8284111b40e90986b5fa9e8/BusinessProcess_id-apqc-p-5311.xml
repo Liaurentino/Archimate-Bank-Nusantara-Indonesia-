@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Customer Creditworthiness"
+    id="id-apqc-p-5311"
+    documentation="Proses bisnis menilai kelayakan pengajuan kredit debitur dengan menganalisis skor kredit dan riwayat SLIK OJK."/>

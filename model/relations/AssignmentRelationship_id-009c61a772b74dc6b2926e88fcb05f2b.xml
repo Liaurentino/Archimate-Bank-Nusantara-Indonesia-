@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-009c61a772b74dc6b2926e88fcb05f2b"
+    documentation="DR Node menyimpan replika log transaksi">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-10e9b12243084b5381600c6d959ddc48.xml#id-10e9b12243084b5381600c6d959ddc48"/>
+</archimate:AssignmentRelationship>

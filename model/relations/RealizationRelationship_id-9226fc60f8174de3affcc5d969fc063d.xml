@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9226fc60f8174de3affcc5d969fc063d"
+    documentation="Informasi pelanggan tersedia secara terpusat untuk mendukung pengalaman layanan yang konsisten.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8e251380ccb34835a71583d775a00606.xml#id-8e251380ccb34835a71583d775a00606"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-fa989e7bd0d24598b97e7ba1b9a93657.xml#id-fa989e7bd0d24598b97e7ba1b9a93657"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teller Cabang"
+    id="id-bb00000000000001"
+    documentation="Petugas konter cabang yang melayani transaksi tunai dan non-tunai secara manual menggunakan slip setoran dan buku tabungan fisik. Merupakan ujung tombak operasional harian perbankan tradisional."/>

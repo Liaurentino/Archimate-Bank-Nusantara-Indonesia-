@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call Center Application"
+    id="id-2733c72aefb9416998b89696912d6aa8"
+    documentation="Aplikasi pencatatan interaksi dan pengaduan nasabah melalui kanal telepon. Tidak terintegrasi dengan CBS dan CIF System."/>

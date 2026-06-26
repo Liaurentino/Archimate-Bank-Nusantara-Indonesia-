@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-308341f17c2b4caeae4ed6800293391f"
+    documentation="ATM Network memberikan koneksi jaringan tertutup khusus untuk mesin ATM.">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-4a2b9227ba0b4825923a7d3aa05c7f18.xml#id-4a2b9227ba0b4825923a7d3aa05c7f18"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-412d674b4143411d84170b5499a742f6.xml#id-412d674b4143411d84170b5499a742f6"/>
+</archimate:ServingRelationship>

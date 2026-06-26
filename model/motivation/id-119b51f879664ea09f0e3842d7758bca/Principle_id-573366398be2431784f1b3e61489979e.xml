@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Presentation logic, process logic, and business logic are separated"
+    id="id-573366398be2431784f1b3e61489979e"
+    documentation="BNI Super App dibangun dengan arsitektur berlapis: UI layer, process layer, dan business logic layer yang independen. Tim frontend dan backend bisa bekerja dan melakukan deploy secara terpisah"/>

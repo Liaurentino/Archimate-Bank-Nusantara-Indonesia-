@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bcb635d849f64294aa6bc077c177281b"
+    documentation="Jaringan Leased Line mewujudkan infrastruktur layanan konektivitas antar lokasi.">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-1bac84d93f694d82988aaa0c7d8ef0cd.xml#id-1bac84d93f694d82988aaa0c7d8ef0cd"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-58d55354e76e43edbef09f234e7be69a.xml#id-58d55354e76e43edbef09f234e7be69a"/>
+</archimate:RealizationRelationship>

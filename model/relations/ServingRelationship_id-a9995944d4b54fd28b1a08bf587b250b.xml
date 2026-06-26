@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a9995944d4b54fd28b1a08bf587b250b"
+    documentation="IT Help Desk merespons gangguan teknis yang terjadi pada Branch Office Server Node.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-d2fc248c1271416da3fe6f33f5d2e833.xml#id-d2fc248c1271416da3fe6f33f5d2e833"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a44102d9d99a469eba9950ef44850176.xml#id-a44102d9d99a469eba9950ef44850176"/>
+</archimate:ServingRelationship>

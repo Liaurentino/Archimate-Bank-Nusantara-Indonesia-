@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Processing Scheduler"
+    id="id-74321915f693457caef84ab549332434"
+    documentation="Perangkat lunak penjadwal eksekusi job-job batch harian. Pemantauan status job dilakukan manual oleh operator IT setiap malam."/>

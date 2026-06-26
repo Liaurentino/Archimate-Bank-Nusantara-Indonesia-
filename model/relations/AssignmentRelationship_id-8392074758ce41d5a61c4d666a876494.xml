@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8392074758ce41d5a61c4d666a876494"
+    documentation="Integrasi dengan sistem regulator diperlukan untuk mendukung kepatuhan dan pelaporan.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-0e13faf266454ca8bf9a2549fbe104e5.xml#id-0e13faf266454ca8bf9a2549fbe104e5"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-85b702d6cc494de799ab1deedfc6238f.xml#id-85b702d6cc494de799ab1deedfc6238f"/>
+</archimate:AssignmentRelationship>

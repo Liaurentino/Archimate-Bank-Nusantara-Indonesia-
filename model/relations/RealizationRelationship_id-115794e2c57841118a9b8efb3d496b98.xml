@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-115794e2c57841118a9b8efb3d496b98"
+    documentation="Informasi nasabah dapat dikelola secara konsisten sejak proses onboarding.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-fa989e7bd0d24598b97e7ba1b9a93657.xml#id-fa989e7bd0d24598b97e7ba1b9a93657"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

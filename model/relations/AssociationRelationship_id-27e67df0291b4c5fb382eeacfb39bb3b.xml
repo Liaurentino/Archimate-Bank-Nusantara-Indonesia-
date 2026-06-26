@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27e67df0291b4c5fb382eeacfb39bb3b"
+    documentation="Tim IT menggunakan layanan ini untuk mengecek kondisi Database Server secara manual.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-3f6bf66aa5574d2aa2886681ebceef1a.xml#id-3f6bf66aa5574d2aa2886681ebceef1a"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-b8933fdfb3d0403e8595839093933c08.xml#id-b8933fdfb3d0403e8595839093933c08"/>
+</archimate:AssociationRelationship>

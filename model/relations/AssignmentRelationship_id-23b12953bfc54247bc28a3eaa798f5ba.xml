@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-23b12953bfc54247bc28a3eaa798f5ba"
+    documentation="Cluster menjalankan log search engine">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-bff28f1b0fc34e679b56aa3d13a0a8a4.xml#id-bff28f1b0fc34e679b56aa3d13a0a8a4"/>
+</archimate:AssignmentRelationship>
