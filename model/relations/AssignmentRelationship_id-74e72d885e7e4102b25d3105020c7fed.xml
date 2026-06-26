@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-74e72d885e7e4102b25d3105020c7fed"
+    documentation="Server utama menjalankan engine database">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ae3b0126ba3b4690af0720badf1f8081.xml#id-ae3b0126ba3b4690af0720badf1f8081"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7ce54dcf0fe9436b82429e87ac5f5ce5.xml#id-7ce54dcf0fe9436b82429e87ac5f5ce5"/>
+</archimate:AssignmentRelationship>

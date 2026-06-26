@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applications manage information with the same security level"
+    id="id-665ce82ee4f44514b5ee759dcdb55922"
+    documentation="Data KYC dan kartu kredit dikelola oleh sistem dengan enkripsi tinggi dan akses terbatas. Data marketing dan loyalty dikelola sistem terpisah dengan keamanan standar"/>

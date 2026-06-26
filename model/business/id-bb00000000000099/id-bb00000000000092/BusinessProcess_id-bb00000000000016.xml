@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Accounts (Manual) (PCF 5.3.2)"
+    id="id-bb00000000000016"
+    documentation="Proses rekonsiliasi saldo akun secara batch setiap akhir hari kerja (end-of-day). Saldo tidak diperbarui real-time selama jam transaksi."/>

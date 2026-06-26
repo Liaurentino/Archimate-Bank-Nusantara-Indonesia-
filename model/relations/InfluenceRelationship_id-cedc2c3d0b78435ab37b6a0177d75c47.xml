@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cedc2c3d0b78435ab37b6a0177d75c47"
+    documentation="Ekspektasi layanan digital memperlihatkan keterbatasan proses onboarding yang masih memerlukan aktivitas manual">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-a1c282e3b5f14d21beacf0faf7adda44.xml#id-a1c282e3b5f14d21beacf0faf7adda44"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-37e7984464df40b3a7edb50b2e1d457d.xml#id-37e7984464df40b3a7edb50b2e1d457d"/>
+</archimate:InfluenceRelationship>

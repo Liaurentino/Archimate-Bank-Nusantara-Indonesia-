@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4fe6fa4d298c4a78bdfc628585ee36db"
+    documentation="Node cloud menjalankan API gateway eksternal">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-59bb705779a949ea96e3a9a20ac4aece.xml#id-59bb705779a949ea96e3a9a20ac4aece"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-5cf2e27fc7c14c06af1f966cb73aed1c.xml#id-5cf2e27fc7c14c06af1f966cb73aed1c"/>
+</archimate:AssignmentRelationship>

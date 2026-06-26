@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-050b17fd12eb4da6afe338fd791fe119"
+    documentation="Aplikasi frontend melayani akses pembukaan rekening">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f554d7fef98c48e7b94d518795e55009.xml#id-f554d7fef98c48e7b94d518795e55009"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bddbe1bd106f403fbf46c0d4c2098c7f.xml#id-bddbe1bd106f403fbf46c0d4c2098c7f"/>
+</archimate:ServingRelationship>

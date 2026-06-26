@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Front-office processes are separated from back-office processes"
+    id="id-d592a58a8eef456eb7dd8f6e2bdef406"
+    documentation="Proses onboarding dan complaint handling dipisah dari proses AML, rekonsiliasi, dan settlement. Perubahan di proses internal tidak boleh mengganggu pengalaman nasabah"/>
