@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-8b89bdf23e4340ceb98633c1923d223c">
+    id="id-8b89bdf23e4340ceb98633c1923d223c"
+    documentation="Nasabah berperan sebagai calon nasabah">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-3cc69ba4808f47cdaa1378aa86944d24.xml#id-3cc69ba4808f47cdaa1378aa86944d24"/>

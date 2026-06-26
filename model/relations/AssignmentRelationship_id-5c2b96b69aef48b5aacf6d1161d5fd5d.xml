@@ -1,7 +1,8 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5c2b96b69aef48b5aacf6d1161d5fd5d">
+    id="id-5c2b96b69aef48b5aacf6d1161d5fd5d"
+    documentation="Nasabah berperan sebagai pemilik rekening">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-3cc69ba4808f47cdaa1378aa86944d24.xml#id-3cc69ba4808f47cdaa1378aa86944d24"/>

@@ -1,7 +1,8 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b0b7d8701daf4d3b8ba5230be669320f">
+    id="id-b0b7d8701daf4d3b8ba5230be669320f"
+    documentation="Layanan pembayaran melayani pemegang rekening">
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-3a6e20b6d4104e6e8bc6fae02249740e.xml#id-3a6e20b6d4104e6e8bc6fae02249740e"/>
