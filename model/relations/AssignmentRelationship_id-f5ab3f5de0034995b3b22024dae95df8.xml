@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f5ab3f5de0034995b3b22024dae95df8"
+    documentation="DR Node berjalan di atas Ubuntu OS">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7f6b2736bb0a46688030c2839e87fa71.xml#id-7f6b2736bb0a46688030c2839e87fa71"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Initiated"
+    id="id-aa00000000000006"
+    documentation="Event bisnis yang terjadi saat nasabah menginisiasi instruksi pembayaran atau transfer dana melalui platform digital banking."/>

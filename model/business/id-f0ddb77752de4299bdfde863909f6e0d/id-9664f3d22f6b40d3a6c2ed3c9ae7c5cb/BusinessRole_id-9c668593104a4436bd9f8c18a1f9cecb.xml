@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Requester"
+    id="id-9c668593104a4436bd9f8c18a1f9cecb"
+    documentation="Elemen ini merepresentasikan peran logis nasabah ketika melakukan pengajuan permintaan operasional non-finansial secara mandiri melalui platform digital BNI. Peran fungsional ini ditugaskan melalui relasi Assignment dari aktor eksternal Nasabah Ritel untuk mengakomodasi kebutuhan administratif digital nasabah. Peran ini mendapatkan dukungan penuh dari Customer Care Service melalui relasi Serving yang mengotomatisasi penyediaan dokumen elektronik dan pengelolaan administrasi data. Melalui interaksi ini, nasabah dapat memperbarui parameter data personal atau mencetak rekening koran secara instan tanpa intervensi manual staf bank. Nilai bisnis yang dihadirkan adalah migrasi total aktivitas klerikal cabang menuju self-service digital yang memotong biaya operasional bank secara drastis. Posisi elemen ini berada pada lapisan peran administratif nasabah dalam arsitektur organisasi perbankan digital, mendukung tercapainya efisiensi operasional skala masif.  "/>

@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8420fdc50b094d01a6ab94d158e9858a"
+    documentation="Mekanisme deteksi fraud harus mendukung perlindungan data dan transaksi sesuai standar keamanan pembayaran.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-caea5c82795b4779855b7ea830d1c8a6.xml#id-caea5c82795b4779855b7ea830d1c8a6"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-149e2b400e514377b8e2bcf311bd5e73.xml#id-149e2b400e514377b8e2bcf311bd5e73"/>
+</archimate:InfluenceRelationship>

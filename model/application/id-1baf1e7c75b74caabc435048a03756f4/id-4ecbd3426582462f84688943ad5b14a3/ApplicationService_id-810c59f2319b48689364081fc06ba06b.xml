@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End-of-Day Batch Processing Service"
+    id="id-810c59f2319b48689364081fc06ba06b"
+    documentation="Layanan pemrosesan akhir hari yang menjalankan rekonsiliasi saldo dan pembaruan buku besar CBS secara terjadwal."/>

@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e2a115dbf56b4c8b97c4509a716e4d55"
+    documentation="Verifikasi identitas digital harus memenuhi ketentuan regulator terkait proses eKYC dan onboarding nasabah.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-9df699fad99f4f7bb95f8b6d70127d2f.xml#id-9df699fad99f4f7bb95f8b6d70127d2f"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-392c9b1c856041dca1466e103e68eab9.xml#id-392c9b1c856041dca1466e103e68eab9"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5e27e5adc02e4b9cbe79b81d1427a0d2"
+    documentation="Regulasi AML menuntut kemampuan pemantauan transaksi yang lebih responsif.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-d14ed4e59bed47e1a5b78f50d520dc37.xml#id-d14ed4e59bed47e1a5b78f50d520dc37"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e8bcd6f0644d43c1a9a4ae037c9d71cf.xml#id-e8bcd6f0644d43c1a9a4ae037c9d71cf"/>
+</archimate:InfluenceRelationship>

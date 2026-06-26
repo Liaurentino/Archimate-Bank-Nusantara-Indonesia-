@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-036b966db1314363bcef3602fd9dfb2a"
+    documentation="Application Server adalah perangkat keras yang ditempatkan di Data Center Primer.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-c3abfe96f4a94bf1adf45472c3db7e16.xml#id-c3abfe96f4a94bf1adf45472c3db7e16"/>
+</archimate:CompositionRelationship>

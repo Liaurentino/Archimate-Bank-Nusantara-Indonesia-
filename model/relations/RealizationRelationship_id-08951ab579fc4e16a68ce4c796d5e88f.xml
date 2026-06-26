@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-08951ab579fc4e16a68ce4c796d5e88f"
+    documentation="Nasabah memperoleh layanan yang terintegrasi melalui satu identitas pelanggan.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-fa989e7bd0d24598b97e7ba1b9a93657.xml#id-fa989e7bd0d24598b97e7ba1b9a93657"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

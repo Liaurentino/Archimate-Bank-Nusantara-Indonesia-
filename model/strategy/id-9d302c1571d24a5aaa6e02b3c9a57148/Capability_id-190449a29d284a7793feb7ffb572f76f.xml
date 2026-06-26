@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Scoring Capability"
+    id="id-190449a29d284a7793feb7ffb572f76f"
+    documentation="Kemampuan organisasi untuk menilai kelayakan kredit nasabah secara otomatis berdasarkan data transaksi, profil risiko, dan data eksternal yang relevan."/>

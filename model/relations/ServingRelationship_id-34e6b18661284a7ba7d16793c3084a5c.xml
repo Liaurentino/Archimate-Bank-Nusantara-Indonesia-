@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-34e6b18661284a7ba7d16793c3084a5c"
+    documentation="Branch Office Application melayani CIF System dengan antarmuka input data nasabah di cabang.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb7034221ba544dd94c838466a2b2f29.xml#id-fb7034221ba544dd94c838466a2b2f29"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23d28ffceb9d456d90c23fb7a8579de6.xml#id-23d28ffceb9d456d90c23fb7a8579de6"/>
+</archimate:ServingRelationship>

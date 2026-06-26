@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-73375f3e0f284809a2bbb309beee1f2e"
+    documentation="Internal LAN menghubungkan Mainframe Server dengan komponen server lain.&#xD;&#xA;Internal LAN (Data Center)&#x9;Serving&#x9;Database Server&#x9;Internal LAN">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-7b1346b4f95944528d2b72201773ec13.xml#id-7b1346b4f95944528d2b72201773ec13"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-bc6c98ed9ccc4f7bacaad4de60cc846c.xml#id-bc6c98ed9ccc4f7bacaad4de60cc846c"/>
+</archimate:ServingRelationship>

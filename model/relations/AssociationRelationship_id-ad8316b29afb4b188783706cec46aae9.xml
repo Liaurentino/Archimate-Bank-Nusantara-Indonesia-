@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ad8316b29afb4b188783706cec46aae9"
+    documentation="Tim IT menggunakan layanan ini untuk memantau Application Server secara manual.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-3f6bf66aa5574d2aa2886681ebceef1a.xml#id-3f6bf66aa5574d2aa2886681ebceef1a"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-c3abfe96f4a94bf1adf45472c3db7e16.xml#id-c3abfe96f4a94bf1adf45472c3db7e16"/>
+</archimate:AssociationRelationship>

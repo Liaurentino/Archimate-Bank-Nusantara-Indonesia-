@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3ac43a91f317456c9f521d0d7ea6d9c6"
+    documentation="Tim teknis mengelola integrasi layanan pada seluruh kanal interaksi pelanggan.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-899a360802c1410484b8855553814307.xml#id-899a360802c1410484b8855553814307"/>
+</archimate:AssignmentRelationship>

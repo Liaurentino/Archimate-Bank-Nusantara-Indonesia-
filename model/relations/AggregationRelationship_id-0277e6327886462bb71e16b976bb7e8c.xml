@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0277e6327886462bb71e16b976bb7e8c"
+    documentation="Desktop Workstation adalah bagian dari infrastruktur IT di setiap kantor cabang.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-a44102d9d99a469eba9950ef44850176.xml#id-a44102d9d99a469eba9950ef44850176"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-e51d0a01dc8c4c0998b621f5729b3a55.xml#id-e51d0a01dc8c4c0998b621f5729b3a55"/>
+</archimate:AggregationRelationship>

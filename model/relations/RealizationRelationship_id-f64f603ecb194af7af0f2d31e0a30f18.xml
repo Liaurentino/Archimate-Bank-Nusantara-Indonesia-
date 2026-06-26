@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f64f603ecb194af7af0f2d31e0a30f18"
+    documentation="Solusi fraud detection harus mampu menangani peningkatan volume transaksi secara berkelanjutan.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-149e2b400e514377b8e2bcf311bd5e73.xml#id-149e2b400e514377b8e2bcf311bd5e73"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-906d03cefe7b488e84419e3145d594a3.xml#id-906d03cefe7b488e84419e3145d594a3"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-66ac62aeb9954d64bd639da232427740"
+    documentation="Teller Transaction System melayani CBS dengan menyediakan antarmuka input transaksi manual di konter.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ff2e0ac899914c26821c15068c23cbc5.xml#id-ff2e0ac899914c26821c15068c23cbc5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+</archimate:ServingRelationship>

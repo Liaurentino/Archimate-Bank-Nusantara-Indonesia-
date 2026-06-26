@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-58892c9505364fd8bb15e0887c23ebb1"
+    documentation="DR Site menerima replikasi data fisik dari Data Center Primer secara periodik.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-932c7e27288642a88dd2ca0f29b055f5.xml#id-932c7e27288642a88dd2ca0f29b055f5"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+</archimate:AssociationRelationship>

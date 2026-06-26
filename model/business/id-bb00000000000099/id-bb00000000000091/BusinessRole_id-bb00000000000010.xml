@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Opener"
+    id="id-bb00000000000010"
+    documentation="Calon nasabah baru yang mendaftar di cabang dengan membawa KTP fisik, mengisi formulir CIF, dan menunggu proses verifikasi manual."/>

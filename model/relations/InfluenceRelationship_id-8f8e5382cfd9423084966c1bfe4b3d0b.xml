@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8f8e5382cfd9423084966c1bfe4b3d0b"
+    documentation="Integrasi sistem harus mempertimbangkan keberadaan sistem core banking lama selama masa transisi.">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-7f8e33f938bd4647a635314a5385aac0.xml#id-7f8e33f938bd4647a635314a5385aac0"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b4da544a70244ce6927da85bcb50930b.xml#id-b4da544a70244ce6927da85bcb50930b"/>
+</archimate:InfluenceRelationship>

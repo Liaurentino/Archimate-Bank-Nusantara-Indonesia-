@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0e81d9366ba741fd959de3a883879bd7"
+    documentation="Cluster K8s menjalankan container sistem deteksi fraud">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-538a1f1340d447eabed7ddaec8053056.xml#id-538a1f1340d447eabed7ddaec8053056"/>
+</archimate:ServingRelationship>

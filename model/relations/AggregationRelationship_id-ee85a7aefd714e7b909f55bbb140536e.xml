@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ee85a7aefd714e7b909f55bbb140536e"
+    documentation="Passbook Printer adalah bagian dari infrastruktur IT fisik di kantor cabang.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-a44102d9d99a469eba9950ef44850176.xml#id-a44102d9d99a469eba9950ef44850176"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-916699c31c004053bf79d5788a190faf.xml#id-916699c31c004053bf79d5788a190faf"/>
+</archimate:AggregationRelationship>

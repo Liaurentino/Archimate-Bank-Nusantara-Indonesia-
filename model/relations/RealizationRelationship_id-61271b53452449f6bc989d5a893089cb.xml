@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-61271b53452449f6bc989d5a893089cb"
+    documentation="Kemampuan inovasi produk memanfaatkan data pelanggan untuk menghasilkan produk dan layanan baru.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-387fc7511fe14089a35b18fb1d3936b1.xml#id-387fc7511fe14089a35b18fb1d3936b1"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-34f1b6452a0d48189c1b9c271407e6fd.xml#id-34f1b6452a0d48189c1b9c271407e6fd"/>
+</archimate:RealizationRelationship>

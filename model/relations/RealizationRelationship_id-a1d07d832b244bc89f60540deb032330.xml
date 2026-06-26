@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a1d07d832b244bc89f60540deb032330"
+    documentation="CBS merealisasikan layanan posting transaksi sebagai buku besar utama.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-dfb8fd6e0c1c4524b28768bd4edd1dba.xml#id-dfb8fd6e0c1c4524b28768bd4edd1dba"/>
+</archimate:RealizationRelationship>
