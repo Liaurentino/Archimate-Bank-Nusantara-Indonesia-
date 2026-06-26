@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="subscribes: SettlementInstructionEvent"
+    id="id-f7adc559a9c249b194eed51219f9841e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d8fb4b6a7be427d88466998a27fb591.xml#id-0d8fb4b6a7be427d88466998a27fb591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b50cea673d0e4bcd8915eb9112e811ca.xml#id-b50cea673d0e4bcd8915eb9112e811ca"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7e7b8ae4b0c64bb1b736eb3027126ebb"
+    documentation="Jalur keluar bagi server internal BNI untuk mengakses API eksternal">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-9b5d0ed1575249a2931e9b4516d7645d.xml#id-9b5d0ed1575249a2931e9b4516d7645d"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-e83b7498aa404dc4925fe27f96cbbcde.xml#id-e83b7498aa404dc4925fe27f96cbbcde"/>
+</archimate:AssociationRelationship>

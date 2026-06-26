@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-380597df7d414ba3bfbce126ef4d3d52"
+    documentation="Tape Backup Device beroperasi secara fisik di Data Center Primer.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-95a00eca82674332aa28d9960e76bfa3.xml#id-95a00eca82674332aa28d9960e76bfa3"/>
+</archimate:CompositionRelationship>

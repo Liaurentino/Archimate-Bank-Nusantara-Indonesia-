@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9802aff334de49a48022ee51db64439c"
+    documentation="Arsitektur berlapis meningkatkan fleksibilitas dan efisiensi pengembangan layanan kredit digital.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-573366398be2431784f1b3e61489979e.xml#id-573366398be2431784f1b3e61489979e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

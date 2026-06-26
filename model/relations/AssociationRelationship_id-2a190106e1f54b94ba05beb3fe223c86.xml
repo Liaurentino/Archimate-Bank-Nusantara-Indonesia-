@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2a190106e1f54b94ba05beb3fe223c86"
+    documentation="Mitra teknologi mendukung implementasi onboarding digital.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-e9fd9f150cfa45389abdc861b10e0fd7.xml#id-e9fd9f150cfa45389abdc861b10e0fd7"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:AssociationRelationship>

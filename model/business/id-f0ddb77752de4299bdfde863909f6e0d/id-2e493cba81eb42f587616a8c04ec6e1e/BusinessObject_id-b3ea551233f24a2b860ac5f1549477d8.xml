@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Application"
+    id="id-b3ea551233f24a2b860ac5f1549477d8"
+    documentation="Elemen ini merepresentasikan entitas objek data bisnis digital terpadu yang memuat rincian permohonan pinjaman, berkas pendapatan elektronik, riwayat kredit SLIK OJK, serta rekaman kalkulasi risiko finansial. Objek data pinjaman ini berinteraksi secara eksklusif dengan proses bisnis Automated Credit Assessment yang memiliki hak Access bertipe menulis dan memperbarui status skor kelayakan AI nasabah ke dalam berkas digital ini. Keberadaan objek ini meniadakan tumpukan dokumen kertas pengajuan kredit tradisional yang membebani ruang arsip fisik bank BNI. Nilai bisnis utama yang dihadirkan adalah ketersediaan rekam jejak pengajuan kredit yang transparan, aman, akurat, dan siap diaudit guna mendukung pertumbuhan portofolio pembiayaan digital bank secara sehat. Posisi elemen ini berada pada sub-layer manajemen informasi pembiayaan di dalam lapisan dasar arsitektur bisnis target.  "/>

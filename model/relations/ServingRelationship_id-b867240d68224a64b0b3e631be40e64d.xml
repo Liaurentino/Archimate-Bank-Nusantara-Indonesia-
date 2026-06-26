@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b867240d68224a64b0b3e631be40e64d"
+    documentation="Batch Reconciliation System melayani CBS dengan menyediakan data rekonsiliasi untuk pembaruan buku besar.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f8312733dc5c4a2e9df25737a6528669.xml#id-f8312733dc5c4a2e9df25737a6528669"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+</archimate:ServingRelationship>

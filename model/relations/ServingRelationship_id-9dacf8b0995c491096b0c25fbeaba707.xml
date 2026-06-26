@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9dacf8b0995c491096b0c25fbeaba707"
+    documentation="Firewall Appliance menyaring lalu lintas jaringan yang masuk dan keluar Data Center Primer.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-be9de4208cd44042ad2e4f2399cab729.xml#id-be9de4208cd44042ad2e4f2399cab729"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+</archimate:ServingRelationship>

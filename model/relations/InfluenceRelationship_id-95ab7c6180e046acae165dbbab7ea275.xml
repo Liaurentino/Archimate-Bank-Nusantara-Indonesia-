@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-95ab7c6180e046acae165dbbab7ea275"
+    documentation="Regulasi digital banking menuntut proses identifikasi nasabah yang lebih efektif dan terdokumentasi.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-d14ed4e59bed47e1a5b78f50d520dc37.xml#id-d14ed4e59bed47e1a5b78f50d520dc37"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-37e7984464df40b3a7edb50b2e1d457d.xml#id-37e7984464df40b3a7edb50b2e1d457d"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f4664462996545cc85e6b32c385fdb2a"
+    documentation="Pemisahan proses front-office mendukung penyediaan layanan yang konsisten pada seluruh kanal pelanggan.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-d592a58a8eef456eb7dd8f6e2bdef406.xml#id-d592a58a8eef456eb7dd8f6e2bdef406"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

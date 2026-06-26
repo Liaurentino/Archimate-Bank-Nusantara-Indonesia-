@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5a3148966e224c18a786039ae10c7463"
+    documentation="Core Banking memproses data transaksi pembayaran">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8056fd17eee943729892b2a6b224f5c3.xml#id-8056fd17eee943729892b2a6b224f5c3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-25ca0e4647e649e19d9ce82a55cd21e1.xml#id-25ca0e4647e649e19d9ce82a55cd21e1"/>
+</archimate:ServingRelationship>

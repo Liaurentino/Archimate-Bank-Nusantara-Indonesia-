@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Accounts (PCF 5.3.1)"
+    id="id-df73db5bd9e9499db003298fae4a7f3a"
+    documentation="Elemen ini merepresentasikan rangkaian proses bisnis inti yang mengorkestrasi akuisisi nasabah baru secara digital melalui sub-proses eKYC dan verifikasi identitas instan. Proses bisnis ini merealisasikan Digital Onboarding Service via hubungan Realization untuk dipaparkan sebagai layanan mandiri nasabah. Secara internal, alur kerja proses ini memicu relasi Triggering ke tahap sekuensial berikutnya yaitu Set Up and Activate an Account segera setelah validasi identitas berhasil lolos. Dalam aspek manajemen informasi, proses ini memiliki hak Access bertipe menulis data langsung ke dalam Business Object Customer Profile. Nilai bisnis yang dihasilkan adalah terciptanya gerbang pendaftaran mandiri yang cepat, paperless, aman, dan mematuhi aturan eKYC nasional. Posisi elemen ini berada pada hulu rantai nilai operasional pendaftaran dalam arsitektur Business Process Cooperation Viewpoint.  "/>

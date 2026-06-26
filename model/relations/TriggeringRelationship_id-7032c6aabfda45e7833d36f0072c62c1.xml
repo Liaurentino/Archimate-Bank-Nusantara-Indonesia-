@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7032c6aabfda45e7833d36f0072c62c1"
+    documentation="Rekonsiliasi batch selesai memicu pembuatan laporan operasional harian secara otomatis.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-b6729667bd3c4d43987eb552f7049b19.xml#id-b6729667bd3c4d43987eb552f7049b19"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-288529ba56ad45db8706622d511ec1e5.xml#id-288529ba56ad45db8706622d511ec1e5"/>
+</archimate:TriggeringRelationship>

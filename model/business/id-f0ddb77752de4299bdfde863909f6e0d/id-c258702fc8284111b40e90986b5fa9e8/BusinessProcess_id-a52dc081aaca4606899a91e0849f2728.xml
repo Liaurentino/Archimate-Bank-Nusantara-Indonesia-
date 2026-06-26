@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Accounts (PCF 5.3.2)"
+    id="id-a52dc081aaca4606899a91e0849f2728"
+    documentation="Elemen ini merepresentasikan rangkaian proses bisnis tata kelola siklus hidup rekening aktif nasabah yang mencakup kalkulasi bunga tabungan harian otomatis dan pemotongan biaya admin. Proses operasional harian ini dijalankan setelah menerima pemicu relasi Triggering dari aktivitas pembuatan akun Set Up and Activate an Account. Dalam pengelolaan data informasi perbankan, proses bisnis ini memiliki hak kendali Access mendalam untuk membaca data identitas legal nasabah pada Customer Profile serta memodifikasi saldo berjalan pada Account Record. Nilai bisnis utamanya adalah menjamin integritas data saldo dan konsistensi status keaktifan akun nasabah di seluruh saluran digital secara real-time. Posisi elemen ini berada di inti operasional pemeliharaan akun harian dalam arsitektur Business Process Cooperation Viewpoint Bank BNI.  "/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3c8f0e7755154a5fb086d424cfd1fdda"
+    documentation="Enhance Transaction Security&#xD;&#xA;PPATK berkepentingan terhadap penguatan kontrol fraud dan pencucian uang.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-ee0896303b714ab5bd8b726499549b47.xml#id-ee0896303b714ab5bd8b726499549b47"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:AssociationRelationship>
