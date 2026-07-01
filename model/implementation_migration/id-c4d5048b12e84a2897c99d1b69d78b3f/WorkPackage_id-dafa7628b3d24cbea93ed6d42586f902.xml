@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Package 1 - Digital Onboarding &amp; eKYC Modernization"
+    id="id-dafa7628b3d24cbea93ed6d42586f902"
+    documentation="Cakupan: Pembangunan modul eKYC, integrasi biometrik, OCR e-KTP, dan koneksi ke SLIK OJK.&#xD;&#xA;Durasi: 3 bulan (TW1-TW2)&#xD;&#xA;Prioritas: Tinggi&#xD;&#xA;Target Plateau: Transition Architecture&#xD;&#xA;Menghasilkan: D1 - Modul eKYC dan Digital Onboarding&#xD;&#xA;Memicu: eKYC Live&#xD;&#xA;Menyelesaikan: GAP-1"/>

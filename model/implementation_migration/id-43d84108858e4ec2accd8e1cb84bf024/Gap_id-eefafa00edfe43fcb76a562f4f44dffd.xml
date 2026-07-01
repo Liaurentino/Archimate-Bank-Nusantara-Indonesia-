@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GAP 2 - Credit Scoring Manual"
+    id="id-eefafa00edfe43fcb76a562f4f44dffd"
+    documentation="Baseline: Analisis kredit dilakukan manual memakan waktu 5-7 hari kerja, penilaian bersifat subjektif, tidak ada mesin scoring otomatis.&#xD;&#xA;Target: Credit scoring berbasis AI dalam &#xD;&#xA;waktu kurang dari 3 menit menggunakan &#xD;&#xA;data transaksi 12 bulan dan data SLIK OJK.&#xD;&#xA;Diselesaikan oleh: WP2 → D2&#xD;&#xA;Diselesaikan pada: Target Architecture&#xD;&#xA;Proses APQC terkait: PCF 5.3.1.1"/>
