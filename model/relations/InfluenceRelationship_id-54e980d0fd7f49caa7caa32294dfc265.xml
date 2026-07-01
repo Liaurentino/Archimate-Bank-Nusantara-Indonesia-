@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-54e980d0fd7f49caa7caa32294dfc265"
+    documentation="Proses evaluasi kredit manual meningkatkan waktu pemrosesan dan beban operasional.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-96fea200551d4834ad66e219bc3baa04.xml#id-96fea200551d4834ad66e219bc3baa04"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-2e587886a1074c7785842b150004a137.xml#id-2e587886a1074c7785842b150004a137"/>
+</archimate:InfluenceRelationship>

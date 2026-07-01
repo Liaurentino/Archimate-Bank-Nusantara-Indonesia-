@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c4e57fd56f46493d97086a5b31127a0c"
+    documentation="Perangkat nasabah menjalankan iOS">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-0c35fd4f9d8748f8bb21565730cbf5c1.xml#id-0c35fd4f9d8748f8bb21565730cbf5c1"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d137e44024454e77b6ec8de9038b77d8.xml#id-d137e44024454e77b6ec8de9038b77d8"/>
+</archimate:AssignmentRelationship>

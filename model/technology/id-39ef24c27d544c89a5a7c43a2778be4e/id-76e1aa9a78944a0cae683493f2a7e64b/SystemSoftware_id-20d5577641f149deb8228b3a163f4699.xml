@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy Middleware"
+    id="id-20d5577641f149deb8228b3a163f4699"
+    documentation="Perangkat lunak antarmuka antar sistem perbankan. Integrasi bersifat terbatas dan tidak mendukung pertukaran data real-time."/>

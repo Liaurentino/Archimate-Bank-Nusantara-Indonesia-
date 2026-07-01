@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call Center Agent"
+    id="id-f99d2814116a4fe990e1616dc67cf598"
+    documentation="Elemen ini merepresentasikan aktor bisnis internal pada unit kerja layanan pelanggan yang menangani penyelesaian eskalasi masalah rumit nasabah yang tidak dapat diselesaikan secara otomatis oleh kecerdasan buatan. Aktor ini ditugaskan secara operasional melalui relasi Assignment untuk mendukung jalannya proses bisnis Manage Customer Complaints dalam meresolusi aduan. Dengan dukungan data interaksi terintegrasi, aktor ini dapat meninjau kronologi masalah nasabah lintas kanal secara instan guna mempercepat waktu pemecahan masalah teknis. Kontribusi strategisnya terwujud dalam pemeliharaan skor kepuasan nasabah (CSAT) melalui penyediaan interaksi emosional manusia pada kasus-kasus kritis nasabah. Nilai bisnis yang diberikan adalah peningkatan Net Promoter Score (NPS) bank melalui penanganan komplain yang responsif dan tuntas sesuai target target SLA. Posisi aktor ini berada pada lapisan depan dukungan internal (front-office) dalam arsitektur organisasi perbankan digital.  "/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-Premise Data Center (Backup/DR)"
+    id="id-932c7e27288642a88dd2ca0f29b055f5"
+    documentation="Pusat data cadangan untuk Disaster Recovery. Replikasi data dari pusat primer dilakukan secara periodik; proses failover memerlukan intervensi manual."/>

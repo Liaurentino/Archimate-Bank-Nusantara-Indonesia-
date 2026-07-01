@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb6c87d9f29045bfb88cf2841aafa5b7"
+    documentation="ATM Switch System melayani CBS dengan meneruskan instruksi transaksi dari jaringan ATM">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71b4f00516a14ecb9a48806e5402e89c.xml#id-71b4f00516a14ecb9a48806e5402e89c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+</archimate:ServingRelationship>

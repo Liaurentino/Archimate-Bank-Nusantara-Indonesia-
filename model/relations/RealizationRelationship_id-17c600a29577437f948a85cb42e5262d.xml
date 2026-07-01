@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-17c600a29577437f948a85cb42e5262d"
+    documentation="Data yang terpusat mendukung proses analisis kredit yang lebih cepat dan konsisten.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-d255146956ff43f09e25bbf3ebf2034a.xml#id-d255146956ff43f09e25bbf3ebf2034a"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

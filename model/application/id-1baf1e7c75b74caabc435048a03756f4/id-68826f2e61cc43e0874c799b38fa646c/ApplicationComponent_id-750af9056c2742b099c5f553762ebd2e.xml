@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Origination System (LOS)"
+    id="id-750af9056c2742b099c5f553762ebd2e"
+    documentation="Sistem pengelolaan pengajuan dan pemrosesan kredit. Tidak memiliki kemampuan scoring otomatis; seluruh analisis dilakukan manual oleh analis kredit."/>

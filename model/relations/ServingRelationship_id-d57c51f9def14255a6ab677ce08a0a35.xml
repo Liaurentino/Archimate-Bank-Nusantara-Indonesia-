@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d57c51f9def14255a6ab677ce08a0a35"
+    documentation="Layanan kredit melayani pemohon pinjaman">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-5d622c786d4b4f65809305296d7ed62d.xml#id-5d622c786d4b4f65809305296d7ed62d"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-14288be3b8b14b3ea0ebac7d31c710e9.xml#id-14288be3b8b14b3ea0ebac7d31c710e9"/>
+</archimate:ServingRelationship>

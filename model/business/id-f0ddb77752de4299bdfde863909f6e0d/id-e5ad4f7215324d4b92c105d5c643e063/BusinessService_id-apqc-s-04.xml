@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML Compliance Service"
+    id="id-apqc-s-04"
+    documentation="Layanan bisnis penyaringan kepatuhan dan validasi legalitas transaksi nasabah terhadap regulasi anti pencucian uang."/>

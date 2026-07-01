@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a55ab9ff3d874e889d239f3f7f0d6731"
+    documentation="Menghubungkan kios cabang ke jaringan internal bank">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-5ab5183210a2426a90bdcdeed0a3c30b.xml#id-5ab5183210a2426a90bdcdeed0a3c30b"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-9b5d0ed1575249a2931e9b4516d7645d.xml#id-9b5d0ed1575249a2931e9b4516d7645d"/>
+</archimate:AssociationRelationship>

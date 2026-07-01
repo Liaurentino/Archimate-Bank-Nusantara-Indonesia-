@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-30137237d38d4896a0c18527070d7225"
+    documentation="Karyawan merasakan dampak langsung dari proses kerja yang masih manual dan terfragmentasi.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-a51fef7ff17c471c83d8eee38dccd7ac.xml#id-a51fef7ff17c471c83d8eee38dccd7ac"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-96fea200551d4834ad66e219bc3baa04.xml#id-96fea200551d4834ad66e219bc3baa04"/>
+</archimate:AssociationRelationship>

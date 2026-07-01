@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4f90af89ae5a440cbdd7c3d6b82cd5e6"
+    documentation="Customer Registration Service memicu proses input data manual oleh petugas CS ke dalam CIF System.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-78302d6964fe4ab1aaa66caedbc67a31.xml#id-78302d6964fe4ab1aaa66caedbc67a31"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2541b663b4e04469838f2f146725c00e.xml#id-2541b663b4e04469838f2f146725c00e"/>
+</archimate:TriggeringRelationship>

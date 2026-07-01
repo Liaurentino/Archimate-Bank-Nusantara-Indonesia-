@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3cc4b09c2bac42489de102fb5b9f2c7d"
+    documentation="ATM Switch System menyediakan data transaksi ATM yang digunakan sebagai acuan proses balancing kas mesin ATM.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71b4f00516a14ecb9a48806e5402e89c.xml#id-71b4f00516a14ecb9a48806e5402e89c"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-f33127947d564be5a6f446db90ebc25c.xml#id-f33127947d564be5a6f446db90ebc25c"/>
+</archimate:ServingRelationship>

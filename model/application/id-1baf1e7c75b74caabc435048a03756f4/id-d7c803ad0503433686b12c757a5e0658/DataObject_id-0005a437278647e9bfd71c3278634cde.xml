@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Ledger Record"
+    id="id-0005a437278647e9bfd71c3278634cde"
+    documentation="Catatan buku besar rekening nasabah di CBS. Diperbarui hanya setelah proses batch end-of-day selesai."/>

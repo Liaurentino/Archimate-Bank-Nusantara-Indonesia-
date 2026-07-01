@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-828764d6faa44e8885a306977326452c"
+    documentation="Mendukung pelaporan AML secara otomatis sesuai regulasi yang berlaku.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-837b25a73e1d450e98781cc691bcce5b.xml#id-837b25a73e1d450e98781cc691bcce5b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:RealizationRelationship>
