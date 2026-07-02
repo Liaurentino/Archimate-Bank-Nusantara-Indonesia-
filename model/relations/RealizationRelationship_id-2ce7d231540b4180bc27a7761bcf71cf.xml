@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2ce7d231540b4180bc27a7761bcf71cf"
+    documentation="Sistem operasi Linux Ubuntu merealisasikan layanan eksekusi sistem operasi untuk mengelola utilitas hardware dasar.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7f6b2736bb0a46688030c2839e87fa71.xml#id-7f6b2736bb0a46688030c2839e87fa71"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-937460d6589542b5870ff01f0d8a6df8.xml#id-937460d6589542b5870ff01f0d8a6df8"/>
+</archimate:RealizationRelationship>
