@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e86386303b944c88bc451e3f501fe087"
+    documentation="Manajemen berupaya mengurangi biaya operasional dan meningkatkan efisiensi proses bisnis.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-d9a7aa6b61a94419b47059163eb6e588.xml#id-d9a7aa6b61a94419b47059163eb6e588"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-96fea200551d4834ad66e219bc3baa04.xml#id-96fea200551d4834ad66e219bc3baa04"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5481e5ab1eac4cd481d44ad9db7383c8"
+    documentation="Integrasi berbasis layanan mendukung pemisahan lapisan presentasi, proses, dan data dalam arsitektur aplikasi.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b4da544a70244ce6927da85bcb50930b.xml#id-b4da544a70244ce6927da85bcb50930b"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-573366398be2431784f1b3e61489979e.xml#id-573366398be2431784f1b3e61489979e"/>
+</archimate:RealizationRelationship>

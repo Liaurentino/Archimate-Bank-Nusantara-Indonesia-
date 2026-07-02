@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Escalated to Regulator"
+    id="id-apqc-e-04"
+    documentation="Peristiwa bisnis saat keluhan nasabah tidak terselesaikan di internal dan diteruskan ke regulator (OJK/BI)."/>

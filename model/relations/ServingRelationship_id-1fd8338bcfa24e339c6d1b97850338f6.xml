@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1fd8338bcfa24e339c6d1b97850338f6"
+    documentation="Layanan database relasional menyediakan kapabilitas penyimpanan data lokal berkinerja tinggi untuk mendukung aplikasi transaksional inti yang berjalan di lingkungan Private Cloud.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-288b3e488c1544018cded03ee54bd0d0.xml#id-288b3e488c1544018cded03ee54bd0d0"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ae3b0126ba3b4690af0720badf1f8081.xml#id-ae3b0126ba3b4690af0720badf1f8081"/>
+</archimate:ServingRelationship>

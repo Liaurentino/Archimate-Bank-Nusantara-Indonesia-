@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e05de965def54d84b81462dd4ea06f00"
+    documentation="CBS membaca dan menulis Account Ledger Record sebagai objek buku besar utama perbankan.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0005a437278647e9bfd71c3278634cde.xml#id-0005a437278647e9bfd71c3278634cde"/>
+</archimate:AccessRelationship>

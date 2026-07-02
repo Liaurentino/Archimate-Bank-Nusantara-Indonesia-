@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-012ad0fe3254492f937891de5cf57bb1"
+    documentation="Kompetitor menyediakan pengalaman layanan yang lebih terintegrasi dan konsisten.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-2b1bd317f5f24da580fa7d5f56a73f0a.xml#id-2b1bd317f5f24da580fa7d5f56a73f0a"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-8c138a3e9140434b8fb98386d6038b32.xml#id-8c138a3e9140434b8fb98386d6038b32"/>
+</archimate:InfluenceRelationship>

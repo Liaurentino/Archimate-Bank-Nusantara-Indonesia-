@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8f83bc5bacd04fb1870d25ca2d3464fd"
+    documentation="Data pelanggan digunakan untuk menghasilkan insight dan mendukung inovasi produk.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-4f6ee8d82cd244d4b551aab6ad7f2ec4.xml#id-4f6ee8d82cd244d4b551aab6ad7f2ec4"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-387fc7511fe14089a35b18fb1d3936b1.xml#id-387fc7511fe14089a35b18fb1d3936b1"/>
+</archimate:AssignmentRelationship>

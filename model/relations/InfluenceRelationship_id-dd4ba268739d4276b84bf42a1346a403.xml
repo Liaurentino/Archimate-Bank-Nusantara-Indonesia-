@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dd4ba268739d4276b84bf42a1346a403"
+    documentation="Pendekatan monitoring batch mengurangi efektivitas pengawasan transaksi.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-96fea200551d4834ad66e219bc3baa04.xml#id-96fea200551d4834ad66e219bc3baa04"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-e8bcd6f0644d43c1a9a4ae037c9d71cf.xml#id-e8bcd6f0644d43c1a9a4ae037c9d71cf"/>
+</archimate:InfluenceRelationship>

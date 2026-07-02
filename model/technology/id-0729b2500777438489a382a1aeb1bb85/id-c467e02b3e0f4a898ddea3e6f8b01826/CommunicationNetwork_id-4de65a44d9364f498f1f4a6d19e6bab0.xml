@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Internet (HTTPS / TLS)"
+    id="id-4de65a44d9364f498f1f4a6d19e6bab0"
+    documentation="Jalur komunikasi nasabah ke API Gateway"/>

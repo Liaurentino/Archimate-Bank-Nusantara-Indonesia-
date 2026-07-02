@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-546ac3e995b9414e8d38b2410a432fda"
+    documentation="CBS merealisasikan layanan batch akhir hari sebagai mesin rekonsiliasi terpusat.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3e038bab20145b6a434189b95408efb.xml#id-b3e038bab20145b6a434189b95408efb"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-810c59f2319b48689364081fc06ba06b.xml#id-810c59f2319b48689364081fc06ba06b"/>
+</archimate:RealizationRelationship>

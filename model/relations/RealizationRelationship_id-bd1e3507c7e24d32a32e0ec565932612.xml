@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bd1e3507c7e24d32a32e0ec565932612"
+    documentation="Kemampuan pemrosesan transaksi memanfaatkan infrastruktur hybrid cloud untuk meningkatkan skalabilitas dan kinerja.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-65af8aecac3e4876a4750c4b174d0958.xml#id-65af8aecac3e4876a4750c4b174d0958"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-1abf707079c74bdfaa8670074b35231b.xml#id-1abf707079c74bdfaa8670074b35231b"/>
+</archimate:RealizationRelationship>

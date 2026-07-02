@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability"
+    id="id-42306723ad604a609300cee6a6bf681d"
+    documentation="BNI menggunakan standar REST API dan ISO 20022 untuk koneksi ke BI-FAST, OAuth 2.0 untuk autentikasi, dan format standar PPATK untuk pelaporan STR sehingga tidak terjadi vendor lock-in"/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-53eacd670980471eb31650d76a469d31"
+    documentation="Data nasabah di CIF harus diinput ulang secara manual ke LOS; tidak ada integrasi langsung antar sistem.&#xA;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23d28ffceb9d456d90c23fb7a8579de6.xml#id-23d28ffceb9d456d90c23fb7a8579de6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-750af9056c2742b099c5f553762ebd2e.xml#id-750af9056c2742b099c5f553762ebd2e"/>
+</archimate:AssociationRelationship>

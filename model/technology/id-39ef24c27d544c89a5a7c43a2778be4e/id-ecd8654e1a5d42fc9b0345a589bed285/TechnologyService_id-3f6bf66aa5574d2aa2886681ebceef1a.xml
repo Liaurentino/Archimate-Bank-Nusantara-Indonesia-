@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Monitoring Service"
+    id="id-3f6bf66aa5574d2aa2886681ebceef1a"
+    documentation="Layanan pemantauan kondisi server dan infrastruktur. Dilakukan manual melalui pengecekan berkala oleh tim IT; tidak ada notifikasi otomatis."/>

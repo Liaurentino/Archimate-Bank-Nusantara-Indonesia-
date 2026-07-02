@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Report File"
+    id="id-fad3522495744d61a08e5b5b510d3b53"
+    documentation="File laporan hasil rekonsiliasi akhir hari dalam format flat file. Didistribusikan secara fisik ke unit terkait."/>

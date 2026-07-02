@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute and Record Transactions"
+    id="id-apqc-p-5324"
+    documentation="Proses bisnis memproses instruksi transaksi (transfer, pembayaran) nasabah dan membukukannya ke dalam sub-ledger core banking."/>

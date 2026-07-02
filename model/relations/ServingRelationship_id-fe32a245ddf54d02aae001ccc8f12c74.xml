@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fe32a245ddf54d02aae001ccc8f12c74"
+    documentation="Leased Line menyediakan jalur komunikasi jaringan untuk Desktop Workstation cabang.">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-1bac84d93f694d82988aaa0c7d8ef0cd.xml#id-1bac84d93f694d82988aaa0c7d8ef0cd"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-e51d0a01dc8c4c0998b621f5729b3a55.xml#id-e51d0a01dc8c4c0998b621f5729b3a55"/>
+</archimate:ServingRelationship>

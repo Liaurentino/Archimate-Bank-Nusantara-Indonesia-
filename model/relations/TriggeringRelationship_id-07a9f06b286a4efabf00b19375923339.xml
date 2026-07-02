@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-07a9f06b286a4efabf00b19375923339"
+    documentation="Pendaftaran nasabah baru memicu proses pemberian akses ATM yang dieksekusi manual oleh IT.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2541b663b4e04469838f2f146725c00e.xml#id-2541b663b4e04469838f2f146725c00e"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-8dc684e28f934488b80f8f207655a9f5.xml#id-8dc684e28f934488b80f8f207655a9f5"/>
+</archimate:TriggeringRelationship>

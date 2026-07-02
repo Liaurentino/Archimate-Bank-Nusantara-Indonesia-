@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-248081249a71460ba312714d2d0f1506"
+    documentation="RDBMS digunakan untuk mewujudkan layanan pemeliharaan basis data.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a5cd430652ad40a1a575f5639e37a226.xml#id-a5cd430652ad40a1a575f5639e37a226"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-7a729bf9cfab4c2bb6cb0adab94e7ef9.xml#id-7a729bf9cfab4c2bb6cb0adab94e7ef9"/>
+</archimate:RealizationRelationship>

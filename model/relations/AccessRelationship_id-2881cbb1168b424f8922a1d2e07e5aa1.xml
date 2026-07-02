@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2881cbb1168b424f8922a1d2e07e5aa1"
+    documentation="Batch Reconciliation System menulis Batch Report File sebagai keluaran proses rekonsiliasi.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f8312733dc5c4a2e9df25737a6528669.xml#id-f8312733dc5c4a2e9df25737a6528669"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-fad3522495744d61a08e5b5b510d3b53.xml#id-fad3522495744d61a08e5b5b510d3b53"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passbook Printing Service"
+    id="id-9f0d80df7bb3410fbda3b6d650f7b335"
+    documentation="Layanan cetak mutasi buku tabungan fisik. Hanya tersedia di kantor cabang; nasabah wajib hadir secara langsung"/>

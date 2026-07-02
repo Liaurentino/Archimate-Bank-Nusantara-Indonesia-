@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-958b4b177e5e4ca5a870fbb09c900672"
+    documentation="Tape Backup Device menyediakan media fisik untuk layanan perekaman pita magnetik.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-95a00eca82674332aa28d9960e76bfa3.xml#id-95a00eca82674332aa28d9960e76bfa3"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6087501d82db4ad9b36d0ec0d44c7422.xml#id-6087501d82db4ad9b36d0ec0d44c7422"/>
+</archimate:ServingRelationship>

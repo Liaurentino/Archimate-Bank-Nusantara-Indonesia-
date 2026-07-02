@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-081f050613c04e8f96b5905adee04617"
+    documentation="Informasi pelanggan dikelola oleh aplikasi yang berwenang sebagai sumber data utama organisasi.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8e251380ccb34835a71583d775a00606.xml#id-8e251380ccb34835a71583d775a00606"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-665ce82ee4f44514b5ee759dcdb55922.xml#id-665ce82ee4f44514b5ee759dcdb55922"/>
+</archimate:RealizationRelationship>
