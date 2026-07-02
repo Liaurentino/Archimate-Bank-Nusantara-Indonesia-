@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c365de64cd88404c805fe0770ba76f70"
+    documentation="Layanan hosting kontainer menyediakan isolasi runtime cadangan pada server pemulihan bencana untuk menjamin kontinuitas sistem.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-e744daffb4864fc98b0e69e701b8cd53.xml#id-e744daffb4864fc98b0e69e701b8cd53"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+</archimate:ServingRelationship>
