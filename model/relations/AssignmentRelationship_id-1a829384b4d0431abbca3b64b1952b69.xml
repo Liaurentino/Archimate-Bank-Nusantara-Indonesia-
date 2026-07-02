@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1a829384b4d0431abbca3b64b1952b69"
+    documentation="Tim teknis memastikan implementasi kontrol dan proses kepatuhan digital.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-85b702d6cc494de799ab1deedfc6238f.xml#id-85b702d6cc494de799ab1deedfc6238f"/>
+</archimate:AssignmentRelationship>

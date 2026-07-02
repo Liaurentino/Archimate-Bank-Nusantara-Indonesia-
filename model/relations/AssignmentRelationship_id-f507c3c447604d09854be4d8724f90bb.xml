@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f507c3c447604d09854be4d8724f90bb"
+    documentation="Anggaran transformasi digital digunakan untuk mendukung pengembangan produk dan layanan baru.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-969656776ea84c2eab42eb87b89ce79f.xml#id-969656776ea84c2eab42eb87b89ce79f"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-387fc7511fe14089a35b18fb1d3936b1.xml#id-387fc7511fe14089a35b18fb1d3936b1"/>
+</archimate:AssignmentRelationship>

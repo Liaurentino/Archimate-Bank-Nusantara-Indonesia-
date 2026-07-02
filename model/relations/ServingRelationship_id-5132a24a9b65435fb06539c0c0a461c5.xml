@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5132a24a9b65435fb06539c0c0a461c5"
+    documentation="Layanan onboarding melayani calon nasabah">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bddbe1bd106f403fbf46c0d4c2098c7f.xml#id-bddbe1bd106f403fbf46c0d4c2098c7f"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-46ade9e66a194286a5bbbff317e2798d.xml#id-46ade9e66a194286a5bbbff317e2798d"/>
+</archimate:ServingRelationship>

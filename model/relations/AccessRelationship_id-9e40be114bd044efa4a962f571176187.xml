@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9e40be114bd044efa4a962f571176187"
+    documentation="Batch Reconciliation System membaca Transaction Log sebagai sumber data rekonsiliasi harian.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f8312733dc5c4a2e9df25737a6528669.xml#id-f8312733dc5c4a2e9df25737a6528669"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-50824725db8c49529acd8e23b5fbf5e3.xml#id-50824725db8c49529acd8e23b5fbf5e3"/>
+</archimate:AccessRelationship>

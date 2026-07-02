@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Residency Requirement"
+    id="id-be95807c0b784be99020a12ecee5ede2"
+    documentation="Data nasabah dan transaksi harus disimpan serta diproses sesuai ketentuan lokasi penyimpanan data yang ditetapkan regulator."/>

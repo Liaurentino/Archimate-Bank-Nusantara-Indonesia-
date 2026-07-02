@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-14dfac3151674897a480359c88738112"
+    documentation="Cluster K8s menjalankan container verifikasi eKYC">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9cbb290d954440d4a197534fbaf22e37.xml#id-9cbb290d954440d4a197534fbaf22e37"/>
+</archimate:ServingRelationship>

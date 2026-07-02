@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12229332c83f4dcb97e7180560cf13de"
+    documentation="Batch Reconciliation System membaca ATM Transaction Record untuk rekonsiliasi transaksi ATM.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f8312733dc5c4a2e9df25737a6528669.xml#id-f8312733dc5c4a2e9df25737a6528669"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-55ecb49558834f8ba465ec05e0597164.xml#id-55ecb49558834f8ba465ec05e0597164"/>
+</archimate:AccessRelationship>

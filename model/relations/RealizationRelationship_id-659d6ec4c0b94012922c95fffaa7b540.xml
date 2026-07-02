@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-659d6ec4c0b94012922c95fffaa7b540"
+    documentation="Integrasi dengan Dukcapil dan sistem eksternal memerlukan interoperabilitas yang baik.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-42306723ad604a609300cee6a6bf681d.xml#id-42306723ad604a609300cee6a6bf681d"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

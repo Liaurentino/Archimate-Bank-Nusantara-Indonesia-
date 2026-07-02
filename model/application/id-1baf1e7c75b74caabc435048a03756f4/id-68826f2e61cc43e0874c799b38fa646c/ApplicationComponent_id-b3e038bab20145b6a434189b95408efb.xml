@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Banking System(CBS)"
+    id="id-b3e038bab20145b6a434189b95408efb"
+    documentation="Sistem inti perbankan yang mengelola rekening, saldo, dan transaksi. Pembaruan saldo dilakukan secara batch end-of-day"/>

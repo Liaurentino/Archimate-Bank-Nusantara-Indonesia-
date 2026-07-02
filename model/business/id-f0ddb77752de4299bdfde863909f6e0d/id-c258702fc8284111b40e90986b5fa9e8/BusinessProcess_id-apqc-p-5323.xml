@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Account Transactions"
+    id="id-apqc-p-5323"
+    documentation="Proses bisnis memantau transaksi harian nasabah secara real-time untuk mendeteksi anomali atau fraud."/>

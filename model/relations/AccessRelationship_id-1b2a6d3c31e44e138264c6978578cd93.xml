@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1b2a6d3c31e44e138264c6978578cd93"
+    documentation="Teller Transaction System menulis Transaction Log setiap transaksi diinput manual oleh teller.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ff2e0ac899914c26821c15068c23cbc5.xml#id-ff2e0ac899914c26821c15068c23cbc5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-50824725db8c49529acd8e23b5fbf5e3.xml#id-50824725db8c49529acd8e23b5fbf5e3"/>
+</archimate:AccessRelationship>

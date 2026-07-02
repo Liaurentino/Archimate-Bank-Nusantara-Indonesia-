@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4248b4a528be48dfaaae6796bb08ed04"
+    documentation="SAN menyediakan blok penyimpanan fisik yang digunakan oleh Database Server.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-c67c15209f1d46a9a9f28d10300cec46.xml#id-c67c15209f1d46a9a9f28d10300cec46"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-b8933fdfb3d0403e8595839093933c08.xml#id-b8933fdfb3d0403e8595839093933c08"/>
+</archimate:ServingRelationship>

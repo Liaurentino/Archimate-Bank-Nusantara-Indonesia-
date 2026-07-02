@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-de768828f79f4711a255b7a5f09ade33"
+    documentation="Nasabah mengharapkan layanan perbankan yang cepat, mudah diakses, dan tersedia secara digital">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-c288435a1a0f413e8a609cf52fe0da11.xml#id-c288435a1a0f413e8a609cf52fe0da11"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-a1c282e3b5f14d21beacf0faf7adda44.xml#id-a1c282e3b5f14d21beacf0faf7adda44"/>
+</archimate:AssociationRelationship>

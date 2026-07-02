@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8dd9e262e43b4eec98848c524d77fbd8"
+    documentation="Call Center Application merealisasikan layanan pencatatan pengaduan melalui kanal telepon.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2733c72aefb9416998b89696912d6aa8.xml#id-2733c72aefb9416998b89696912d6aa8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-9349d47f39c548a990ed18559633ca97.xml#id-9349d47f39c548a990ed18559633ca97"/>
+</archimate:RealizationRelationship>

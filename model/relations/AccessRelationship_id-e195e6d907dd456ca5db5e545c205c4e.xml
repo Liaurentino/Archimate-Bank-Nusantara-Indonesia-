@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e195e6d907dd456ca5db5e545c205c4e"
+    documentation="Passbook Printing Service membaca Account Ledger Record untuk mencetak mutasi dan saldo terkini ke buku tabungan fisik nasabah.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-9f0d80df7bb3410fbda3b6d650f7b335.xml#id-9f0d80df7bb3410fbda3b6d650f7b335"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0005a437278647e9bfd71c3278634cde.xml#id-0005a437278647e9bfd71c3278634cde"/>
+</archimate:AccessRelationship>

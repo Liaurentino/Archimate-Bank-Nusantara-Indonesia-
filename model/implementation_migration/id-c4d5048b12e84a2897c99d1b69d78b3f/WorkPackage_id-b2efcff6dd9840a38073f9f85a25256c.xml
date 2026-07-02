@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Package 3 - Fraud Detection &amp; AML Real-time Platform"
+    id="id-b2efcff6dd9840a38073f9f85a25256c"
+    documentation="Cakupan: Implementasi Kafka event streaming, pelatihan model ML fraud, dan integrasi dengan CBS baru.&#xD;&#xA;Durasi: 4 bulan (TW2-TW4)&#xD;&#xA;Prioritas: Tinggi&#xD;&#xA;Target Plateau: Target Architecture&#xD;&#xA;Menghasilkan: D3 - Fraud Detection &amp; AML Engine&#xD;&#xA;Memicu: Fraud Real-time 100% Transaksi&#xD;&#xA;Menyelesaikan: GAP-4"/>

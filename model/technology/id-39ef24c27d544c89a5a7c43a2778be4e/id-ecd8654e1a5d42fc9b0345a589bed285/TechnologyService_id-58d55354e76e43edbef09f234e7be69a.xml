@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Connectivity Service"
+    id="id-58d55354e76e43edbef09f234e7be69a"
+    documentation="Layanan konektivitas jaringan antar kantor pusat, data center, dan cabang menggunakan leased line dan MPLS."/>
