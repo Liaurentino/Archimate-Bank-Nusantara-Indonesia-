@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-59948286222c46739113b2c26e973625"
+    documentation="Customer Registration Service menulis data identitas nasabah baru ke Customer Master Data setelah proses input manual selesai.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-78302d6964fe4ab1aaa66caedbc67a31.xml#id-78302d6964fe4ab1aaa66caedbc67a31"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d40a80e88a5344d78eb9b3625ddcf46e.xml#id-d40a80e88a5344d78eb9b3625ddcf46e"/>
+</archimate:AccessRelationship>

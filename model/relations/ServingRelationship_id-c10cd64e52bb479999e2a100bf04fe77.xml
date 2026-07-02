@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c10cd64e52bb479999e2a100bf04fe77"
+    documentation="Database Server memberikan infrastruktur komputasi dan memori untuk menjalankan RDBMS.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-b8933fdfb3d0403e8595839093933c08.xml#id-b8933fdfb3d0403e8595839093933c08"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a5cd430652ad40a1a575f5639e37a226.xml#id-a5cd430652ad40a1a575f5639e37a226"/>
+</archimate:ServingRelationship>

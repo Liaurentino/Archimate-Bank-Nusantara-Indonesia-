@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8c781249d1c249b69ba7d025fe8a1316"
+    documentation="Sistem yang skalabel mampu menangani peningkatan volume transaksi dan monitoring keamanan.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-906d03cefe7b488e84419e3145d594a3.xml#id-906d03cefe7b488e84419e3145d594a3"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

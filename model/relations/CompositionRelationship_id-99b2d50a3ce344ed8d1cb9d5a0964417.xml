@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-99b2d50a3ce344ed8d1cb9d5a0964417"
+    documentation="Mainframe Server adalah perangkat keras utama di dalam Data Center Primer.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-bc6c98ed9ccc4f7bacaad4de60cc846c.xml#id-bc6c98ed9ccc4f7bacaad4de60cc846c"/>
+</archimate:CompositionRelationship>

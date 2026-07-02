@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0db4c0220a7f4be3a962323421e9f08a"
+    documentation="Layanan database relasional menyediakan konektivitas data terstruktur yang skalabel untuk melayani kebutuhan penyimpanan status dan kueri data dari pod mikroservis yang berjalan di dalam Kubernetes Cluster.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-288b3e488c1544018cded03ee54bd0d0.xml#id-288b3e488c1544018cded03ee54bd0d0"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+</archimate:ServingRelationship>

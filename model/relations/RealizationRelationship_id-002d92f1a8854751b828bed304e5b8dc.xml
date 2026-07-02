@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-002d92f1a8854751b828bed304e5b8dc"
+    documentation="Integrasi layanan memungkinkan pertukaran data kredit secara otomatis antar sistem.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-b8356ed631dc4d659eb9a1a8e052f3b0.xml#id-b8356ed631dc4d659eb9a1a8e052f3b0"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

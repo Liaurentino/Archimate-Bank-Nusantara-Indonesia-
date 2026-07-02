@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-61b718f3d94145cdbd523d7bfbcedeb3"
+    documentation="Strategi pengelolaan data pelanggan diterapkan untuk mendukung pelaporan dan pengawasan kepatuhan yang lebih akurat.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-1abf707079c74bdfaa8670074b35231b.xml#id-1abf707079c74bdfaa8670074b35231b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:RealizationRelationship>

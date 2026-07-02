@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1fc5e39ad5b74702a900ef9db2a6436b"
+    documentation="Integrasi sistem yang terbatas menyebabkan proses bisnis berjalan kurang efisien.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-96fea200551d4834ad66e219bc3baa04.xml#id-96fea200551d4834ad66e219bc3baa04"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-9c34bc652cc64ec6a28eebbe93f47d59.xml#id-9c34bc652cc64ec6a28eebbe93f47d59"/>
+</archimate:InfluenceRelationship>

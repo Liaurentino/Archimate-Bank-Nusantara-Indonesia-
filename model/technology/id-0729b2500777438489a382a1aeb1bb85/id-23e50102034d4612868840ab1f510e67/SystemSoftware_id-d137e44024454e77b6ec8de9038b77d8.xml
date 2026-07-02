@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IOS"
+    id="id-d137e44024454e77b6ec8de9038b77d8"
+    documentation="Runtime mobile BNI Super App di sisi nasabah">
+  <properties
+      key="Vendor"
+      value="Apple"/>
+</archimate:SystemSoftware>

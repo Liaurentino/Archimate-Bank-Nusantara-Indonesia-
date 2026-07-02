@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f12c29dad1f14681aab60438ba914aa7"
+    documentation="Layanan hosting kontainer mendukung operasional runtime pod dan kontainer yang berjalan di dalam klaster Kubernetes.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-e744daffb4864fc98b0e69e701b8cd53.xml#id-e744daffb4864fc98b0e69e701b8cd53"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-de1532befed844b0945673ee9ad44c71"
+    documentation="Sistem yang terfragmentasi membatasi kemampuan organisasi untuk berinovasi dengan cepat.">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-2b1bd317f5f24da580fa7d5f56a73f0a.xml#id-2b1bd317f5f24da580fa7d5f56a73f0a"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-9c34bc652cc64ec6a28eebbe93f47d59.xml#id-9c34bc652cc64ec6a28eebbe93f47d59"/>
+</archimate:InfluenceRelationship>

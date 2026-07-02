@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute and Record Transactions (PCF 5.3.2.4)"
+    id="id-25ca0e4647e649e19d9ce82a55cd21e1"
+    documentation="Elemen ini merepresentasikan proses bisnis inti perbankan yang mengeksekusi instruksi pemindahan dana finansial massal nasabah dan mengarahkannya ke jaringan kliring BI-FAST. Proses bisnis transaksional ini secara vertikal merealisasikan Payment Service melalui relasi Realization untuk dinikmati oleh pemegang akun perbankan. Alur kerja transaksional proses ini memicu relasi Triggering lanjutan menuju proses Real-time Transaction Monitoring guna divalidasi aspek keamanannya. Secara simultan, aktivitas proses ini menghasilkan jejak audit finansial dengan hak Access bertipe menulis log mutasi ke dalam Business Object Transaction Record. Nilai bisnis yang dihadirkan adalah pemrosesan transaksi transfer antar-bank yang instan, murah, siaga penuh 24/7, serta memiliki kepastian hukum settlement. Posisi elemen ini berada di jantung operasional finansial dalam arsitektur Business Process Cooperation Viewpoint.  "/>

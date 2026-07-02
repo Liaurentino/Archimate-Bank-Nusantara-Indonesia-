@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Server OS (Ubuntu)"
+    id="id-7f6b2736bb0a46688030c2839e87fa71"
+    documentation="Sistem operasi server berbasis open-source yang dikonfigurasi sebagai platform runtime dasar untuk menjalankan Kubernetes, Docker, dan modul basis data."/>

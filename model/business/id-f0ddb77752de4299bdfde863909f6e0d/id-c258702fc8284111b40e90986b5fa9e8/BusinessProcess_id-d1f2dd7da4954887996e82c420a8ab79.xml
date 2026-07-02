@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Up and Activate Account (PCF 5.3.1.7)"
+    id="id-d1f2dd7da4954887996e82c420a8ab79"
+    documentation="Elemen ini merepresentasikan proses bisnis operasional internal yang mengeksekusi pembuatan nomor rekening resmi dan pengaktifan hak akses digital nasabah baru. Proses bisnis ini dipicu secara berurutan melalui relasi Triggering langsung dari proses Digital Customer Onboarding pasca verifikasi identitas dinyatakan sukses. Setelah pembukuan akun rampung, proses ini memicu relasi Triggering lanjutan ke tahap Account Lifecycle Management untuk tata kelola rekening aktif jangka panjang. Dalam aspek data, proses ini merealisasikan fungsionalitas Digital Onboarding Service via relasi Realization serta memiliki hak Access untuk memperbarui data saldo awal pada Account Record. Nilai bisnis utamanya adalah standarisasi otomatisasi pembukaan akun tanpa intervensi manual staf bank yang menghemat operasional. Posisi elemen ini berada di fase transisi akuisisi dalam arsitektur Business Process Cooperation Viewpoint.  "/>

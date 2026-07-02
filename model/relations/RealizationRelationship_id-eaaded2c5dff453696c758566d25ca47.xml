@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eaaded2c5dff453696c758566d25ca47"
+    documentation="Kemampuan onboarding digital menjadi sarana utama untuk mewujudkan strategi akuisisi nasabah digital.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-5c3f4ef5701a4d4f927f8093ebd40f1b.xml#id-5c3f4ef5701a4d4f927f8093ebd40f1b"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-6764dd2e3f714fdabc78164790e9b79f.xml#id-6764dd2e3f714fdabc78164790e9b79f"/>
+</archimate:RealizationRelationship>

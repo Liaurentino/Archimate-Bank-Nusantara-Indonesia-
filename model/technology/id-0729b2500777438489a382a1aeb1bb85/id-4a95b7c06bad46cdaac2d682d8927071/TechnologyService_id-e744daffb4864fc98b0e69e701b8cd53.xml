@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container Hosting Service"
+    id="id-e744daffb4864fc98b0e69e701b8cd53"
+    documentation="Layanan teknologi yang menyediakan orkestrasi, orkestrasi siklus hidup, dan isolasi lingkungan kontainer secara dinamis untuk menjalankan berbagai beban kerja aplikasi mikroservis."/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-93da11e557384fe1b5834ddcdf4f8f0a"
+    documentation="Antivirus memindai dan mengamankan Desktop Workstation cabang dari malware.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-110168d2b4fc4447b3d279ee7bd71702.xml#id-110168d2b4fc4447b3d279ee7bd71702"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-e51d0a01dc8c4c0998b621f5729b3a55.xml#id-e51d0a01dc8c4c0998b621f5729b3a55"/>
+</archimate:ServingRelationship>

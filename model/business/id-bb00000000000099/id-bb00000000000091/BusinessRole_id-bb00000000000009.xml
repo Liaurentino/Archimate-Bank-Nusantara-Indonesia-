@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complainant"
+    id="id-bb00000000000009"
+    documentation="Nasabah yang menyampaikan keluhan via telepon atau datang langsung ke cabang. Riwayat komplain sering hilang saat berpindah kanal."/>

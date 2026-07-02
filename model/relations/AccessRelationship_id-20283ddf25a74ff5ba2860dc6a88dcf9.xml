@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-20283ddf25a74ff5ba2860dc6a88dcf9"
+    documentation="Proses input manual menulis data ke Customer Master Data berdasarkan formulir fisik nasabah.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2541b663b4e04469838f2f146725c00e.xml#id-2541b663b4e04469838f2f146725c00e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d40a80e88a5344d78eb9b3625ddcf46e.xml#id-d40a80e88a5344d78eb9b3625ddcf46e"/>
+</archimate:AccessRelationship>

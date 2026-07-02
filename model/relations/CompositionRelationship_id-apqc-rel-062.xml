@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-apqc-rel-062">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-apqc-prod-02.xml#id-apqc-prod-02"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-apqc-s-05.xml#id-apqc-s-05"/>
+</archimate:CompositionRelationship>

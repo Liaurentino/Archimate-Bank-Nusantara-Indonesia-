@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-694105fd12694e6ab648cb1d1dadd2f3"
+    documentation="Jaringan cabang dan ATM mendukung penyediaan layanan yang terintegrasi dengan kanal digital.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-eec8adb583ef42368531b1c294b86c9f.xml#id-eec8adb583ef42368531b1c294b86c9f"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-899a360802c1410484b8855553814307.xml#id-899a360802c1410484b8855553814307"/>
+</archimate:AssignmentRelationship>

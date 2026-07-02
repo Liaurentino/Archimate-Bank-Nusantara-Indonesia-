@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GAP 3 - Siloed Systems &amp; Fragmented Data"
+    id="id-4cd8d1038c5f486eb594e44d1e4a69fc"
+    documentation="Baseline: CBS, CRM, Loan System, dan AML beroperasi secara terpisah tanpa integrasi data real-time, menyebabkan duplikasi data dan inkonsistensi informasi nasabah.&#xD;&#xA;Target: API Gateway terpusat dengan &#xD;&#xA;single customer view di seluruh sistem.&#xD;&#xA;Diselesaikan oleh: WP2 → D2, WP4 → D4&#xD;&#xA;Diselesaikan pada: Target Architecture&#xD;&#xA;Proses APQC terkait: PCF 5.3.2.6"/>
