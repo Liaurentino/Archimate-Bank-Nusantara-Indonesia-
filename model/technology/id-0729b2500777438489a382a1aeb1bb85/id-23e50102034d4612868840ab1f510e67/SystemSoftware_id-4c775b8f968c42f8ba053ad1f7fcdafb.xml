@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Docker Container Runtime"
     id="id-4c775b8f968c42f8ba053ad1f7fcdafb"
-    documentation="Containerisasi seluruh microservices di Kubernetes"/>
+    documentation="Perangkat lunak kontainerisasi (container engine) yang digunakan untuk membungkus, mendistribusikan, dan menjalankan aplikasi mikroservis secara portabel dan konsisten."/>

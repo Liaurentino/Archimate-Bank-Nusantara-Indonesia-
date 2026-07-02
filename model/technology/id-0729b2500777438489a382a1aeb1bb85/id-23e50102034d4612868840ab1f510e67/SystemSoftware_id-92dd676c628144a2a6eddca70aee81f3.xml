@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Redis Cache Engine"
     id="id-92dd676c628144a2a6eddca70aee81f3"
-    documentation="Caching memori berkecepatan tinggi untuk session dan token"/>
+    documentation="Caching memori berkecepatan tinggi untuk session dan token">
+  <properties
+      key="Vendor"
+      value="Redis Ltd"/>
+</archimate:SystemSoftware>

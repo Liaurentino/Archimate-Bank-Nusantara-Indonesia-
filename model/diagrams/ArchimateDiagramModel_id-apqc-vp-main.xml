@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APQC PCF Business Process Viewpoint"
-    id="id-apqc-vp-main"
-    viewpoint="business_process_cooperation">
+    id="id-apqc-vp-main">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-apqc-g-01"
