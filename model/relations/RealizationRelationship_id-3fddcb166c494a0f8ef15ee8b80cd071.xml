@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3fddcb166c494a0f8ef15ee8b80cd071"
+    documentation="Proses kredit dapat dijalankan secara konsisten tanpa bergantung pada kanal pengajuan yang digunakan nasabah.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-674e5da83c3744a497eb74b53366139c.xml#id-674e5da83c3744a497eb74b53366139c"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

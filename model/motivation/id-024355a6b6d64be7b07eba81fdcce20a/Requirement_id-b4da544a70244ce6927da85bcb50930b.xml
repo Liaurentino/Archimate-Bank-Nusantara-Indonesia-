@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise API Integration Platform"
+    id="id-b4da544a70244ce6927da85bcb50930b"
+    documentation="Seluruh komunikasi antar sistem internal BNI dan koneksi ke sistem eksternal harus melalui satu API Gateway terpusat yang mengelola autentikasi, rate limiting, logging, dan routing"/>

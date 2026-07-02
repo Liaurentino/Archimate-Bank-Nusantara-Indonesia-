@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cd8abf5204c04c93b25cb1954dab144b"
+    documentation="Call Center Application menulis Complaint Record setiap pengaduan nasabah dicatat oleh agen.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2733c72aefb9416998b89696912d6aa8.xml#id-2733c72aefb9416998b89696912d6aa8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4b108e5d52a943229ce88237055b85ae.xml#id-4b108e5d52a943229ce88237055b85ae"/>
+</archimate:AccessRelationship>

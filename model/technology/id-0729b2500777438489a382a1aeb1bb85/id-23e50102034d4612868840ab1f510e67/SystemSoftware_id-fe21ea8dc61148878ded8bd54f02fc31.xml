@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kubernetes Orchestration Engine"
+    id="id-fe21ea8dc61148878ded8bd54f02fc31"
+    documentation="Manajemen deployment dan scaling container"/>

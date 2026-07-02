@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aafe2d12905a4b2ba4b984a3b125efed"
+    documentation="Mendukung integrasi dengan regulator dan sistem eksternal untuk kebutuhan kepatuha">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b4da544a70244ce6927da85bcb50930b.xml#id-b4da544a70244ce6927da85bcb50930b"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:RealizationRelationship>

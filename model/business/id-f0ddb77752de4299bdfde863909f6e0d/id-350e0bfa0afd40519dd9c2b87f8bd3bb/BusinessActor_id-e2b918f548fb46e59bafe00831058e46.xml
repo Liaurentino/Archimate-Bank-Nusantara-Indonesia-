@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Operation"
+    id="id-e2b918f548fb46e59bafe00831058e46"
+    documentation="Elemen ini merepresentasikan aktor bisnis internal teknis yang bertanggung jawab penuh atas pemantauan keandalan sistem, stabilitas infrastruktur jaringan, dan ketersediaan tinggi platform perbankan digital. Aktor ini berinteraksi erat via relasi Association dengan proses kritis Payment &amp; Settlement Processing guna memastikan pipeline transaksi finansial berjalan lancar tanpa interupsi. Peran utamanya adalah memitigasi risiko kegagalan sistem pada jam-jam sibuk transaksi nasabah dan mengawal orkestrasi integrasi antar-sistem agar berjalan siaga penuh 24/7. Kontribusi aktor ini sangat fundamental dalam menjaga kualitas performa infrastruktur penopang perbankan digital. Nilai bisnis yang dihadirkan adalah minimalisasi downtime sistem yang dapat merusak kepercayaan nasabah ritel terhadap reputasi digital bank. Posisi aktor ini berada pada lapisan dasar operasional internal dalam peta arsitektur bisnis organisasi perbankan digital BNI.  "/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8c80a2330e66400c8a1196a1a490fa23"
+    documentation="Mitra teknologi menyediakan solusi keamanan dan monitoring transaksi.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-e9fd9f150cfa45389abdc861b10e0fd7.xml#id-e9fd9f150cfa45389abdc861b10e0fd7"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:AssociationRelationship>

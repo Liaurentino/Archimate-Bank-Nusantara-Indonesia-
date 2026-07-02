@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Inquiry Service"
+    id="id-0389b34e163845eba3cbd474a66c2cf0"
+    documentation="Layanan pengecekan saldo dan informasi rekening. Hanya dapat diakses oleh teller di cabang; saldo yang ditampilkan merupakan hasil batch sebelumnya."/>

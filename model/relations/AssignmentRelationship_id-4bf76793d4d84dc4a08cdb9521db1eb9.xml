@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4bf76793d4d84dc4a08cdb9521db1eb9"
+    documentation="Cluster mengelola file model AI">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-01304fd1ff6c4a839cab7a58e2924f69.xml#id-01304fd1ff6c4a839cab7a58e2924f69"/>
+</archimate:AssignmentRelationship>

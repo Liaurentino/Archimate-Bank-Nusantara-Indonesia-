@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Management Service"
+    id="id-aa00000000000003"
+    documentation="Layanan bisnis pengelolaan siklus hidup rekening aktif nasabah yang mengekspos kapabilitas pemeliharaan saldo, kalkulasi bunga otomatis, pembaruan data akun, dan administrasi rekening digital secara real-time."/>

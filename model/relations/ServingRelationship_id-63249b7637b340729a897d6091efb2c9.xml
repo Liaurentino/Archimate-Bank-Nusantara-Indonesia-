@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-63249b7637b340729a897d6091efb2c9"
+    documentation="Mainframe OS menyediakan sistem operasi untuk memfungsikan Mainframe Server.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b4078bdd59d14c6399fe3ae54ccdb65e.xml#id-b4078bdd59d14c6399fe3ae54ccdb65e"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-bc6c98ed9ccc4f7bacaad4de60cc846c.xml#id-bc6c98ed9ccc4f7bacaad4de60cc846c"/>
+</archimate:ServingRelationship>

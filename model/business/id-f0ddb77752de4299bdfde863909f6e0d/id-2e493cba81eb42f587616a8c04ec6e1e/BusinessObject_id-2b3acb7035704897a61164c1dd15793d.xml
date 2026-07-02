@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Ticket"
+    id="id-2b3acb7035704897a61164c1dd15793d"
+    documentation="Elemen ini merepresentasikan objek data bisnis digital terpusat yang mencatat berkas administrasi aduan nasabah, kode ID tiket unik, pengelompokan jenis kendala teknis, kronologi log interaksi agen, dan sisa target tenggat SLA. Objek data operasional ini dikelola secara dinamis melalui relasi Access oleh dua proses penanganan keluhan bank. Proses Omnichannel Customer Service menulis dan menerbitkan tiket baru saat aduan masuk, sementara proses Manage Customer Complaints membaca konteks masalah guna mengeksekusi resolusi tuntas aduan nasabah. Entitas data ini mengeliminasi risiko hilangnya riwayat komplain nasabah saat berpindah kanal komunikasi digital. Nilai bisnis utama yang dihadirkan adalah transparansi pemantauan performa kecepatan resolusi masalah bank dan pemenuhan regulasi perlindungan konsumen OJK digital banking. Posisi elemen ini berada pada lapisan dasar penataan data layanan pelanggan di dalam arsitektur bisnis target BNI.  "/>

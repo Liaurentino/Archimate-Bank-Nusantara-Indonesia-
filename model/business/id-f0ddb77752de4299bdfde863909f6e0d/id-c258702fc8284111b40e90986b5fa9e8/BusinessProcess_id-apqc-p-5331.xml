@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Loan Disbursement"
+    id="id-apqc-p-5331"
+    documentation="Proses bisnis memverifikasi persetujuan akhir pinjaman dan mencairkan dana kredit ke rekening debitur."/>

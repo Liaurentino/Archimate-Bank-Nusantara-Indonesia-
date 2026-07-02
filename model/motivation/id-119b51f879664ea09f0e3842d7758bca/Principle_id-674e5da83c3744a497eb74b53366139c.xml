@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Critical processes are executed in specific systems"
+    id="id-674e5da83c3744a497eb74b53366139c"
+    documentation="Proses settlement BI-FAST/RTGS dan AML monitoring berjalan di sistem khusus terpisah dari proses non-kritikal seperti loyalty program dan notifikasi marketing"/>

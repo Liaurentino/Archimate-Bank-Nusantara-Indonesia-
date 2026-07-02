@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Cloud Node (On-Premise)"
+    id="id-ae3b0126ba3b4690af0720badf1f8081"
+    documentation="Infrastruktur server fisik internal perusahaan yang dikonfigurasi sebagai pusat komputasi awan privat (private cloud) untuk menjalankan operasional perbankan utama."/>

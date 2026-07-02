@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e727370f1757432d9f730babe453e94b"
+    documentation="LOS merealisasikan layanan pemrosesan kredit sebagai sistem pencatat pengajuan pinjaman.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-23d28ffceb9d456d90c23fb7a8579de6.xml#id-23d28ffceb9d456d90c23fb7a8579de6"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-17a04a72ecf74f0ea754a27f7647e909.xml#id-17a04a72ecf74f0ea754a27f7647e909"/>
+</archimate:RealizationRelationship>

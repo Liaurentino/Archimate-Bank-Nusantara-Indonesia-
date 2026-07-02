@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operating System Execution Service "
+    id="id-937460d6589542b5870ff01f0d8a6df8"
+    documentation="Layanan teknologi dasar yang menyediakan manajemen sumber daya perangkat keras, alokasi memori, runtime sistem operasi, dan penjadwalan proses komputasi."/>

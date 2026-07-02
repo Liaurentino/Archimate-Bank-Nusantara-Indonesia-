@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b4b656e43e1941a58bb26a8fceac4501"
+    documentation="ATM Balancing Process membaca ATM Transaction Record untuk mencocokkan jumlah fisik kas dengan catatan transaksi sistem.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-f33127947d564be5a6f446db90ebc25c.xml#id-f33127947d564be5a6f446db90ebc25c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-55ecb49558834f8ba465ec05e0597164.xml#id-55ecb49558834f8ba465ec05e0597164"/>
+</archimate:AccessRelationship>

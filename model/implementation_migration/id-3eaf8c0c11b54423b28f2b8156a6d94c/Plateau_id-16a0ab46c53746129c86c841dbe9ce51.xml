@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="               Plateau 1:                  Baseline Architecture       CBS legacy, onboarding fisik, fraud batch"
+    id="id-16a0ab46c53746129c86c841dbe9ce51"
+    documentation="Kondisi arsitektur BNI saat ini yang ditandai dengan CBS legacy, onboarding nasabah masih dilakukan secara fisik di cabang, deteksi fraud berbasis batch harian, sistem CBS/CRM/AML belum &#xD;&#xA;terintegrasi, dan layanan pelanggan belum omnichannel. Seluruh 5 gap arsitektur ada di kondisi ini."/>

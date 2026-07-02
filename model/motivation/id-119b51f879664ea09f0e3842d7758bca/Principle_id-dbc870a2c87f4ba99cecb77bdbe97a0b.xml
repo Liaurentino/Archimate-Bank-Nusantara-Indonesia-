@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel-specific is separated from channel-independent"
+    id="id-dbc870a2c87f4ba99cecb77bdbe97a0b"
+    documentation="Proses transfer, cek saldo, dan pengajuan kredit berjalan dengan logika yang sama baik diakses via BNI Mobile, web, maupun ATM. Hanya lapisan UI yang berbeda per kanal"/>

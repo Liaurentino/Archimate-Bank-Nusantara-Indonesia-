@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Customer Complaints and Appeals (PCF 6.2)"
+    id="id-1454aaaf536e45798e93011d2dcb6c9c"
+    documentation="Elemen ini merepresentasikan proses bisnis tata kelola eskalasi komplain tingkat lanjut nasabah yang berfokus pada resolusi tuntas aduan berkategori kritis dan pelaporan regulasi. Proses bisnis ini menerima limpahan pemicu aktivitas melalui relasi Triggering dari penanganan saluran awal di Omnichannel Customer Service. Secara operasional, proses penuntasan masalah ini didukung oleh aktor Call Center Agent melalui hubungan relasi Assignment langsung di kanvas arsitektur. Dalam memelihara data administrasi keluhan nasabah, proses bisnis ini memiliki hak Access modifikasi untuk membaca kronologi dan memperbarui status resolusi masalah pada objek Complaint Ticket. Nilai bisnis yang dihadirkan adalah jaminan kepatuhan terhadap POJK perlindungan konsumen serta pemulihan loyalitas nasabah pasca kegagalan sistem finansial bank. Posisi elemen ini berada di hilir rantai penanganan aduan pelanggan dalam arsitektur bisnis target BNI.  "/>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Banking Transition Period"
+    id="id-7f8e33f938bd4647a635314a5385aac0"
+    documentation="Migrasi sistem core banking harus dilakukan secara bertahap dengan periode operasional paralel untuk meminimalkan risiko gangguan layanan."/>

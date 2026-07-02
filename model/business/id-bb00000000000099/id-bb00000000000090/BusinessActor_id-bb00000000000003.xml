@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kepala Cabang"
+    id="id-bb00000000000003"
+    documentation="Pimpinan kantor cabang yang mengotorisasi transaksi bernilai besar dan memberikan persetujuan kredit tingkat cabang secara manual."/>

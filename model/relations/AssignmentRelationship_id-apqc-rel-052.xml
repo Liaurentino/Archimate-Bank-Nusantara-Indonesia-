@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-apqc-rel-052">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-apqc-a-01.xml#id-apqc-a-01"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-apqc-p-211.xml#id-apqc-p-211"/>
+</archimate:AssignmentRelationship>

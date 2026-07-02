@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bd2179e11ad74322bff541154c0a5765"
+    documentation="Data historis pelanggan digunakan untuk membangun dan meningkatkan model credit scoring.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-4f6ee8d82cd244d4b551aab6ad7f2ec4.xml#id-4f6ee8d82cd244d4b551aab6ad7f2ec4"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-190449a29d284a7793feb7ffb572f76f.xml#id-190449a29d284a7793feb7ffb572f76f"/>
+</archimate:AssignmentRelationship>
