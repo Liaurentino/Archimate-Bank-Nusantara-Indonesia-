@@ -1187,8 +1187,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-74fb88b884ec4401a78346aa9968ff01"
       name="Technology Service"
-      textAlignment="1"
-      fillColor="#ff8080">
+      textAlignment="1">
     <bounds
         x="-48"
         y="589"
