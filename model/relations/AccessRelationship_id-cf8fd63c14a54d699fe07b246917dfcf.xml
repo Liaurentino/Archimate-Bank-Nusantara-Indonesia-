@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cf8fd63c14a54d699fe07b246917dfcf"
+    documentation="Analis membaca dan memperbarui Loan Application File selama proses review dokumen kredit manual.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-cd82270d37da4af38ca398465a7aa623.xml#id-cd82270d37da4af38ca398465a7aa623"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ecb4fe05ccfe44beaea37cd45b1f1303.xml#id-ecb4fe05ccfe44beaea37cd45b1f1303"/>
+</archimate:AccessRelationship>

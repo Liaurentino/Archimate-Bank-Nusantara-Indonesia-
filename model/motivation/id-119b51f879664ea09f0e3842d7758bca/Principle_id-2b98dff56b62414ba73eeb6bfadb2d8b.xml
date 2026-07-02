@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT systems adhere to open standards"
+    id="id-2b98dff56b62414ba73eeb6bfadb2d8b"
+    documentation=" standar terbuka yang diakui industriSemua API BNI menggunakan standar RESTful dan JSON. Autentikasi menggunakan OAuth 2.0. Transaksi antar bank menggunakan ISO 20022. Standar ini memudahkan integrasi dengan ekosistem Open Banking Indonesia"/>

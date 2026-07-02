@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-41c469ff05e8434fa04b90cdd2e6cf9b"
+    documentation="Menyediakan data nasabah yang konsisten selama proses onboarding digital.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-8e251380ccb34835a71583d775a00606.xml#id-8e251380ccb34835a71583d775a00606"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

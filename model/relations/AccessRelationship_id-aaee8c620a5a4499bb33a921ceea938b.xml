@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aaee8c620a5a4499bb33a921ceea938b"
+    documentation="Fraud Investigation Support Service membaca ATM Transaction Record untuk investigasi transaksi mencurigakan dari jaringan ATM.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c74c618c61484bdebe1ea2af500bbf49.xml#id-c74c618c61484bdebe1ea2af500bbf49"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-55ecb49558834f8ba465ec05e0597164.xml#id-55ecb49558834f8ba465ec05e0597164"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Log"
+    id="id-50824725db8c49529acd8e23b5fbf5e3"
+    documentation="Catatan transaksi harian dari teller dan ATM. Digunakan sebagai bahan rekonsiliasi batch; tidak dapat diquery secara real-time."/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="publishes: FraudScoredEvent"
+    id="id-1d913b4c76c947b49061b786dc6ead7e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-538a1f1340d447eabed7ddaec8053056.xml#id-538a1f1340d447eabed7ddaec8053056"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d8fb4b6a7be427d88466998a27fb591.xml#id-0d8fb4b6a7be427d88466998a27fb591"/>
+</archimate:FlowRelationship>

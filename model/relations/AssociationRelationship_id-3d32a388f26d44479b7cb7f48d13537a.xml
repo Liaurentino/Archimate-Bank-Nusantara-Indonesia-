@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3d32a388f26d44479b7cb7f48d13537a"
+    documentation="Jalur jaringan internal ke cluster microservices">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-9b5d0ed1575249a2931e9b4516d7645d.xml#id-9b5d0ed1575249a2931e9b4516d7645d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+</archimate:AssociationRelationship>

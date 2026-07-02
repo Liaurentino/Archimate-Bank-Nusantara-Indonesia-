@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM Transaction Record"
+    id="id-55ecb49558834f8ba465ec05e0597164"
+    documentation="Log transaksi dari jaringan ATM. Disimpan terpisah dari CBS dan direkonsiliasi melalui proses batch harian."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customers have a single point of contact"
+    id="id-fa989e7bd0d24598b97e7ba1b9a93657"
+    documentation="BNI Super App menjadi satu-satunya kanal utama nasabah. Call center, chatbot, dan cabang fisik semuanya terhubung ke platform yang sama sehingga nasabah tidak perlu berpindah-pindah"/>

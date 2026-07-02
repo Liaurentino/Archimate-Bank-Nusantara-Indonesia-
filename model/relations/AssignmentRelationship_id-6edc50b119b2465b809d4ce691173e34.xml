@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6edc50b119b2465b809d4ce691173e34"
+    documentation="Application Server dialokasikan untuk mengeksekusi Batch Processing Scheduler.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-c3abfe96f4a94bf1adf45472c3db7e16.xml#id-c3abfe96f4a94bf1adf45472c3db7e16"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-74321915f693457caef84ab549332434.xml#id-74321915f693457caef84ab549332434"/>
+</archimate:AssignmentRelationship>

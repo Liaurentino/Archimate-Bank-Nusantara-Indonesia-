@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-75285d4e803a47a78b0e9e9c4a32826f"
+    documentation="Strategi pencegahan fraud secara real-time diterapkan untuk meningkatkan keamanan transaksi dan mengurangi risiko fraud.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-d5c8d2986f174b1e808c79344bf03540.xml#id-d5c8d2986f174b1e808c79344bf03540"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

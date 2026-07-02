@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCI-DSS Compliance Requirement"
+    id="id-caea5c82795b4779855b7ea830d1c8a6"
+    documentation="Seluruh sistem yang mengelola data kartu pembayaran wajib memenuhi standar keamanan PCI-DSS"/>

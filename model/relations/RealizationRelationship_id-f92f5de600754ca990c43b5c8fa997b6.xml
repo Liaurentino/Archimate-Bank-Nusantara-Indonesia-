@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f92f5de600754ca990c43b5c8fa997b6"
+    documentation="Skalabilitas sistem menjaga kualitas layanan pada seluruh kanal digital.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-906d03cefe7b488e84419e3145d594a3.xml#id-906d03cefe7b488e84419e3145d594a3"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

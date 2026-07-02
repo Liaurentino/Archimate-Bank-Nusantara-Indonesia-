@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b186faddc35a42ed9ca239ea9f47f8d4"
+    documentation="Regulator mendorong penerapan standar kepatuhan pada layanan perbankan digital.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-94ca5b8692e24fd6b043426a1f82f6c0.xml#id-94ca5b8692e24fd6b043426a1f82f6c0"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-d14ed4e59bed47e1a5b78f50d520dc37.xml#id-d14ed4e59bed47e1a5b78f50d520dc37"/>
+</archimate:AssociationRelationship>

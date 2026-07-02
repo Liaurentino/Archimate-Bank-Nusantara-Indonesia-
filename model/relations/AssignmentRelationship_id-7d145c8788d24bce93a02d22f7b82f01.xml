@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7d145c8788d24bce93a02d22f7b82f01"
+    documentation="Tim teknis mengelola sistem monitoring dan deteksi fraud secara real-time.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-7f03ef0757a644589a79b84836da1162.xml#id-7f03ef0757a644589a79b84836da1162"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Passbook"
+    id="id-bb00000000000019"
+    documentation="Buku tabungan fisik yang menyimpan catatan saldo dan mutasi tercetak. Harus dibawa ke cabang untuk update."/>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f09e6a117bea4713be30e1ee7e4c6a25"
+    documentation="Mendukung proses verifikasi identitas nasabah secara digital melalui integrasi dengan sumber data resmi.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-392c9b1c856041dca1466e103e68eab9.xml#id-392c9b1c856041dca1466e103e68eab9"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

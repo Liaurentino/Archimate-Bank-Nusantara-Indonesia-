@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML Officer"
+    id="id-apqc-a-03"
+    documentation="Aktor bisnis yang memantau transaksi mencurigakan, memeriksa peringatan AML, dan menyusun laporan STR untuk regulator."/>

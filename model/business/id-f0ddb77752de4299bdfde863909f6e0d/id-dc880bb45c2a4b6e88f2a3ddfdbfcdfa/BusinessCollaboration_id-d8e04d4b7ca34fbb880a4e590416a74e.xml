@@ -1,0 +1,5 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud &amp; Credit Review Committee"
+    id="id-d8e04d4b7ca34fbb880a4e590416a74e"
+    documentation="Elemen ini merepresentasikan wadah kolaboratif internal yang dibentuk secara dinamis untuk mengintegrasikan keahlian analisis risiko dan pengawasan kepatuhan regulasi perbankan digital. Komponen ini mengagregasikan peran fungsional dari aktor Analis Kredit dan Compliance Officer melalui relasi Aggregation untuk menangani kasus-kasus anomali tingkat tinggi. Kotak kolaborasi ini mengemban fungsi Assignment ke peran Credit Supervisor guna mengeksekusi parameter pengawasan terpadu. Kontribusi strategis komite ini dalam layanan perbankan digital adalah bertindak sebagai benteng kendali mutu akhir yang mengintervensi keputusan otomatis mesin jika terdeteksi indikasi risiko fraud atau pelanggaran AML bernilai besar. Nilai bisnis yang diberikan adalah perlindungan berlapis atas aset keuangan bank dan minimalisasi rasio kredit macet (NPL). Posisi elemen ini berada di pusat kendali risiko lintas unit pada lapisan arsitektur bisnis organisasi target.  "/>

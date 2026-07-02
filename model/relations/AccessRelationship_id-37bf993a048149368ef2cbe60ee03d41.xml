@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-37bf993a048149368ef2cbe60ee03d41"
+    documentation="CIF System membaca dan menulis Customer Master Data sebagai repositori identitas nasabah.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71b4f00516a14ecb9a48806e5402e89c.xml#id-71b4f00516a14ecb9a48806e5402e89c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0a3d4363a1524c63bc2152857fc86c8f.xml#id-0a3d4363a1524c63bc2152857fc86c8f"/>
+</archimate:AccessRelationship>

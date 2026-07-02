@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7328781ae3434e96a8b405c1ae63cf15"
+    documentation="Aplikasi frontend melayani akses transaksi pembayaran">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f554d7fef98c48e7b94d518795e55009.xml#id-f554d7fef98c48e7b94d518795e55009"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-3a6e20b6d4104e6e8bc6fae02249740e.xml#id-3a6e20b6d4104e6e8bc6fae02249740e"/>
+</archimate:ServingRelationship>
