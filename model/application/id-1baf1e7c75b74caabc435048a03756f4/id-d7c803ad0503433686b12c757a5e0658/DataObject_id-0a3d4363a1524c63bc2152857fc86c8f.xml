@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Master Data"
-    id="id-0a3d4363a1524c63bc2152857fc86c8f"
-    documentation="Data identitas nasabah yang tersimpan di CIF System. Diinput manual oleh petugas; berpotensi tidak konsisten antar cabang."/>
