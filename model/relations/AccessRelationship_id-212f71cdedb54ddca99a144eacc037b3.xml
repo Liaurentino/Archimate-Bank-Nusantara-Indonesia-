@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-212f71cdedb54ddca99a144eacc037b3"
+    documentation="Fraud Investigation Support Service membaca Transaction Log untuk menelusuri riwayat transaksi yang dicurigai secara manual.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c74c618c61484bdebe1ea2af500bbf49.xml#id-c74c618c61484bdebe1ea2af500bbf49"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4349130b3ac942c9a3664c830f7d0348.xml#id-4349130b3ac942c9a3664c830f7d0348"/>
+</archimate:AccessRelationship>

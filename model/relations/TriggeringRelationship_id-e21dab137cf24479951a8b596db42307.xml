@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e21dab137cf24479951a8b596db42307"
+    documentation="Hasil balancing ATM memicu proses rekonsiliasi batch harian untuk disesuaikan dengan buku besar CBS.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-f33127947d564be5a6f446db90ebc25c.xml#id-f33127947d564be5a6f446db90ebc25c"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-b6729667bd3c4d43987eb552f7049b19.xml#id-b6729667bd3c4d43987eb552f7049b19"/>
+</archimate:TriggeringRelationship>

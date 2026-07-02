@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data is captured once"
+    id="id-d255146956ff43f09e25bbf3ebf2034a"
+    documentation="Nasabah yang sudah terdaftar tidak perlu mengisi ulang data identitas saat mengajukan produk baru. Semua sistem mengambil data dari Customer Data Platform"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Digital Identity Verification"
+    id="id-392c9b1c856041dca1466e103e68eab9"
+    documentation="Sistem harus mampu melakukan verifikasi identitas nasabah secara digital melalui integrasi dengan sumber data resmi dan mekanisme autentikasi biometrik."/>

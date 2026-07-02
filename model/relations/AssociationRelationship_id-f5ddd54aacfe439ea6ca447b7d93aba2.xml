@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f5ddd54aacfe439ea6ca447b7d93aba2"
+    documentation="Regulator mengharapkan perlindungan transaksi dan data nasabah.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-94ca5b8692e24fd6b043426a1f82f6c0.xml#id-94ca5b8692e24fd6b043426a1f82f6c0"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:AssociationRelationship>

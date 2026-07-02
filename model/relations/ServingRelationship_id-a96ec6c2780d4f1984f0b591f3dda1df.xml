@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a96ec6c2780d4f1984f0b591f3dda1df"
+    documentation="Data Backup Service mengirimkan salinan data ke Data Center DR.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6087501d82db4ad9b36d0ec0d44c7422.xml#id-6087501d82db4ad9b36d0ec0d44c7422"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-80fb62ee21144d47b8a37c6c90e7ec84.xml#id-80fb62ee21144d47b8a37c6c90e7ec84"/>
+</archimate:ServingRelationship>

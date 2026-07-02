@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-291d6bc103004a2a8f6f230ccb84084b"
+    documentation="Adopsi hybrid cloud mendukung ketersediaan dan skalabilitas layanan digital pada berbagai kanal pelanggan.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-34f1b6452a0d48189c1b9c271407e6fd.xml#id-34f1b6452a0d48189c1b9c271407e6fd"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-868b41ef09bd40e2a0c2c719d5dc95fc.xml#id-868b41ef09bd40e2a0c2c719d5dc95fc"/>
+</archimate:RealizationRelationship>

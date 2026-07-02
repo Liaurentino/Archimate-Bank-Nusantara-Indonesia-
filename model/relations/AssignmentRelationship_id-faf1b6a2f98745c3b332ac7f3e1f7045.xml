@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-faf1b6a2f98745c3b332ac7f3e1f7045"
+    documentation="Cluster menyimpan log transaksi">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ed65d382cee64900a5b5cf30b9ad087d.xml#id-ed65d382cee64900a5b5cf30b9ad087d"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-10e9b12243084b5381600c6d959ddc48.xml#id-10e9b12243084b5381600c6d959ddc48"/>
+</archimate:AssignmentRelationship>

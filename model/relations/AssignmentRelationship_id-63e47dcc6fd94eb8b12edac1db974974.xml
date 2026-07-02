@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-63e47dcc6fd94eb8b12edac1db974974"
+    documentation="Tim teknis mengelola platform pemrosesan transaksi dan settlement.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-65af8aecac3e4876a4750c4b174d0958.xml#id-65af8aecac3e4876a4750c4b174d0958"/>
+</archimate:AssignmentRelationship>
