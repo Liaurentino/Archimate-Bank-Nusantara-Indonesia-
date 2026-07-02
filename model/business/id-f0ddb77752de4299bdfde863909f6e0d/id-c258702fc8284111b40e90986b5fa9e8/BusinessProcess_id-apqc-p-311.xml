@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Customer and Market Intelligence Analysis"
+    id="id-apqc-p-311"
+    documentation="Proses bisnis mengumpulkan dan menganalisis data aktivitas nasabah untuk merancang program pemasaran personal.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Management Service"
+    id="id-7a729bf9cfab4c2bb6cb0adab94e7ef9"
+    documentation="Layanan pengelolaan dan pemeliharaan basis data oleh tim DBA secara manual dan terjadwal.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:TechnologyService>

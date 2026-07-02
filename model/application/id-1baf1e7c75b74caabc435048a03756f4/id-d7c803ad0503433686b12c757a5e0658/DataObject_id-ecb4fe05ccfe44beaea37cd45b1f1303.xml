@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Application File"
+    id="id-ecb4fe05ccfe44beaea37cd45b1f1303"
+    documentation="Data pengajuan kredit nasabah di LOS. Diinput manual dari berkas fisik; status tidak dapat dipantau secara digital.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:DataObject>

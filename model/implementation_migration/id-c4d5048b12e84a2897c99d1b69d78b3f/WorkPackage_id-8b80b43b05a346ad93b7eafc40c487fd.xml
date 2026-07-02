@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Package 2 - Core Banking System Migration"
+    id="id-8b80b43b05a346ad93b7eafc40c487fd"
+    documentation="Cakupan: Migrasi CBS legacy ke platform microservices modern berbasis cloud-native, parallel running, dan cutover bertahap.&#xA;&#xA;Durasi: 6 bulan (TW2-TW5)&#xA;&#xA;Prioritas: Tinggi&#xA;&#xA;Target Plateau: Target Architecture&#xA;&#xA;Menghasilkan: D2 - CBS Microservices Platform&#xA;&#xA;Memicu: CBS Parallel Running, CBS Cutover&#xA;&#xA;Menyelesaikan: GAP-2, GAP-3"/>

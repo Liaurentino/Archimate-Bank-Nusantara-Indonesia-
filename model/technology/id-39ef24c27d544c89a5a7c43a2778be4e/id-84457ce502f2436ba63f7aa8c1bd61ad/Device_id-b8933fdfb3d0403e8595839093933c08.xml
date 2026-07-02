@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Server"
+    id="id-b8933fdfb3d0403e8595839093933c08"
+    documentation="Server penyimpanan basis data seluruh data rekening, nasabah, dan transaksi perbankan.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:Device>

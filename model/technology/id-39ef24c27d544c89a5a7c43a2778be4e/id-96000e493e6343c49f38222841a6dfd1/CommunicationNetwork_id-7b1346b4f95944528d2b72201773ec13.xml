@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal LAN (Data Center)"
+    id="id-7b1346b4f95944528d2b72201773ec13"
+    documentation="Jaringan lokal yang menghubungkan seluruh server dan perangkat di dalam data center.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:CommunicationNetwork>

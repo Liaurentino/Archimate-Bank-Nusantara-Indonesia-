@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5980db5b2c394b3c8cf2ce1c1a0d9396"
+    documentation="PostgreSQL Database Engine merealisasikan Relational Database Service guna menyediakan kapabilitas penyimpanan, pengelolaan, dan pemrosesan data relasional terstruktur yang aman, andal, serta berkinerja tinggi untuk mendukung operasional aplikasi dan layanan mikro perbankan digital.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7ce54dcf0fe9436b82429e87ac5f5ce5.xml#id-7ce54dcf0fe9436b82429e87ac5f5ce5"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-e1f6591a88d34adb9692795bb04a4000.xml#id-e1f6591a88d34adb9692795bb04a4000"/>
+</archimate:RealizationRelationship>

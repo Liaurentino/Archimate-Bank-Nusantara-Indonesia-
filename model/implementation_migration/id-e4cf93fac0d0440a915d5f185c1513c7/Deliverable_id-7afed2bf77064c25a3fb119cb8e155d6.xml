@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliverable 3 - Fraud Detection &amp; AML Engine"
+    id="id-7afed2bf77064c25a3fb119cb8e155d6"
+    documentation="Hasil dari WP3.&#xA;&#xA;Platform pemantauan transaksi real-time dengan model ML yang sudah dikalibrasi, terhubung ke CBS dan sistem pelaporan PPATK.&#xA;&#xA;Merealisasikan: Target Architecture"/>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Analytics Platform"
+    id="id-4ce8d53de58c4d5abd48424f5daa3ae7">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:ApplicationComponent>

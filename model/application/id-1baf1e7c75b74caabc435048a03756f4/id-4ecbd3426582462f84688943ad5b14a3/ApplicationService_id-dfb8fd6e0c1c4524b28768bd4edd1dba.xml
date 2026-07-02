@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Posting Service"
+    id="id-dfb8fd6e0c1c4524b28768bd4edd1dba"
+    documentation="Layanan pencatatan transaksi ke CBS. Diinput manual oleh teller berdasarkan slip fisik; pembaruan saldo dilakukan melalui batch end-of-day.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationService>

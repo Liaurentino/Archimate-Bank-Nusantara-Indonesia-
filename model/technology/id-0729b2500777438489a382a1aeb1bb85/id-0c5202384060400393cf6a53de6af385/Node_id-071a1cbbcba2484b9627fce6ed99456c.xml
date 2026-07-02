@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dukcapil External Node"
+    id="id-071a1cbbcba2484b9627fce6ed99456c"
+    documentation="Node eksternal Kemendagri untuk validasi e-KTP">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Node>

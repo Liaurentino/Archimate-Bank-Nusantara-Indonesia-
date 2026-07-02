@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relationship Manager"
+    id="id-apqc-a-05"
+    documentation="Aktor bisnis yang bertugas menjalin hubungan dengan nasabah retail dan bisnis serta memandu pengajuan kredit.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessActor>

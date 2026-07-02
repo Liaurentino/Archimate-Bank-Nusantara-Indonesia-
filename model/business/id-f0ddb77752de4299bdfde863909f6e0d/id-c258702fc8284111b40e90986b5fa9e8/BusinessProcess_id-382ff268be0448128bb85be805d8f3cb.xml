@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Account Transactions (PCF 5.3.2.3)"
+    id="id-382ff268be0448128bb85be805d8f3cb"
+    documentation="Elemen ini merepresentasikan proses bisnis pengawasan keamanan transaksional aktif yang mengevaluasi parameter risiko fraud dari setiap dana finansial nasabah yang tengah mengalir. Proses pengawasan ini dipicu secara sekuensial melalui relasi Triggering langsung dari aktivitas transaksi Payment &amp; Settlement Processing. Jika terdeteksi anomali kecurangan transaksi, alur proses ini memicu relasi Triggering intervensi darurat menuju wadah Fraud &amp; Credit Review Committee. Aktor Compliance Officer terikat via relasi Association langsung dengan proses ini untuk menyelaraskan parameter deteksi kecurangan. Proses ini memiliki hak Access membaca rekam mutasi data digital pada objek Transaction Record. Nilai bisnis yang diberikan adalah pencegahan fraud seketika sebelum dana nasabah hilang ditransfer pelaku kejahatan. Posisi proses ini berada di benteng pertahanan keamanan operasional dalam arsitektur bisnis perbankan digital.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

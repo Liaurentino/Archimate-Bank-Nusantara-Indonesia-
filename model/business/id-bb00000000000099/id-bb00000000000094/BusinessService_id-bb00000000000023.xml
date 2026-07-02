@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Banking Service"
+    id="id-bb00000000000023"
+    documentation="Layanan perbankan umum yang hanya tersedia di kantor cabang pada jam kerja. Mencakup registrasi, informasi, dan administrasi nasabah.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessService>

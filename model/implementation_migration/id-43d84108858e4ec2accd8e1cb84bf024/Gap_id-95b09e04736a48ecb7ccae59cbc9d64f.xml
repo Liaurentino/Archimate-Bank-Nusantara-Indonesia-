@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GAP 4 - Fraud Detection Reaktif &amp; Batch"
+    id="id-95b09e04736a48ecb7ccae59cbc9d64f"
+    documentation="Baseline: Pemantauan fraud berjalan sebagai proses batch akhir hari, keterlambatan deteksi T+1, tidak ada pencegatan transaksi secara real-time.&#xA;&#xA;Target: Stream processing dengan Kafka dan model ML, transaksi dianalisis dalam waktu kurang dari 500ms, pemblokiran otomatis.&#xA;&#xA;Diselesaikan oleh: WP3 → D3&#xA;&#xA;Diselesaikan pada: Target Architecture&#xA;&#xA;Proses APQC terkait: PCF 5.3.1.2, 5.3.2.3"/>

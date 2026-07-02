@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Customer Inquiries via Digital Channels (PCF 6.1.1)"
+    id="id-aa00000000000002"
+    documentation="Proses bisnis konsultasi dan edukasi produk perbankan digital kepada nasabah yang membutuhkan panduan tatap muka di kantor cabang. Mendukung migrasi nasabah dari layanan konvensional ke platform digital secara bertahap.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

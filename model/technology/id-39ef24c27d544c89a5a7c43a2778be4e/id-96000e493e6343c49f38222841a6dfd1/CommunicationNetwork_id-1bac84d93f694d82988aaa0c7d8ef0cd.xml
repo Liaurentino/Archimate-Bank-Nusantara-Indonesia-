@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leased Line Network (Branch-to-HO)"
+    id="id-1bac84d93f694d82988aaa0c7d8ef0cd"
+    documentation="Jaringan leased line penghubung kantor cabang dengan kantor pusat dan data center. Bandwidth terbatas dan tidak elastis.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:CommunicationNetwork>

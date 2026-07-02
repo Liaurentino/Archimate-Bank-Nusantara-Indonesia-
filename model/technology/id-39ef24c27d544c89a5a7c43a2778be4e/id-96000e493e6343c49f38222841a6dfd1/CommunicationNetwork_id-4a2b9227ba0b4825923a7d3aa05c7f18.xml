@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM Network (Private)"
+    id="id-4a2b9227ba0b4825923a7d3aa05c7f18"
+    documentation="Jaringan privat yang menghubungkan mesin ATM dengan ATM Switch System di data center.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:CommunicationNetwork>

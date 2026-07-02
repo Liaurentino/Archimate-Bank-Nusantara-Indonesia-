@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27ece740cf71496dafa819f4e32b4433"
+    documentation="Proses onboarding digital dapat dikembangkan tanpa memengaruhi proses back-office.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-392c9b1c856041dca1466e103e68eab9.xml#id-392c9b1c856041dca1466e103e68eab9"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-d592a58a8eef456eb7dd8f6e2bdef406.xml#id-d592a58a8eef456eb7dd8f6e2bdef406"/>
+</archimate:RealizationRelationship>

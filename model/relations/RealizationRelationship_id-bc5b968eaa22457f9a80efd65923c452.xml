@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bc5b968eaa22457f9a80efd65923c452"
+    documentation="Strategi penilaian kredit berbasis AI diterapkan untuk mempercepat proses analisis dan persetujuan kredit.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-aa3d583cda6443a1b8c20a4e054f2f93.xml#id-aa3d583cda6443a1b8c20a4e054f2f93"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-b7776feab1ce44e9b1b2243fa8ac365b.xml#id-b7776feab1ce44e9b1b2243fa8ac365b"/>
+</archimate:RealizationRelationship>

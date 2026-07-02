@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a03b07d4f92640a7983dd8cb63291b94"
+    documentation="Layanan eksekusi OS melayani manajemen proses dan penjadwalan komputasi untuk server-server produksi di lingkungan Private Cloud.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-5384747f60404b00befe1e64e9a49e73.xml#id-5384747f60404b00befe1e64e9a49e73"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ae3b0126ba3b4690af0720badf1f8081.xml#id-ae3b0126ba3b4690af0720badf1f8081"/>
+</archimate:ServingRelationship>

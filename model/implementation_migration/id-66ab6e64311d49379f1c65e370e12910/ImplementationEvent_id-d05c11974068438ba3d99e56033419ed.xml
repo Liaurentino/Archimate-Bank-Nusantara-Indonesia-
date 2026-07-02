@@ -1,0 +1,5 @@
+<archimate:ImplementationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CBS Legacy Shutdown / Cutover"
+    id="id-d05c11974068438ba3d99e56033419ed"
+    documentation="Milestone: CBS legacy resmi dimatikan, CBS baru menjadi satu-satunya sistem core banking yang beroperasi.&#xA;&#xA;Dipicu oleh: WP2&#xA;&#xA;Waktu: Akhir TW5 (Bulan 15)"/>

@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker Container Runtime"
+    id="id-4c775b8f968c42f8ba053ad1f7fcdafb"
+    documentation="Containerisasi seluruh microservices di Kubernetes">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:SystemSoftware>

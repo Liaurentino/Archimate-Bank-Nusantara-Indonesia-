@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Server OS (Ubuntu)"
+    id="id-7f6b2736bb0a46688030c2839e87fa71"
+    documentation="OS dasar seluruh server backend BNI">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:SystemSoftware>

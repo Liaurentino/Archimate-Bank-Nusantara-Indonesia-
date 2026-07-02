@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Anti-Money Laundering (AML) Policy"
+    id="id-apqc-p-5312"
+    documentation="Proses bisnis menyaring profil nasabah terhadap daftar sanksi dan daftar hitam teroris untuk mencegah pencucian uang.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

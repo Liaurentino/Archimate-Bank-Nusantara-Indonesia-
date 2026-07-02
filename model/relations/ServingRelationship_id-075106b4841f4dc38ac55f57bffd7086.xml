@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-075106b4841f4dc38ac55f57bffd7086"
+    documentation="Layanan eksekusi OS melayani server Disaster Recovery untuk memastikan kernel dan runtime OS cadangan siap menerima failover data.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-5384747f60404b00befe1e64e9a49e73.xml#id-5384747f60404b00befe1e64e9a49e73"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+</archimate:ServingRelationship>

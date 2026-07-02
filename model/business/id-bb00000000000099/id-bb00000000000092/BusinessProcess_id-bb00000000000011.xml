@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Accounts (Manual) (PCF 5.3.1)"
+    id="id-bb00000000000011"
+    documentation="Proses pendaftaran nasabah baru secara manual di cabang menggunakan formulir CIF fisik, fotokopi KTP, dan verifikasi identitas tatap muka oleh CSO. Waktu proses rata-rata 1-2 jam.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Research Analyst"
+    id="id-apqc-a-02"
+    documentation="Aktor bisnis yang menganalisis tren pasar perbankan, kebutuhan segmen nasabah digital, dan pergerakan kompetitor.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessActor>

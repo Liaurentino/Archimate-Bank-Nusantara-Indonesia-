@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Customer Complaints and Appeals"
+    id="id-apqc-p-62"
+    documentation="Proses bisnis melakukan investigasi keluhan transaksi nasabah yang gagal dan memproses pengembalian dana.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

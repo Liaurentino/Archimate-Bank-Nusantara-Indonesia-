@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0a763d7b4624491b9cd8dc288d6fb528"
+    documentation="Strategi onboarding digital diterapkan untuk memungkinkan akuisisi dan verifikasi nasabah secara penuh melalui kanal digital.">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-6764dd2e3f714fdabc78164790e9b79f.xml#id-6764dd2e3f714fdabc78164790e9b79f"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-77e8c986599d44c482dda4a1ce3e94f2.xml#id-77e8c986599d44c482dda4a1ce3e94f2"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Reconciliation System"
+    id="id-f8312733dc5c4a2e9df25737a6528669"
+    documentation="Sistem rekonsiliasi saldo dan transaksi yang berjalan terjadwal setiap akhir hari kerja.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationComponent>

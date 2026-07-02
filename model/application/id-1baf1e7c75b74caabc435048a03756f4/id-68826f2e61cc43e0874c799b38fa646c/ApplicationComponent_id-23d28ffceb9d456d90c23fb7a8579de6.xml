@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Information File System"
+    id="id-23d28ffceb9d456d90c23fb7a8579de6"
+    documentation="Sistem penyimpanan data identitas nasabah. Data diinput secara manual oleh petugas CS berdasarkan formulir fisik.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationComponent>

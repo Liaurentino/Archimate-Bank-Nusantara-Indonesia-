@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Help Desk Service"
+    id="id-d2fc248c1271416da3fe6f33f5d2e833"
+    documentation="Layanan dukungan teknis untuk petugas cabang. Permintaan bantuan disampaikan melalui telepon dan dicatat manual.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:TechnologyService>

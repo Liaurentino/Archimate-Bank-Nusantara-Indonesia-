@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Up and Activate Account"
+    id="id-apqc-p-5317"
+    documentation="Proses bisnis mengonfigurasi parameter rekening nasabah baru pada core banking system dan mengaktifkan akses mobile banking.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

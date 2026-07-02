@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manual Lending Service"
+    id="id-bb00000000000025"
+    documentation="Layanan kredit manual dengan proses persetujuan melalui komite dan SLA keputusan 5-14 hari kerja.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessService>

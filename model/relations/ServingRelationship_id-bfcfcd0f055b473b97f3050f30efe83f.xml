@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bfcfcd0f055b473b97f3050f30efe83f"
+    documentation="Layanan database relasional menyediakan replikasi data dan ketersediaan data cadangan untuk mendukung pemulihan bencana (disaster recovery) jika infrastruktur utama mengalami kegagalan.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-e1f6591a88d34adb9692795bb04a4000.xml#id-e1f6591a88d34adb9692795bb04a4000"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-72f876e870e04791bf540d5b847e7594.xml#id-72f876e870e04791bf540d5b847e7594"/>
+</archimate:ServingRelationship>

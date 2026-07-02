@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Customer Identification Policy (eKYC)"
+    id="id-apqc-p-5313"
+    documentation="Proses bisnis memverifikasi identitas nasabah secara elektronik dengan teknologi pengenalan wajah biometrik.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

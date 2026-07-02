@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML Alert Triggered"
+    id="id-apqc-e-02"
+    documentation="Peristiwa bisnis berupa peringatan transaksi mencurigakan yang dipicu oleh mesin analisis kepatuhan otomatis.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessEvent>

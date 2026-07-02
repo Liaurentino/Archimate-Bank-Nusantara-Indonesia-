@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-smellfix-bni-kpr-loan-origination"
+    documentation="BNI KPR dikaitkan ke Loan Origination Service agar produk kredit perumahan tidak berdiri sebagai dead component pada view APQC.">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-apqc-prod-03.xml#id-apqc-prod-03"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-apqc-s-05.xml#id-apqc-s-05"/>
+</archimate:CompositionRelationship>

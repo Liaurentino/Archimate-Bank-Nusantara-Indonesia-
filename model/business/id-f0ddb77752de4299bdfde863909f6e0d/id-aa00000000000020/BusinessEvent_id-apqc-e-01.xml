@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Application Submitted"
+    id="id-apqc-e-01"
+    documentation="Peristiwa bisnis yang dipicu saat nasabah selesai mengirimkan formulir pengajuan pinjaman kredit digital.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessEvent>

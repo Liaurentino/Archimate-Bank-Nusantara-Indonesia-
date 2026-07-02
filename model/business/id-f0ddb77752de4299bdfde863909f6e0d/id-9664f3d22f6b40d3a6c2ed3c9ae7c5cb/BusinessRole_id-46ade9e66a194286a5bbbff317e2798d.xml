@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prospective Customer"
+    id="id-46ade9e66a194286a5bbbff317e2798d"
+    documentation="Elemen ini menetapkan peran logis spesifik yang diadopsi oleh Nasabah Ritel selama fase awal akuisisi dan pendaftaran nasabah baru pada platform perbankan digital. Peran ini berfungsi sebagai titik masuk legalitas nasabah melalui penugasan langsung via relasi Assignment dari aktor eksternal Nasabah Ritel. Peran ini menjadi target utama yang dilayani oleh Digital Onboarding Service melalui relasi Serving untuk memfasilitasi pembukaan akun secara jarak jauh. Aliran data dalam peran ini sangat krusial karena melandasi pembentukan Customer Profile yang dieksekusi secara digital oleh proses bisnis internal bank. Kontribusi terhadap layanan digital banking terwujud melalui optimalisasi proses akuisisi massal yang efisien, aman, dan mematuhi regulasi kependudukan. Nilai bisnis yang diberikan adalah peningkatan conversion rate calon nasabah menjadi nasabah aktif dengan meniadakan hambatan operasional geografis. Posisi elemen ini berada pada lapisan peran fungsional nasabah dalam struktur arsitektur organisasi target perbankan digital.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall Appliance"
+    id="id-be9de4208cd44042ad2e4f2399cab729"
+    documentation="Perangkat keamanan perimeter jaringan data center. Konfigurasi diperbarui secara manual dan periodik.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:Device>

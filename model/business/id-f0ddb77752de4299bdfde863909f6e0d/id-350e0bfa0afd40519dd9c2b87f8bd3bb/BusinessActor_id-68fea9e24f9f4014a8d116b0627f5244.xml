@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Petugas Cabang"
+    id="id-68fea9e24f9f4014a8d116b0627f5244"
+    documentation="Elemen ini merepresentasikan aktor bisnis internal kantor cabang yang mengalami reposisi fungsi radikal dari pelaksana transaksi klerikal tradisional menjadi penasihat keuangan dan pusat edukasi digital. Aktor ini ditugaskan via relasi Assignment untuk mendukung proses Omnichannel Customer Service guna menangani nasabah yang memerlukan panduan tatap muka langsung. Perannya dalam perbankan digital bergeser menjadi advisory center yang membantu nasabah beralih menggunakan platform mandiri serta mempromosikan produk perbankan bernilai tinggi. Kontribusi elemen ini adalah mengeliminasi tumpukan berkas dokumen kertas di kantor cabang dan mengoptimalkan fungsi infrastruktur fisik perbankan. Nilai bisnis yang dihadirkan adalah efisiensi ruang kerja fisik cabang dan peningkatan penjualan produk investasi atau asuransi lewat pendekatan personal. Posisi aktor ini berada pada lapisan kanal fisik terintegrasi dalam arsitektur bisnis organisasi perbankan digital BNI.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessActor>

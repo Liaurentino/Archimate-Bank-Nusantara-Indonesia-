@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BI-FAST Network (ISO 20022)"
+    id="id-2ce8493cb94242fa926fb27b49a6ff48"
+    documentation="Jaringan khusus kliring nasional Bank Indonesia">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:CommunicationNetwork>

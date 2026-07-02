@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-78378f89797c4a86bf247f0eb38a00df"
+    documentation="Nasabah berperan sebagai pemohon kredit">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3cc69ba4808f47cdaa1378aa86944d24-tobe.xml#id-3cc69ba4808f47cdaa1378aa86944d24-tobe"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-14288be3b8b14b3ea0ebac7d31c710e9-tobe.xml#id-14288be3b8b14b3ea0ebac7d31c710e9-tobe"/>
+</archimate:AssignmentRelationship>

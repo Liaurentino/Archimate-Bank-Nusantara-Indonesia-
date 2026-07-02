@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d61d0297d8a84b5a9faeb8cb9c01eda4"
+    documentation="Memungkinkan identifikasi dan pencegahan fraud secara langsung saat transaksi berlangsung.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-149e2b400e514377b8e2bcf311bd5e73.xml#id-149e2b400e514377b8e2bcf311bd5e73"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c3434ff9435f4c7f9ebe38dd08102627.xml#id-c3434ff9435f4c7f9ebe38dd08102627"/>
+</archimate:RealizationRelationship>

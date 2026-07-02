@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close and Manage Active Loans"
+    id="id-apqc-p-5333"
+    documentation="Proses bisnis memantau pengembalian angsuran pinjaman dan melakukan pelunasan kredit yang telah selesai.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

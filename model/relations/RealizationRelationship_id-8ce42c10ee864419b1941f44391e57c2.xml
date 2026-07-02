@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8ce42c10ee864419b1941f44391e57c2"
+    documentation="Kemampuan kepatuhan mendukung modernisasi sistem perbankan agar sesuai regulasi yang berlaku.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-85b702d6cc494de799ab1deedfc6238f.xml#id-85b702d6cc494de799ab1deedfc6238f"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-8e516892f31f4db68f5997def6ed1953.xml#id-8e516892f31f4db68f5997def6ed1953"/>
+</archimate:RealizationRelationship>

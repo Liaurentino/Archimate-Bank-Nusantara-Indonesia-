@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Strategy Document"
+    id="id-apqc-o-04"
+    documentation="Objek bisnis berupa dokumen panduan kebijakan strategi pengelolaan saluran digital (mobile, internet, open API).">
+  <properties
+      key="ReviewFocus"
+      value="Documentation / share preferences"/>
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

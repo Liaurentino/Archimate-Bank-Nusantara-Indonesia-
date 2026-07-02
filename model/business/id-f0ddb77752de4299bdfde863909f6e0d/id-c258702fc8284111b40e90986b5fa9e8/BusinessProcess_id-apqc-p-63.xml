@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measure and Manage Customer Satisfaction"
+    id="id-apqc-p-63"
+    documentation="Proses bisnis mengumpulkan kuesioner pelayanan nasabah untuk memformulasikan indeks kepuasan.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

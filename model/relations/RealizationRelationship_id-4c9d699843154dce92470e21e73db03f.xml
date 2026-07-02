@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4c9d699843154dce92470e21e73db03f"
+    documentation="Integrasi layanan mendukung pemisahan implementasi kanal tanpa mengubah proses bisnis inti.">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-b4da544a70244ce6927da85bcb50930b.xml#id-b4da544a70244ce6927da85bcb50930b"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-dbc870a2c87f4ba99cecb77bdbe97a0b.xml#id-dbc870a2c87f4ba99cecb77bdbe97a0b"/>
+</archimate:RealizationRelationship>

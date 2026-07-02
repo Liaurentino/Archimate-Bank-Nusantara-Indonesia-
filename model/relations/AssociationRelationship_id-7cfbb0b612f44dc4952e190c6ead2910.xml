@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7cfbb0b612f44dc4952e190c6ead2910">
+  <properties
+      key="CycleResolution"
+      value="Fraud decision callback to CBS is asynchronous; modeled as association instead of direct serving dependency."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-538a1f1340d447eabed7ddaec8053056.xml#id-538a1f1340d447eabed7ddaec8053056"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8056fd17eee943729892b2a6b224f5c3.xml#id-8056fd17eee943729892b2a6b224f5c3"/>
+</archimate:AssociationRelationship>

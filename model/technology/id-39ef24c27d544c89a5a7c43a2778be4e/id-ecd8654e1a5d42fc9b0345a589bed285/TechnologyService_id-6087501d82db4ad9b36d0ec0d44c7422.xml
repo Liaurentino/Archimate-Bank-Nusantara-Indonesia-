@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Backup and Recovery Service"
+    id="id-6087501d82db4ad9b36d0ec0d44c7422"
+    documentation="Layanan pencadangan data harian menggunakan tape dan disk. Bersifat full backup periodik; tidak ada backup incremental real-time.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:TechnologyService>

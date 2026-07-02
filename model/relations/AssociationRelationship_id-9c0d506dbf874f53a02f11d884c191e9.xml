@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="subscribes: FraudScoredEvent → BLOCK / FINALIZE"
+    id="id-9c0d506dbf874f53a02f11d884c191e9">
+  <properties
+      key="CycleResolution"
+      value="Event subscription from Kafka to CBS; modeled as association to avoid cyclic application dependency."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0d8fb4b6a7be427d88466998a27fb591.xml#id-0d8fb4b6a7be427d88466998a27fb591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8056fd17eee943729892b2a6b224f5c3.xml#id-8056fd17eee943729892b2a6b224f5c3"/>
+</archimate:AssociationRelationship>

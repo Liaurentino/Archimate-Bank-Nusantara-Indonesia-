@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ffebfd210f064a0c9bcf12c6e16395c1"
+    documentation="Manajemen bertanggung jawab atas kepatuhan organisasi terhadap regulasi.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-d9a7aa6b61a94419b47059163eb6e588.xml#id-d9a7aa6b61a94419b47059163eb6e588"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-a9375387cdbb439586bcf82de28a3113.xml#id-a9375387cdbb439586bcf82de28a3113"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relational Database Service"
+    id="id-e1f6591a88d34adb9692795bb04a4000"
+    documentation="Layanan teknologi yang menyediakan kapabilitas akses, penyimpanan, dan kueri data basis data relasional berkinerja tinggi, aman, dan siaga penuh untuk mendukung operasional sistem perbankan utama."/>

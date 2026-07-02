@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM Balancing Process"
+    id="id-f33127947d564be5a6f446db90ebc25c"
+    documentation="Proses penghitungan dan rekonsiliasi kas mesin ATM. Dilakukan secara manual oleh petugas kasir atau vendor ATM secara periodik.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationProcess>

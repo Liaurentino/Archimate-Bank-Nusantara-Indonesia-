@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM Switch System"
+    id="id-71b4f00516a14ecb9a48806e5402e89c"
+    documentation="Sistem yang memproses transaksi dari jaringan mesin ATM. Sinkronisasi saldo dengan CBS dilakukan melalui proses batch">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationComponent>

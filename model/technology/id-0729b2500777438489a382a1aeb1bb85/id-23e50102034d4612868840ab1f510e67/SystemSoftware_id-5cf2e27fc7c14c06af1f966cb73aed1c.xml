@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kong API Gateway Runtime"
+    id="id-5cf2e27fc7c14c06af1f966cb73aed1c"
+    documentation="Engine routing, auth, dan rate limiting API Gateway">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:SystemSoftware>

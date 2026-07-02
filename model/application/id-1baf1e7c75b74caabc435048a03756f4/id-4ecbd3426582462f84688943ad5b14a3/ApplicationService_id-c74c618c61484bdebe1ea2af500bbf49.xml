@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Investigation Support Service"
+    id="id-c74c618c61484bdebe1ea2af500bbf49"
+    documentation="Layanan penyediaan data transaksi historis untuk keperluan investigasi fraud. Bersifat reaktif; tidak memiliki kemampuan deteksi anomali otomatis.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationService>

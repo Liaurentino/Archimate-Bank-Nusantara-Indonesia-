@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a167ca4f5f0c441eac5d138b1cd29c88"
+    documentation="ATM Switch System turut merealisasikan layanan inquiry saldo melalui jaringan ATM.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71b4f00516a14ecb9a48806e5402e89c.xml#id-71b4f00516a14ecb9a48806e5402e89c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0389b34e163845eba3cbd474a66c2cf0.xml#id-0389b34e163845eba3cbd474a66c2cf0"/>
+</archimate:RealizationRelationship>

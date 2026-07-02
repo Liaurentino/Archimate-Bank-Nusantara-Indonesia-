@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eb99182b10c047a0a76ec112655620e9"
+    documentation="LOS membaca dan menulis Loan Application File sebagai data utama pengajuan kredit.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-750af9056c2742b099c5f553762ebd2e.xml#id-750af9056c2742b099c5f553762ebd2e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ecb4fe05ccfe44beaea37cd45b1f1303.xml#id-ecb4fe05ccfe44beaea37cd45b1f1303"/>
+</archimate:AccessRelationship>

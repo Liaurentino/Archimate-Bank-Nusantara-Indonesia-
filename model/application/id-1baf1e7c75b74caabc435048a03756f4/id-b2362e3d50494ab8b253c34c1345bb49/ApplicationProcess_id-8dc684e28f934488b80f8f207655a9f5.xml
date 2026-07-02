@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Access Provisioning Process"
+    id="id-8dc684e28f934488b80f8f207655a9f5"
+    documentation="Proses pemberian hak akses sistem kepada pengguna. Diajukan melalui formulir fisik dan dieksekusi manual oleh administrator IT.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationProcess>

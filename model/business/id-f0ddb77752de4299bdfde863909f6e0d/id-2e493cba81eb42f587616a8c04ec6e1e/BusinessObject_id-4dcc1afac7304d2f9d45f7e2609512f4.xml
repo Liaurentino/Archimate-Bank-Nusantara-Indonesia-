@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Profile"
+    id="id-4dcc1afac7304d2f9d45f7e2609512f4"
+    documentation="Elemen ini merepresentasikan objek data bisnis logis terintegrasi yang menyimpan sumber tunggal kebenaran informasi parameter identitas legal, biometrik terverifikasi, dan segmentasi nasabah BNI. Objek bisnis ini berinteraksi aktif secara lintas alur kerja melalui relasi Access yang dikelola oleh tiga proses inti perbankan. Proses Digital Customer Onboarding memiliki hak menulis data identitas baru nasabah pasca verifikasi, proses Account Lifecycle Management mengakses data profil nasabah untuk kebutuhan administrasi berkala, dan proses eksternal bank membacanya. Keberadaan objek data terpadu ini meminimalkan duplikasi data kependudukan dan mengeliminasi masalah repetisi pengisian formulir fisik tradisional nasabah. Nilai bisnis yang diberikan adalah perwujudan Single Customer View yang akurat untuk mendukung personalisasi layanan digital banking. Posisi elemen ini berada di landasan data operasional pada lapisan dasar arsitektur bisnis target BNI.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

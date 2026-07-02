@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Logbook"
+    id="id-bb00000000000022"
+    documentation="Buku log pengaduan manual yang mencatat keluhan nasabah secara tertulis. Tidak ada tracking SLA atau status penyelesaian otomatis.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessObject>

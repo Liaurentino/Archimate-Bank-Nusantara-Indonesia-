@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliverable 2 - CBS Microservices Platform"
+    id="id-87a442396f0e456f8c390a966cd5ebfc"
+    documentation="Hasil dari WP2.&#xA;&#xA;Core Banking System baru yang berjalan di atas Kubernetes dengan desain API-first dan kemampuan pemrosesan real-time. Menggantikan CBS monolitik lama.&#xA;&#xA;Merealisasikan: Target Architecture"/>

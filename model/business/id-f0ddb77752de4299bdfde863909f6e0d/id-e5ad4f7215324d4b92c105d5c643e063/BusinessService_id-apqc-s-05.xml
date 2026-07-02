@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Origination Service"
+    id="id-apqc-s-05"
+    documentation="Layanan bisnis penyediaan pengajuan pinjaman kredit digital terintegrasi untuk calon debitur.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Customer Service"
+    id="id-apqc-f06"
+    documentation="Fungsi bisnis yang mengelola penanganan layanan bantuan, penyelesaian komplain, serta pengukuran kepuasan nasabah.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessFunction>

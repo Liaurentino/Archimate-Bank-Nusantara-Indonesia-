@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Originate and Process Loan Application"
+    id="id-apqc-p-533"
+    documentation="Proses bisnis pendaftaran, pengunggahan berkas jaminan, dan validasi awal pengajuan kredit pinjaman digital.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

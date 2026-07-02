@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Log Artifact"
+    id="id-26f0f9c63cae4efdb5660e32fc5262af"
+    documentation="Representasi fisik antrian event di Apache Kafka">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Artifact>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Accounts"
+    id="id-apqc-p-531"
+    documentation="Proses bisnis pembukaan rekening baru yang melibatkan pengisian data, verifikasi KTP, dan penyetoran awal.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessProcess>

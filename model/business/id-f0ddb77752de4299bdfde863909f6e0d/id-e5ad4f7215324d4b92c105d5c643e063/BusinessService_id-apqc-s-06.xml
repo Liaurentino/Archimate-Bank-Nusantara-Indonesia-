@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eKYC Verification Service"
+    id="id-apqc-s-06"
+    documentation="Layanan bisnis penyedia verifikasi identitas nasabah secara digital yang terintegrasi dengan basis data DUKCAPIL.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

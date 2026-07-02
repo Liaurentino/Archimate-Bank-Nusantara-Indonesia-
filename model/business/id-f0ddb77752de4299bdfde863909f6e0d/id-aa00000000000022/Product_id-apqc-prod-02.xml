@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BNI KTA"
+    id="id-apqc-prod-02"
+    documentation="Produk kredit tanpa agunan digital untuk nasabah individu dengan pencairan cepat.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Product>

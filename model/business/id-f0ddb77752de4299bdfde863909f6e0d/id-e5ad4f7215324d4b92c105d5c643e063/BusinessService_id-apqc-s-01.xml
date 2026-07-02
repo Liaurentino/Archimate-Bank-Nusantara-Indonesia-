@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Portfolio Management Service"
+    id="id-apqc-s-01"
+    documentation="Layanan bisnis untuk memfasilitasi integrasi evaluasi portofolio produk secara efisien bagi unit pengembangan.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

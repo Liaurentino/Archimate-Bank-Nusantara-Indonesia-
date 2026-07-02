@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit &amp; Loan Service"
+    id="id-5d622c786d4b4f65809305296d7ed62d"
+    documentation="Elemen ini merepresentasikan layanan bisnis pembiayaan digital yang mengekspos kapabilitas pengajuan kredit pinjaman massal, penilaian risiko instan, hingga pencarian dana otomatis. Layanan finansial ini disediakan melalui relasi Serving untuk memenuhi ekspektasi kecepatan nasabah ber-role Loan Applicant. Operasional layanan ini didukung dan direalisasikan secara mutlak melalui relasi Realization oleh mesin proses Automated Credit Assessment berbasis kecerdasan buatan. Kontribusi strategisnya terhadap perbankan digital adalah mendemokratisasi akses pembiayaan pinjaman konsumer dan produktif UMKM secara efisien. Nilai bisnis yang diberikan adalah perluasan portofolio kredit retail bank dengan biaya operasional yang minimal serta memangkas proses birokrasi manual tradisional. Posisi layanan ini berada pada sub-layer layanan pembiayaan dalam struktur arsitektur bisnis Product Viewpoint perbankan digital BNI.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

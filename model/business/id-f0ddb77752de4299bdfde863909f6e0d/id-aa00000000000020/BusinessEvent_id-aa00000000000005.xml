@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Registration Completed"
+    id="id-aa00000000000005"
+    documentation="Event bisnis yang terjadi saat proses verifikasi identitas nasabah baru berhasil diselesaikan oleh sistem eKYC, memicu aktivasi akun secara otomatis.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Filer"
+    id="id-04f07dcc439441d7b715dfa25415772d"
+    documentation="Elemen ini merepresentasikan peran logis nasabah pada saat mengalami kendala operasional, kegagalan transaksi, atau membutuhkan resolusi masalah teknis pada ekosistem perbankan digital. Peran ini diaktifkan melalui relasi Assignment dari aktor eksternal Nasabah Ritel saat nasabah mengajukan keluhan resmi. Dalam ekosistem target, peran ini dilayani oleh Customer Care Service melalui relasi Serving untuk memastikan penanganan aduan berjalan sesuai standar kualitas perbankan. Operasional peran ini berhubungan langsung dengan proses bisnis internal Omnichannel Customer Service yang merekam kronologi log masalah ke dalam berkas aduan digital. Nilai bisnis utama yang diberikan adalah proteksi konsumen yang responsif serta perlindungan loyalitas nasabah dari dampak kegagalan sistem teknis. Posisi peran ini berada pada sub-layer manajemen keluhan nasabah dalam Organization Viewpoint, berfungsi sebagai sensor utama evaluasi kualitas layanan perbankan ujung-ke-ujung.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessRole>

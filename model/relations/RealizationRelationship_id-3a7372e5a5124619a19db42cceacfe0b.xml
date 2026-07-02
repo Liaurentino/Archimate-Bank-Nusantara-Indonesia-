@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3a7372e5a5124619a19db42cceacfe0b"
+    documentation="Infrastruktur server cadangan yang disiagakan di pusat data terpisah (DRC) untuk mengambil alih beban kerja sistem jika lingkungan produksi utama tidak berfungsi.">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4c775b8f968c42f8ba053ad1f7fcdafb.xml#id-4c775b8f968c42f8ba053ad1f7fcdafb"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-215e9bac0ded4cecbd639a2bc878366e.xml#id-215e9bac0ded4cecbd639a2bc878366e"/>
+</archimate:RealizationRelationship>

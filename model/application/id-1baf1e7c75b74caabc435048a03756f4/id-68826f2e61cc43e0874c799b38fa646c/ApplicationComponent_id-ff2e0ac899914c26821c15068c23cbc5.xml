@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teller Transaction System"
+    id="id-ff2e0ac899914c26821c15068c23cbc5"
+    documentation="Aplikasi desktop yang digunakan teller untuk memproses transaksi di konter cabang. Setiap transaksi diinput manual berdasarkan slip fisik dari nasabah.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationComponent>

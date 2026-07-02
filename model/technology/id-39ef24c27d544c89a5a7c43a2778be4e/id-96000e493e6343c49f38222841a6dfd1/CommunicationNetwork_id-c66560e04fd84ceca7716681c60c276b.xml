@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interbank Network (RTGS/Kliring)"
+    id="id-c66560e04fd84ceca7716681c60c276b"
+    documentation="Koneksi ke jaringan pembayaran antarbank melalui sistem RTGS dan Kliring nasional Bank Indonesia.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:CommunicationNetwork>

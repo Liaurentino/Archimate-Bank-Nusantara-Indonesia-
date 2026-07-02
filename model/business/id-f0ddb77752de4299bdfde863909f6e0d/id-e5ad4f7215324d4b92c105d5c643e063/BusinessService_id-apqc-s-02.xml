@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Intelligence Service"
+    id="id-apqc-s-02"
+    documentation="Layanan bisnis penyedia wawasan data segmentasi nasabah terpusat bagi aktivitas pemasaran digital BNI.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

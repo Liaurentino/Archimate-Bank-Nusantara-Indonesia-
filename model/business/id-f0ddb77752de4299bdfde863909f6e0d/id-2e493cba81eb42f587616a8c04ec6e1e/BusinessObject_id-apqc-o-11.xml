@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Agreement"
+    id="id-apqc-o-11"
+    documentation="Objek bisnis berupa dokumen perjanjian kontrak pinjaman kredit digital yang ditandatangani secara elektronik.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

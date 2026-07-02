@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CBS Microservices Platform"
+    id="id-8056fd17eee943729892b2a6b224f5c3">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:ApplicationComponent>

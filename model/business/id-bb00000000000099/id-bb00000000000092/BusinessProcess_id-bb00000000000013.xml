@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Customer Creditworthiness (Manual) (PCF 5.3.1.1)"
+    id="id-bb00000000000013"
+    documentation="Proses analisis kelayakan kredit manual oleh analis yang mereview dokumen fisik satu per satu. Memerlukan rapat komite kredit mingguan dengan SLA keputusan 5-14 hari kerja.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessProcess>

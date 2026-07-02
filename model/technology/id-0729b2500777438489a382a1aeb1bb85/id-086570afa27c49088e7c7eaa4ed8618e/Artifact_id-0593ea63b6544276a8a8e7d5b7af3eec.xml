@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KYC and Biometric Record Artifact"
+    id="id-0593ea63b6544276a8a8e7d5b7af3eec"
+    documentation="Representasi fisik penyimpanan eKYC Verification Record">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Artifact>

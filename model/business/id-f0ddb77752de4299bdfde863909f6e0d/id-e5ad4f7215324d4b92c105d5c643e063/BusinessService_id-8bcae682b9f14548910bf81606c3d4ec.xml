@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Care Service"
+    id="id-8bcae682b9f14548910bf81606c3d4ec"
+    documentation="Elemen ini merepresentasikan layanan bisnis pengelolaan hubungan pelanggan yang mengekspos kapabilitas bantuan informasi, manajemen loyalitas, dan resolusi aduan nasabah terintegrasi. Layanan omnichannel ini melayani peran nasabah Complaint Filer dan Service Requester secara simultan melalui relasi Serving lintas saluran komunikasi. Kapabilitas layanan ini direalisasikan secara sistematis via relasi Realization oleh mesin proses Omnichannel Customer Service terpusat. Kontribusinya terwujud dalam penyediaan standardisasi penyelesaian kendala teknis transaksi nasabah digital secara konsisten dan transparan. Nilai bisnis yang dihadirkan adalah penguatan loyalitas nasabah ritel, minimalisasi churn rate nasabah, dan kepatuhan penuh terhadap POJK perlindungan konsumen. Posisi layanan ini berada pada ranah manajemen kepuasan dalam lapisan arsitektur bisnis Product Viewpoint perbankan digital.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Satisfaction Score"
+    id="id-apqc-o-10"
+    documentation="Objek bisnis yang merekam indeks kepuasan nasabah (CSAT/NPS) hasil dari kuesioner layanan digital.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

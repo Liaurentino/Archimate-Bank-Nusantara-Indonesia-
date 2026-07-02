@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="               Plateau 2:                 Transition Architecture     (eKYC live, CBS parallel running, fraud pilot)"
+    id="id-076f26d5487b47e880dd5749ff658969"
+    documentation="Kondisi antara yang dicapai pada akhir pada bulan ke-6 (TW2). eKYC digital sudah live di BNI Super App, CBS baru berjalan paralel dengan CBS lama, dan fraud detection dalam tahap pilot 10% transaksi. GAP-1 sudah terselesaikan di kondisi ini."/>

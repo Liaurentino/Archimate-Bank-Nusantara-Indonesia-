@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification &amp; Alert Service"
+    id="id-f5b0b28755e247129f3fe4722bdd48cf">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:ApplicationComponent>

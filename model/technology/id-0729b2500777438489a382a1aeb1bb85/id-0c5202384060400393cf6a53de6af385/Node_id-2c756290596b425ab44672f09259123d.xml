@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BI-FAST / RTGS External Node"
+    id="id-2c756290596b425ab44672f09259123d"
+    documentation="Node eksternal milik Bank Indonesia untuk settlement">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Node>

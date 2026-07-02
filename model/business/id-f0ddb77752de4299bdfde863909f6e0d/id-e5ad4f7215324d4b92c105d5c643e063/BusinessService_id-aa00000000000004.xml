@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Security Service"
+    id="id-aa00000000000004"
+    documentation="Layanan bisnis keamanan transaksional yang mengekspos kapabilitas deteksi fraud real-time, validasi anomali transaksi, dan perlindungan dana nasabah dari kejahatan siber secara proaktif.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

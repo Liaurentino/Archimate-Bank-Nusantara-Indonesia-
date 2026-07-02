@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan Application Processing Service"
+    id="id-17a04a72ecf74f0ea754a27f7647e909"
+    documentation="Layanan penerimaan dan pemrosesan pengajuan kredit. Pengajuan dilakukan melalui formulir kertas; tidak mendukung penilaian risiko otomatis.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationService>

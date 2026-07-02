@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Record"
+    id="id-4b108e5d52a943229ce88237055b85ae"
+    documentation="Catatan pengaduan nasabah di Call Center Application. Tidak terintegrasi dengan CBS; riwayat dapat hilang jika nasabah berpindah kanal.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:DataObject>

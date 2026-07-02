@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bec791d4e4c7449ca368653563fb78cb"
+    documentation="Sistem kredit memproses penilaian di alur pengajuan">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-018b415bd63c43c78d403e3a9b133b75.xml#id-018b415bd63c43c78d403e3a9b133b75"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-12df1984a67b4852a7c175d363804de2.xml#id-12df1984a67b4852a7c175d363804de2"/>
+</archimate:ServingRelationship>

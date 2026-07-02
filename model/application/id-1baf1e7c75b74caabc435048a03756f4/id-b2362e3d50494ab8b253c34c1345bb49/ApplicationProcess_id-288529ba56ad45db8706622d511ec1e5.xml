@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodic System Report Generation Process"
+    id="id-288529ba56ad45db8706622d511ec1e5"
+    documentation="Proses pembuatan laporan operasional dan keuangan secara berkala dari data hasil batch CBS.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationProcess>

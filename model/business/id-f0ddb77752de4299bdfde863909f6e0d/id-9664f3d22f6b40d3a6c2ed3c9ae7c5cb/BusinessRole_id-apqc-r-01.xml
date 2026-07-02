@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investor"
+    id="id-apqc-r-01"
+    documentation="Peran bisnis pihak ketiga yang menyuntikkan modal pembiayaan melalui platform pinjaman digital.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute and Record Transactions (Manual) (PCF 5.3.2.4)"
+    id="id-bb00000000000012"
+    documentation="Proses transaksi tunai dan non-tunai melalui konter teller menggunakan slip setoran/penarikan fisik. Terbatas pada jam operasional cabang.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessProcess>

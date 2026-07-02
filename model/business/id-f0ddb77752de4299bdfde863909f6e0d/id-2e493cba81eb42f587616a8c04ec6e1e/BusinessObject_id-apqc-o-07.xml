@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit Scoring Result"
+    id="id-apqc-o-07"
+    documentation="Objek bisnis yang menyimpan skor kelayakan kredit calon debitur berdasarkan penilaian otomatis AI.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

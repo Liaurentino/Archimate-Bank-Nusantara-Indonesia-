@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tape Backup Device"
+    id="id-95a00eca82674332aa28d9960e76bfa3"
+    documentation="Perangkat backup berbasis pita magnetik untuk pencadangan data harian setelah batch selesai.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:Device>

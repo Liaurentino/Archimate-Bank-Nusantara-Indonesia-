@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Log"
+    id="id-50824725db8c49529acd8e23b5fbf5e3-tobe">
+  <properties
+      key="DuplicateResolution"
+      value="Separated from AS-IS element because same name is reused in TO-BE context"/>
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:DataObject>

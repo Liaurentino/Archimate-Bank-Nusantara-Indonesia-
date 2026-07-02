@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Master Data"
+    id="id-0a3d4363a1524c63bc2152857fc86c8f-tobe">
+  <properties
+      key="DuplicateResolution"
+      value="Separated from AS-IS element because same name is reused in TO-BE context"/>
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Phone-based Support Service"
+    id="id-bb00000000000026"
+    documentation="Layanan bantuan dan pengaduan nasabah melalui telepon call center yang tidak terintegrasi dengan sistem CBS. Riwayat interaksi tidak tersimpan lintas kanal.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessService>

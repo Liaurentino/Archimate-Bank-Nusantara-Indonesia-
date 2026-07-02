@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UMKM Customer"
+    id="id-apqc-r-02"
+    documentation="Peran bisnis nasabah pelaku usaha mikro, kecil, dan menengah yang memanfaatkan layanan kredit wirausaha.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessRole>

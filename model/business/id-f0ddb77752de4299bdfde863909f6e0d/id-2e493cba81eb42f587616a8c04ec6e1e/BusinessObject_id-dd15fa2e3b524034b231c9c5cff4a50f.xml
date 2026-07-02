@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Record"
+    id="id-dd15fa2e3b524034b231c9c5cff4a50f"
+    documentation="Elemen ini merepresentasikan objek data bisnis logis yang menyimpan detail log audit transaksi keuangan nasabah, mencakup stempel waktu milidetik, lokasi IP, akun pengirim, akun penerima, nominal dana, dan kode respons kliring. Entitas informasi kritis ini dikelola secara simultan melalui relasi Access lintas aktivitas perbankan. Proses Payment &amp; Settlement Processing bertindak sebagai produsen data yang menulis log transaksi baru, sedangkan proses Real-time Transaction Monitoring bertindak sebagai konsumen yang membaca data tersebut secara in-flight guna mendeteksi anomali fraud. Objek data ini menjadi fondasi utama audit keamanan finansial bank BNI. Nilai bisnis yang diberikan adalah penyediaan rekam jejak mutasi finansial yang sah, transparan, tak terbantahkan, dan siaga penuh untuk melindungi bank dari risiko sengketa transaksi nasabah digital banking. Posisi elemen ini berada di lapisan dasar infrastruktur data transaksional arsitektur bisnis perbankan.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

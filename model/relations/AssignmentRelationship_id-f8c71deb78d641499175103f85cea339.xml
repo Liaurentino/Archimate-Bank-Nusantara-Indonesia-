@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f8c71deb78d641499175103f85cea339"
+    documentation="Tim teknis mengembangkan dan mengelola solusi credit scoring berbasis AI.">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-b5e980068d854f9ab61bbf379eaab62c.xml#id-b5e980068d854f9ab61bbf379eaab62c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-190449a29d284a7793feb7ffb572f76f.xml#id-190449a29d284a7793feb7ffb572f76f"/>
+</archimate:AssignmentRelationship>

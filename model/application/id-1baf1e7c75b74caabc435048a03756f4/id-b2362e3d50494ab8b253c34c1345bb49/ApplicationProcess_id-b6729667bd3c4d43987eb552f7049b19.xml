@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Transaction Reconciliation Process"
+    id="id-b6729667bd3c4d43987eb552f7049b19"
+    documentation="Proses rekonsiliasi transaksi harian yang berjalan otomatis terjadwal setiap akhir hari kerja.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationProcess>

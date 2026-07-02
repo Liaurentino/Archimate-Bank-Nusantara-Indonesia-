@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BNI Taplus"
+    id="id-apqc-prod-01"
+    documentation="Produk tabungan utama BNI yang terhubung ke layanan kartu debit digital dan transaksi BNI Mobile Banking.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Product>

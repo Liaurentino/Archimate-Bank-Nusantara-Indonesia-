@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Onboarding Service"
+    id="id-bddbe1bd106f403fbf46c0d4c2098c7f"
+    documentation="Elemen ini merepresentasikan layanan bisnis garis depan yang mengekspos kapabilitas pembukaan rekening baru secara mandiri, instan, dan full-digital tanpa kewajiban kehadiran fisik nasabah di cabang. Layanan terpadu ini diarahkan via relasi Serving untuk melayani peran Prospective Customer secara langsung di saluran seluler. Fondasi operasional layanan ini direalisasikan secara vertikal melalui relasi Realization oleh dua proses bisnis inti, yaitu Digital Customer Onboarding dan Set Up and Activate an Account. Kontribusinya sangat kritikal sebagai entry point utama seluruh ekosistem digital banking BNI dalam merekrut basis nasabah baru secara eksponensial. Nilai bisnis yang diberikan adalah pemangkasan cycle time pembukaan rekening dari hitungan jam menjadi menit, yang mendongkrak efisiensi efisiensi biaya akuisisi nasabah. Posisi layanan ini berada pada lapisan depan touchpoint bisnis dalam struktur Product Viewpoint perbankan digital.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

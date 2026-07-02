@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discovery Research Report"
+    id="id-apqc-o-02"
+    documentation="Objek bisnis berupa laporan hasil riset pasar dan kebutuhan konsumen digital untuk memandu inisiasi produk baru.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

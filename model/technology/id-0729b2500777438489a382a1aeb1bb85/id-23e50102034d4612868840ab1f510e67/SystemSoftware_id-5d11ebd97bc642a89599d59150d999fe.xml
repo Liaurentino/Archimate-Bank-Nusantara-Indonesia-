@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TensorFlow / Scikit-learn Runtime"
+    id="id-5d11ebd97bc642a89599d59150d999fe"
+    documentation="Engine eksekusi model AI fraud detection dan credit scoring">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:SystemSoftware>

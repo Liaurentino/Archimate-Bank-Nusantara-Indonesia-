@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint Recording Service"
+    id="id-9349d47f39c548a990ed18559633ca97"
+    documentation="Layanan pencatatan pengaduan nasabah. Dicatat manual oleh petugas CS atau agen call center tanpa tracking status otomatis.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationService>

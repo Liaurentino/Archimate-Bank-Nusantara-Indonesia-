@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eKYC Verification Result"
+    id="id-apqc-o-08"
+    documentation="Objek bisnis yang menyimpan hasil verifikasi identitas nasabah secara digital menggunakan biometrik dan data KTP.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessObject>

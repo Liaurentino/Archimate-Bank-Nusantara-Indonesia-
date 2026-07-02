@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Officer"
+    id="id-d7c63a2bad3945819402d3e38d3ac21e-tobe"
+    documentation="Elemen ini merepresentasikan aktor bisnis internal bank yang mengemban otoritas pengawasan kepatuhan regulasi makro, kebijakan anti pencucian uang, dan mitigasi risiko fraud keuangan. Aktor ini disatukan ke dalam komponen Fraud &amp; Credit Review Committee melalui relasi Aggregation untuk menangani eskalasi anomali transaksi berisiko tinggi. Selain itu, aktor ini terikat via relasi Association langsung dengan proses Real-time Transaction Monitoring guna mengawasi dan menyelaraskan aturan deteksi kecurangan sistem dengan POJK serta regulasi Bank Indonesia. Peran aktif aktor ini memastikan seluruh layanan digital banking berjalan di atas koridor hukum yang sah tanpa mengorbankan kecepatan transaksi nasabah. Nilai bisnis yang diberikan adalah perlindungan reputasi bank dari sanksi hukum otoritas keuangan dan minimalisasi kerugian finansial akibat serangan kejahatan siber. Posisi aktor ini berada pada garda pertahanan kepatuhan internal dalam lapisan arsitektur bisnis organisasi perbankan digital.  ">
+  <properties
+      key="DuplicateResolution"
+      value="Separated from AS-IS element because same name is reused in TO-BE context"/>
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessActor>

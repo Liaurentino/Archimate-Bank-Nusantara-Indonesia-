@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Registration Service"
+    id="id-78302d6964fe4ab1aaa66caedbc67a31"
+    documentation="Layanan pendaftaran nasabah baru. Dilakukan manual oleh petugas CS di cabang melalui formulir fisik dan verifikasi tatap muka.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationService>

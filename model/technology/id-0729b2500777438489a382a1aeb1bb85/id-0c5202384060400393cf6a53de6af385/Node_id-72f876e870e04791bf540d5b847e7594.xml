@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disaster Recovery Node"
+    id="id-72f876e870e04791bf540d5b847e7594"
+    documentation="Infrastruktur server cadangan yang disiagakan di pusat data terpisah (DRC) untuk mengambil alih beban kerja sistem jika lingkungan produksi utama tidak berfungsi.">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Node>

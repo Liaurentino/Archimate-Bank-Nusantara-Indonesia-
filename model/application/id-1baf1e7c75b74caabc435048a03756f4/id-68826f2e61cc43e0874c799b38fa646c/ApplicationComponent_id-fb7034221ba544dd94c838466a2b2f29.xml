@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Office Application"
+    id="id-fb7034221ba544dd94c838466a2b2f29"
+    documentation="Aplikasi operasional harian kantor cabang untuk pembukaan rekening dan input data nasabah. Sinkronisasi dengan server pusat dilakukan secara periodik, bukan real-time.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:ApplicationComponent>

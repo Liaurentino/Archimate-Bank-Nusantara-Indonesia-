@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dd8c617bab6142c6a1ef432825b28253"
+    documentation="Batch Reconciliation System merealisasikan proses rekonsiliasi transaksi harian terjadwal.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f8312733dc5c4a2e9df25737a6528669.xml#id-f8312733dc5c4a2e9df25737a6528669"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-b6729667bd3c4d43987eb552f7049b19.xml#id-b6729667bd3c4d43987eb552f7049b19"/>
+</archimate:RealizationRelationship>

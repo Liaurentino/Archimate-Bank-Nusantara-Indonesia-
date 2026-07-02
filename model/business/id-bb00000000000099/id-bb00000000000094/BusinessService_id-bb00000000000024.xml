@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teller Transaction Service"
+    id="id-bb00000000000024"
+    documentation="Layanan transaksi tunai dan non-tunai melalui konter teller cabang. Terbatas jam operasional dan memerlukan antrian fisik.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessService>

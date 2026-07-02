@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paper Loan Application"
+    id="id-bb00000000000021"
+    documentation="Berkas map pengajuan kredit fisik berisi formulir aplikasi, slip gaji, dan dokumen pendukung kertas. Memenuhi ruang arsip cabang.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessObject>

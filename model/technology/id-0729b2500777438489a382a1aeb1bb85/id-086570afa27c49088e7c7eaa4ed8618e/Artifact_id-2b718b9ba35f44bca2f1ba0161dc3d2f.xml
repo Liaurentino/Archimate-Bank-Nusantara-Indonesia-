@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Ticket Artifact"
+    id="id-2b718b9ba35f44bca2f1ba0161dc3d2f"
+    documentation="Representasi fisik penyimpanan tiket layanan dan keluhan">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:Artifact>

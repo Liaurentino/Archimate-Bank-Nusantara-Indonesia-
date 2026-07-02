@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Customer Inquiries (Branch) (PCF 6.1.1)"
+    id="id-bb00000000000014"
+    documentation="Proses layanan pelanggan tatap muka di cabang untuk informasi produk, perubahan data, dan cetak rekening koran. Nasabah harus hadir fisik.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessProcess>

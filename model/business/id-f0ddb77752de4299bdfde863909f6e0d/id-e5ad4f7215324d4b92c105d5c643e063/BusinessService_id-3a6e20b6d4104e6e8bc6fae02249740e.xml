@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Service"
+    id="id-3a6e20b6d4104e6e8bc6fae02249740e"
+    documentation="Elemen ini merepresentasikan layanan bisnis transaksional utama yang mengekspos kapabilitas pemindahan dana finansial, pembayaran merchant, dan kliring antar-bank secara instan. Layanan ini diekspos melalui relasi Serving untuk memfasilitasi kebutuhan transaksional nasabah aktif yang memegang peran sebagai Account Holder. Eksekusi fungsionalitas layanan ini direalisasikan penuh melalui relasi Realization oleh proses bisnis Payment &amp; Settlement Processing yang terhubung dengan gerbang kliring nasional BI-FAST. Kontribusinya dalam perbankan digital adalah menjamin ketersediaan transaksi keuangan yang aman, instan, berkelanjutan, dan siaga penuh 24/7 bagi nasabah. Nilai bisnis yang dihadirkan adalah peningkatan volume transaksi harian nasabah yang berbanding lurus dengan pertumbuhan fee-based income bank BNI. Posisi layanan ini berada pada klaster transaksional finansial di dalam lapisan Product Viewpoint arsitektur bisnis target.  ">
+  <properties
+      key="Lifecycle"
+      value="TO-BE"/>
+</archimate:BusinessService>

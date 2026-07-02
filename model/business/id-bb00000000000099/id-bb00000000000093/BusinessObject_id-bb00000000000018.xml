@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paper Customer Form"
+    id="id-bb00000000000018"
+    documentation="Formulir CIF kertas berisi data identitas nasabah, fotokopi KTP, dan tanda tangan basah. Rawan hilang dan duplikasi data.">
+  <properties
+      key="Lifecycle"
+      value="AS-IS"/>
+</archimate:BusinessObject>
